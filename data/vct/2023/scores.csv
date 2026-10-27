@@ -1,0 +1,332 @@
+Tournament,Stage,Match Type,Match Name,Team A,Team B,Team A Score,Team B Score,Match Result
+Valorant Champions 2023,Group Stage,Opening (D),Team Liquid vs Natus Vincere,Team Liquid,Natus Vincere,0,2,Natus Vincere won
+Valorant Champions 2023,Group Stage,Opening (D),DRX vs LOUD,DRX,LOUD,2,1,DRX won
+Valorant Champions 2023,Group Stage,Opening (B),FUT Esports vs T1,FUT Esports,T1,2,0,FUT Esports won
+Valorant Champions 2023,Group Stage,Opening (B),Evil Geniuses vs FunPlus Phoenix,Evil Geniuses,FunPlus Phoenix,2,0,Evil Geniuses won
+Valorant Champions 2023,Group Stage,Winner's (D),Natus Vincere vs DRX,Natus Vincere,DRX,1,2,DRX won
+Valorant Champions 2023,Group Stage,Opening (C),NRG Esports vs Bilibili Gaming,NRG Esports,Bilibili Gaming,0,2,Bilibili Gaming won
+Valorant Champions 2023,Group Stage,Opening (C),FNATIC vs ZETA DIVISION,FNATIC,ZETA DIVISION,2,0,FNATIC won
+Valorant Champions 2023,Group Stage,Winner's (B),Evil Geniuses vs FUT Esports,Evil Geniuses,FUT Esports,2,0,Evil Geniuses won
+Valorant Champions 2023,Group Stage,Opening (A),Paper Rex vs KRÜ Esports,Paper Rex,KRÜ Esports,2,0,Paper Rex won
+Valorant Champions 2023,Group Stage,Opening (A),EDward Gaming vs Giants Gaming,EDward Gaming,Giants Gaming,2,1,EDward Gaming won
+Valorant Champions 2023,Group Stage,Winner's (C),FNATIC vs Bilibili Gaming,FNATIC,Bilibili Gaming,2,0,FNATIC won
+Valorant Champions 2023,Group Stage,Elimination (D),Team Liquid vs LOUD,Team Liquid,LOUD,0,2,LOUD won
+Valorant Champions 2023,Group Stage,Elimination (B),FunPlus Phoenix vs T1,FunPlus Phoenix,T1,0,2,T1 won
+Valorant Champions 2023,Group Stage,Winner's (A),Paper Rex vs EDward Gaming,Paper Rex,EDward Gaming,2,0,Paper Rex won
+Valorant Champions 2023,Group Stage,Elimination (A),KRÜ Esports vs Giants Gaming,KRÜ Esports,Giants Gaming,0,2,Giants Gaming won
+Valorant Champions 2023,Group Stage,Elimination (C),ZETA DIVISION vs NRG Esports,ZETA DIVISION,NRG Esports,0,2,NRG Esports won
+Valorant Champions 2023,Group Stage,Decider (D),Natus Vincere vs LOUD,Natus Vincere,LOUD,1,2,LOUD won
+Valorant Champions 2023,Group Stage,Decider (B),FUT Esports vs T1,FUT Esports,T1,2,0,FUT Esports won
+Valorant Champions 2023,Group Stage,Decider (A),EDward Gaming vs Giants Gaming,EDward Gaming,Giants Gaming,2,0,EDward Gaming won
+Valorant Champions 2023,Group Stage,Decider (C),Bilibili Gaming vs NRG Esports,Bilibili Gaming,NRG Esports,2,0,Bilibili Gaming won
+Valorant Champions 2023,Playoffs,Upper Quarterfinals,FNATIC vs LOUD,FNATIC,LOUD,0,2,LOUD won
+Valorant Champions 2023,Playoffs,Upper Quarterfinals,Paper Rex vs FUT Esports,Paper Rex,FUT Esports,2,0,Paper Rex won
+Valorant Champions 2023,Playoffs,Upper Quarterfinals,DRX vs Bilibili Gaming,DRX,Bilibili Gaming,2,0,DRX won
+Valorant Champions 2023,Playoffs,Upper Quarterfinals,Evil Geniuses vs EDward Gaming,Evil Geniuses,EDward Gaming,2,1,Evil Geniuses won
+Valorant Champions 2023,Playoffs,Lower Round 1,FNATIC vs FUT Esports,FNATIC,FUT Esports,2,0,FNATIC won
+Valorant Champions 2023,Playoffs,Lower Round 1,Bilibili Gaming vs EDward Gaming,Bilibili Gaming,EDward Gaming,1,2,EDward Gaming won
+Valorant Champions 2023,Playoffs,Upper Semifinals,LOUD vs Paper Rex,LOUD,Paper Rex,1,2,Paper Rex won
+Valorant Champions 2023,Playoffs,Upper Semifinals,DRX vs Evil Geniuses,DRX,Evil Geniuses,0,2,Evil Geniuses won
+Valorant Champions 2023,Playoffs,Lower Round 2,LOUD vs EDward Gaming,LOUD,EDward Gaming,2,1,LOUD won
+Valorant Champions 2023,Playoffs,Lower Round 2,DRX vs FNATIC,DRX,FNATIC,1,2,FNATIC won
+Valorant Champions 2023,Playoffs,Upper Final,Paper Rex vs Evil Geniuses,Paper Rex,Evil Geniuses,2,1,Paper Rex won
+Valorant Champions 2023,Playoffs,Lower Round 3,FNATIC vs LOUD,FNATIC,LOUD,1,2,LOUD won
+Valorant Champions 2023,Playoffs,Lower Final,Evil Geniuses vs LOUD,Evil Geniuses,LOUD,3,2,Evil Geniuses won
+Valorant Champions 2023,Playoffs,Grand Final,Paper Rex vs Evil Geniuses,Paper Rex,Evil Geniuses,1,3,Evil Geniuses won
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Round 1,MIBR vs KRÜ Esports,MIBR,KRÜ Esports,0,2,KRÜ Esports won
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Quarterfinals,FURIA vs KRÜ Esports,FURIA,KRÜ Esports,1,2,KRÜ Esports won
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Quarterfinals,Sentinels vs 100 Thieves,Sentinels,100 Thieves,2,1,Sentinels won
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Semifinals,Cloud9 vs Sentinels,Cloud9,Sentinels,2,1,Cloud9 won
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Semifinals,LEVIATÁN vs KRÜ Esports,LEVIATÁN,KRÜ Esports,0,2,KRÜ Esports won
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Final,Cloud9 vs KRÜ Esports,Cloud9,KRÜ Esports,1,2,KRÜ Esports won
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Lower Round 1,Sentinels vs LEVIATÁN,Sentinels,LEVIATÁN,0,2,Leviatán won
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Lower Final,Cloud9 vs LEVIATÁN,Cloud9,LEVIATÁN,2,3,Leviatán won
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Grand Final,KRÜ Esports vs LEVIATÁN,KRÜ Esports,LEVIATÁN,3,1,KRÜ Esports won
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Knockout Round,Team Heretics vs KOI,Team Heretics,KOI,1,2,KOI won
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Knockout Round,BBL Esports vs Karmine Corp,BBL Esports,Karmine Corp,1,2,Karmine Corp won
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Upper Semifinals,Natus Vincere vs KOI,Natus Vincere,KOI,0,2,KOI won
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Upper Semifinals,Giants Gaming vs Karmine Corp,Giants Gaming,Karmine Corp,2,0,Giants Gaming won
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Upper Final,KOI vs Giants Gaming,KOI,Giants Gaming,0,2,Giants Gaming won
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Lower Round 1,Natus Vincere vs Karmine Corp,Natus Vincere,Karmine Corp,2,1,Natus Vincere won
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Lower Final,KOI vs Natus Vincere,KOI,Natus Vincere,0,3,Natus Vincere won
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Grand Final,Giants Gaming vs Natus Vincere,Giants Gaming,Natus Vincere,3,0,Giants Gaming won
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Upper Round 1,Talon Esports vs DetonatioN FocusMe,Talon Esports,DetonatioN FocusMe,2,0,Talon Esports won
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Upper Quarterfinals,Rex Regum Qeon vs Global Esports,Rex Regum Qeon,Global Esports,2,0,Rex Regum Qeon won
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Upper Quarterfinals,Gen.G vs Talon Esports,Gen.G,Talon Esports,2,1,Gen.G won
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Upper Semifinals,ZETA DIVISION vs Rex Regum Qeon,ZETA DIVISION,Rex Regum Qeon,2,1,ZETA DIVISION won
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Upper Semifinals,Team Secret vs Gen.G,Team Secret,Gen.G,2,0,Team Secret won
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Upper Final,ZETA DIVISION vs Team Secret,ZETA DIVISION,Team Secret,2,0,ZETA DIVISION won
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Lower Round 1,Rex Regum Qeon vs Gen.G,Rex Regum Qeon,Gen.G,1,2,Gen.G won
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Lower Final,Team Secret vs Gen.G,Team Secret,Gen.G,3,1,Team Secret won
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Grand Final,ZETA DIVISION vs Team Secret,ZETA DIVISION,Team Secret,3,1,ZETA DIVISION won
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,Weibo Gaming vs Totoro Gaming,Weibo Gaming,Totoro Gaming,0,2,Totoro Gaming won
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,Number One Player vs Douyu Gaming,Number One Player,Douyu Gaming,0,2,Douyu Gaming won
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,Gank Gaming vs Royal Never Give Up,Gank Gaming,Royal Never Give Up,1,2,Royal Never Give Up won
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,Four Angry Men vs Night Wings Gaming,Four Angry Men,Night Wings Gaming,1,2,Night Wings Gaming won
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,Invincible Gaming vs Nova Esports,Invincible Gaming,Nova Esports,0,2,Nova Esports won
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,TYLOO vs Monarch Effect,TYLOO,Monarch Effect,2,1,TYLOO won
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,Shenzhen NTER vs Kingzone,Shenzhen NTER,Kingzone,2,0,Shenzhen NTER won
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,Dragon Ranger Gaming vs Rare Atom,Dragon Ranger Gaming,Rare Atom,2,1,Dragon Ranger Gaming won
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 2,Totoro Gaming vs Shenzhen NTER,Totoro Gaming,Shenzhen NTER,2,0,Totoro Gaming won
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 2,Dragon Ranger Gaming vs Royal Never Give Up,Dragon Ranger Gaming,Royal Never Give Up,2,0,Dragon Ranger Gaming won
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 2,Nova Esports vs TYLOO,Nova Esports,TYLOO,0,2,TYLOO won
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 2,Night Wings Gaming vs Douyu Gaming,Night Wings Gaming,Douyu Gaming,0,2,Douyu Gaming won
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 2,Gank Gaming vs Invincible Gaming,Gank Gaming,Invincible Gaming,2,0,Gank Gaming won
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 2,Number One Player vs Kingzone,Number One Player,Kingzone,2,0,Number One Player won
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 2,Weibo Gaming vs Four Angry Men,Weibo Gaming,Four Angry Men,2,1,Weibo Gaming won
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 2,Rare Atom vs Monarch Effect,Rare Atom,Monarch Effect,1,2,Monarch Effect won
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 3,Weibo Gaming vs Shenzhen NTER,Weibo Gaming,Shenzhen NTER,2,0,Weibo Gaming won
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 3,Royal Never Give Up vs Nova Esports,Royal Never Give Up,Nova Esports,2,1,Royal Never Give Up won
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 3,Night Wings Gaming vs Gank Gaming,Night Wings Gaming,Gank Gaming,2,0,Night Wings Gaming won
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 3,Number One Player vs Monarch Effect,Number One Player,Monarch Effect,1,2,Monarch Effect won
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 3,Totoro Gaming vs Douyu Gaming,Totoro Gaming,Douyu Gaming,2,0,Totoro Gaming won
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 3,Kingzone vs Four Angry Men,Kingzone,Four Angry Men,0,2,Four Angry Men won
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 3,Invincible Gaming vs Rare Atom,Invincible Gaming,Rare Atom,2,0,Invincible Gaming won
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 3,Dragon Ranger Gaming vs TYLOO,Dragon Ranger Gaming,TYLOO,0,2,TYLOO won
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 4,Weibo Gaming vs Night Wings Gaming,Weibo Gaming,Night Wings Gaming,2,0,Weibo Gaming won
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 4,Four Angry Men vs Invincible Gaming,Four Angry Men,Invincible Gaming,2,1,Four Angry Men won
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 4,Douyu Gaming vs Royal Never Give Up,Douyu Gaming,Royal Never Give Up,0,2,Royal Never Give Up won
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 4,Nova Esports vs Gank Gaming,Nova Esports,Gank Gaming,1,2,Gank Gaming won
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 4,Dragon Ranger Gaming vs Monarch Effect,Dragon Ranger Gaming,Monarch Effect,1,2,Monarch Effect won
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 4,Shenzhen NTER vs Number One Player,Shenzhen NTER,Number One Player,2,0,Shenzhen NTER won
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 5,Night Wings Gaming vs Shenzhen NTER,Night Wings Gaming,Shenzhen NTER,1,2,Shenzhen NTER won
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 5,Gank Gaming vs Four Angry Men,Gank Gaming,Four Angry Men,1,2,Four Angry Men won
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 5,Dragon Ranger Gaming vs Douyu Gaming,Dragon Ranger Gaming,Douyu Gaming,2,0,Dragon Ranger Gaming won
+Champions Tour 2023: Champions China Qualifier,Playoffs,Knockout Round,Trace Esports vs Four Angry Men,Trace Esports,Four Angry Men,2,0,Trace Esports won
+Champions Tour 2023: Champions China Qualifier,Playoffs,Knockout Round,Monarch Effect vs Royal Never Give Up,Monarch Effect,Royal Never Give Up,2,1,Monarch Effect won
+Champions Tour 2023: Champions China Qualifier,Playoffs,Knockout Round,TYLOO vs Shenzhen NTER,TYLOO,Shenzhen NTER,2,0,TYLOO won
+Champions Tour 2023: Champions China Qualifier,Playoffs,Knockout Round,Weibo Gaming vs Dragon Ranger Gaming,Weibo Gaming,Dragon Ranger Gaming,2,1,Weibo Gaming won
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Quarterfinals,Attacking Soul Esports vs Trace Esports,Attacking Soul Esports,Trace Esports,1,2,Trace Esports won
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Quarterfinals,Bilibili Gaming vs Monarch Effect,Bilibili Gaming,Monarch Effect,2,0,Bilibili Gaming won
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Quarterfinals,FunPlus Phoenix vs TYLOO,FunPlus Phoenix,TYLOO,0,2,TYLOO won
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Quarterfinals,EDward Gaming vs Weibo Gaming,EDward Gaming,Weibo Gaming,2,0,EDward Gaming won
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Round 1,Attacking Soul Esports vs Monarch Effect,Attacking Soul Esports,Monarch Effect,2,0,Attacking Soul Esports won
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Round 1,FunPlus Phoenix vs Weibo Gaming,FunPlus Phoenix,Weibo Gaming,2,0,FunPlus Phoenix won
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Semifinals,Trace Esports vs Bilibili Gaming,Trace Esports,Bilibili Gaming,0,3,Bilibili Gaming won
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Semifinals,TYLOO vs EDward Gaming,TYLOO,EDward Gaming,0,3,EDward Gaming won
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Round 2,Trace Esports vs FunPlus Phoenix,Trace Esports,FunPlus Phoenix,1,2,FunPlus Phoenix won
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Round 2,TYLOO vs Attacking Soul Esports,TYLOO,Attacking Soul Esports,2,1,TYLOO won
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Final,Bilibili Gaming vs EDward Gaming,Bilibili Gaming,EDward Gaming,0,3,EDward Gaming won
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Round 3,TYLOO vs FunPlus Phoenix,TYLOO,FunPlus Phoenix,1,3,FunPlus Phoenix won
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Final,Bilibili Gaming vs FunPlus Phoenix,Bilibili Gaming,FunPlus Phoenix,3,2,Bilibili Gaming won
+Champions Tour 2023: Champions China Qualifier,Playoffs,Grand Final,EDward Gaming vs Bilibili Gaming,EDward Gaming,Bilibili Gaming,3,1,EDward Gaming won
+Champions Tour 2023: Masters Tokyo,Group Stage,Opening (B),FUT Esports vs Evil Geniuses,FUT Esports,Evil Geniuses,0,2,Evil Geniuses won
+Champions Tour 2023: Masters Tokyo,Group Stage,Opening (B),DRX vs Attacking Soul Esports,DRX,Attacking Soul Esports,2,0,DRX won
+Champions Tour 2023: Masters Tokyo,Group Stage,Opening (A),EDward Gaming vs T1,EDward Gaming,T1,1,2,T1 won
+Champions Tour 2023: Masters Tokyo,Group Stage,Opening (A),NRG Esports vs Natus Vincere,NRG Esports,Natus Vincere,2,1,NRG Esports won
+Champions Tour 2023: Masters Tokyo,Group Stage,Winner's (B),DRX vs Evil Geniuses,DRX,Evil Geniuses,0,2,Evil Geniuses won
+Champions Tour 2023: Masters Tokyo,Group Stage,Winner's (A),NRG Esports vs T1,NRG Esports,T1,2,1,NRG Esports won
+Champions Tour 2023: Masters Tokyo,Group Stage,Elimination (B),Attacking Soul Esports vs FUT Esports,Attacking Soul Esports,FUT Esports,1,2,FUT Esports won
+Champions Tour 2023: Masters Tokyo,Group Stage,Elimination (A),Natus Vincere vs EDward Gaming,Natus Vincere,EDward Gaming,0,2,EDward Gaming won
+Champions Tour 2023: Masters Tokyo,Group Stage,Decider (B),DRX vs FUT Esports,DRX,FUT Esports,2,1,DRX won
+Champions Tour 2023: Masters Tokyo,Group Stage,Decider (A),T1 vs EDward Gaming,T1,EDward Gaming,0,2,EDward Gaming won
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Quarterfinals,LOUD vs Evil Geniuses,LOUD,Evil Geniuses,0,2,Evil Geniuses won
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Quarterfinals,Team Liquid vs EDward Gaming,Team Liquid,EDward Gaming,2,1,Team Liquid won
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Quarterfinals,FNATIC vs NRG Esports,FNATIC,NRG Esports,2,0,FNATIC won
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Quarterfinals,Paper Rex vs DRX,Paper Rex,DRX,2,0,Paper Rex won
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Round 1,EDward Gaming vs LOUD,EDward Gaming,LOUD,2,0,EDward Gaming won
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Round 1,DRX vs NRG Esports,DRX,NRG Esports,0,2,NRG Esports won
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Semifinals,Team Liquid vs Evil Geniuses,Team Liquid,Evil Geniuses,0,2,Evil Geniuses won
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Semifinals,Paper Rex vs FNATIC,Paper Rex,FNATIC,0,2,FNATIC won
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Round 2,Team Liquid vs NRG Esports,Team Liquid,NRG Esports,1,2,NRG Esports won
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Round 2,Paper Rex vs EDward Gaming,Paper Rex,EDward Gaming,2,1,Paper Rex won
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Final,FNATIC vs Evil Geniuses,FNATIC,Evil Geniuses,2,1,FNATIC won
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Round 3,NRG Esports vs Paper Rex,NRG Esports,Paper Rex,1,2,Paper Rex won
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Final,Evil Geniuses vs Paper Rex,Evil Geniuses,Paper Rex,3,2,Evil Geniuses won
+Champions Tour 2023: Masters Tokyo,Playoffs,Grand Final,FNATIC vs Evil Geniuses,FNATIC,Evil Geniuses,3,0,FNATIC won
+Champions Tour 2023: Americas League,Regular Season,Week 1,Sentinels vs 100 Thieves,Sentinels,100 Thieves,2,1,Sentinels won
+Champions Tour 2023: Americas League,Regular Season,Week 1,KRÜ Esports vs FURIA,KRÜ Esports,FURIA,0,2,FURIA won
+Champions Tour 2023: Americas League,Regular Season,Week 1,LOUD vs MIBR,LOUD,MIBR,2,1,LOUD won
+Champions Tour 2023: Americas League,Regular Season,Week 1,Evil Geniuses vs Cloud9,Evil Geniuses,Cloud9,0,2,Cloud9 won
+Champions Tour 2023: Americas League,Regular Season,Week 1,LEVIATÁN vs NRG Esports,LEVIATÁN,NRG Esports,2,0,Leviatán won
+Champions Tour 2023: Americas League,Regular Season,Week 2,Cloud9 vs LOUD,Cloud9,LOUD,1,2,LOUD won
+Champions Tour 2023: Americas League,Regular Season,Week 2,LEVIATÁN vs FURIA,LEVIATÁN,FURIA,1,2,FURIA won
+Champions Tour 2023: Americas League,Regular Season,Week 2,NRG Esports vs Sentinels,NRG Esports,Sentinels,2,0,NRG Esports won
+Champions Tour 2023: Americas League,Regular Season,Week 2,MIBR vs KRÜ Esports,MIBR,KRÜ Esports,2,1,MIBR won
+Champions Tour 2023: Americas League,Regular Season,Week 2,Evil Geniuses vs 100 Thieves,Evil Geniuses,100 Thieves,0,2,100 Thieves won
+Champions Tour 2023: Americas League,Regular Season,Week 3,Cloud9 vs 100 Thieves,Cloud9,100 Thieves,2,0,Cloud9 won
+Champions Tour 2023: Americas League,Regular Season,Week 3,NRG Esports vs MIBR,NRG Esports,MIBR,1,2,MIBR won
+Champions Tour 2023: Americas League,Regular Season,Week 3,LEVIATÁN vs Sentinels,LEVIATÁN,Sentinels,2,1,Leviatán won
+Champions Tour 2023: Americas League,Regular Season,Week 3,Evil Geniuses vs KRÜ Esports,Evil Geniuses,KRÜ Esports,2,1,Evil Geniuses won
+Champions Tour 2023: Americas League,Regular Season,Week 3,LOUD vs FURIA,LOUD,FURIA,2,0,LOUD won
+Champions Tour 2023: Americas League,Regular Season,Week 4,LOUD vs Sentinels,LOUD,Sentinels,2,1,LOUD won
+Champions Tour 2023: Americas League,Regular Season,Week 4,LEVIATÁN vs MIBR,LEVIATÁN,MIBR,2,0,Leviatán won
+Champions Tour 2023: Americas League,Regular Season,Week 4,KRÜ Esports vs 100 Thieves,KRÜ Esports,100 Thieves,1,2,100 Thieves won
+Champions Tour 2023: Americas League,Regular Season,Week 4,Evil Geniuses vs FURIA,Evil Geniuses,FURIA,1,2,FURIA won
+Champions Tour 2023: Americas League,Regular Season,Week 4,NRG Esports vs Cloud9,NRG Esports,Cloud9,1,2,Cloud9 won
+Champions Tour 2023: Americas League,Regular Season,Week 4,MIBR vs Sentinels,MIBR,Sentinels,0,2,Sentinels won
+Champions Tour 2023: Americas League,Regular Season,Week 4,LEVIATÁN vs 100 Thieves,LEVIATÁN,100 Thieves,1,2,100 Thieves won
+Champions Tour 2023: Americas League,Regular Season,Week 4,Evil Geniuses vs LOUD,Evil Geniuses,LOUD,1,2,LOUD won
+Champions Tour 2023: Americas League,Regular Season,Week 4,Cloud9 vs FURIA,Cloud9,FURIA,2,0,Cloud9 won
+Champions Tour 2023: Americas League,Regular Season,Week 4,NRG Esports vs KRÜ Esports,NRG Esports,KRÜ Esports,2,0,NRG Esports won
+Champions Tour 2023: Americas League,Regular Season,Week 5,NRG Esports vs 100 Thieves,NRG Esports,100 Thieves,2,0,NRG Esports won
+Champions Tour 2023: Americas League,Regular Season,Week 5,MIBR vs FURIA,MIBR,FURIA,0,2,FURIA won
+Champions Tour 2023: Americas League,Regular Season,Week 5,Cloud9 vs Sentinels,Cloud9,Sentinels,2,0,Cloud9 won
+Champions Tour 2023: Americas League,Regular Season,Week 5,LEVIATÁN vs Evil Geniuses,LEVIATÁN,Evil Geniuses,1,2,Evil Geniuses won
+Champions Tour 2023: Americas League,Regular Season,Week 5,LOUD vs KRÜ Esports,LOUD,KRÜ Esports,2,1,LOUD won
+Champions Tour 2023: Americas League,Regular Season,Week 6,Evil Geniuses vs Sentinels,Evil Geniuses,Sentinels,2,0,Evil Geniuses won
+Champions Tour 2023: Americas League,Regular Season,Week 6,Cloud9 vs MIBR,Cloud9,MIBR,2,0,Cloud9 won
+Champions Tour 2023: Americas League,Regular Season,Week 6,LOUD vs 100 Thieves,LOUD,100 Thieves,2,0,LOUD won
+Champions Tour 2023: Americas League,Regular Season,Week 6,LEVIATÁN vs KRÜ Esports,LEVIATÁN,KRÜ Esports,2,0,Leviatán won
+Champions Tour 2023: Americas League,Regular Season,Week 6,NRG Esports vs FURIA,NRG Esports,FURIA,2,1,NRG Esports won
+Champions Tour 2023: Americas League,Regular Season,Week 7,FURIA vs 100 Thieves,FURIA,100 Thieves,1,2,100 Thieves won
+Champions Tour 2023: Americas League,Regular Season,Week 7,Evil Geniuses vs MIBR,Evil Geniuses,MIBR,2,0,Evil Geniuses won
+Champions Tour 2023: Americas League,Regular Season,Week 7,KRÜ Esports vs Sentinels,KRÜ Esports,Sentinels,0,2,Sentinels won
+Champions Tour 2023: Americas League,Regular Season,Week 7,NRG Esports vs LOUD,NRG Esports,LOUD,2,0,NRG Esports won
+Champions Tour 2023: Americas League,Regular Season,Week 7,LEVIATÁN vs Cloud9,LEVIATÁN,Cloud9,0,2,Cloud9 won
+Champions Tour 2023: Americas League,Regular Season,Week 8,Sentinels vs FURIA,Sentinels,FURIA,2,1,Sentinels won
+Champions Tour 2023: Americas League,Regular Season,Week 8,NRG Esports vs Evil Geniuses,NRG Esports,Evil Geniuses,2,0,NRG Esports won
+Champions Tour 2023: Americas League,Regular Season,Week 8,Cloud9 vs KRÜ Esports,Cloud9,KRÜ Esports,2,1,Cloud9 won
+Champions Tour 2023: Americas League,Regular Season,Week 8,LEVIATÁN vs LOUD,LEVIATÁN,LOUD,0,2,LOUD won
+Champions Tour 2023: Americas League,Regular Season,Week 8,MIBR vs 100 Thieves,MIBR,100 Thieves,2,1,MIBR won
+Champions Tour 2023: Americas League,Playoffs,Upper Round 1,LEVIATÁN vs FURIA,LEVIATÁN,FURIA,1,2,FURIA won
+Champions Tour 2023: Americas League,Playoffs,Upper Round 1,NRG Esports vs Evil Geniuses,NRG Esports,Evil Geniuses,1,2,Evil Geniuses won
+Champions Tour 2023: Americas League,Playoffs,Upper Semifinals,LOUD vs FURIA,LOUD,FURIA,2,0,LOUD won
+Champions Tour 2023: Americas League,Playoffs,Upper Semifinals,Cloud9 vs Evil Geniuses,Cloud9,Evil Geniuses,0,2,Evil Geniuses won
+Champions Tour 2023: Americas League,Playoffs,Lower Round 1,FURIA vs NRG Esports,FURIA,NRG Esports,0,2,NRG Esports won
+Champions Tour 2023: Americas League,Playoffs,Lower Round 1,Cloud9 vs LEVIATÁN,Cloud9,LEVIATÁN,2,1,Cloud9 won
+Champions Tour 2023: Americas League,Playoffs,Upper Final,LOUD vs Evil Geniuses,LOUD,Evil Geniuses,2,1,LOUD won
+Champions Tour 2023: Americas League,Playoffs,Lower Round 2,Cloud9 vs NRG Esports,Cloud9,NRG Esports,1,2,NRG Esports won
+Champions Tour 2023: Americas League,Playoffs,Lower Final,Evil Geniuses vs NRG Esports,Evil Geniuses,NRG Esports,1,3,NRG Esports won
+Champions Tour 2023: Americas League,Playoffs,Grand Final,LOUD vs NRG Esports,LOUD,NRG Esports,3,0,LOUD won
+Champions Tour 2023: EMEA League,Regular Season,Week 1,KOI vs Natus Vincere,KOI,Natus Vincere,2,0,KOI won
+Champions Tour 2023: EMEA League,Regular Season,Week 1,FNATIC vs Giants Gaming,FNATIC,Giants Gaming,2,0,FNATIC won
+Champions Tour 2023: EMEA League,Regular Season,Week 1,Team Heretics vs FUT Esports,Team Heretics,FUT Esports,0,2,FUT Esports won
+Champions Tour 2023: EMEA League,Regular Season,Week 1,Team Liquid vs Team Vitality,Team Liquid,Team Vitality,1,2,Team Vitality won
+Champions Tour 2023: EMEA League,Regular Season,Week 1,Natus Vincere vs Giants Gaming,Natus Vincere,Giants Gaming,2,1,Natus Vincere won
+Champions Tour 2023: EMEA League,Regular Season,Week 1,Karmine Corp vs BBL Esports,Karmine Corp,BBL Esports,2,0,Karmine Corp won
+Champions Tour 2023: EMEA League,Regular Season,Week 1,Team Liquid vs FUT Esports,Team Liquid,FUT Esports,2,1,Team Liquid won
+Champions Tour 2023: EMEA League,Regular Season,Week 1,KOI vs Team Vitality,KOI,Team Vitality,0,2,Team Vitality won
+Champions Tour 2023: EMEA League,Regular Season,Week 1,FNATIC vs BBL Esports,FNATIC,BBL Esports,2,1,FNATIC won
+Champions Tour 2023: EMEA League,Regular Season,Week 1,Team Heretics vs Karmine Corp,Team Heretics,Karmine Corp,2,0,Team Heretics won
+Champions Tour 2023: EMEA League,Regular Season,Week 2,Team Vitality vs FUT Esports,Team Vitality,FUT Esports,0,2,FUT Esports won
+Champions Tour 2023: EMEA League,Regular Season,Week 2,Natus Vincere vs BBL Esports,Natus Vincere,BBL Esports,2,0,Natus Vincere won
+Champions Tour 2023: EMEA League,Regular Season,Week 2,FNATIC vs Team Heretics,FNATIC,Team Heretics,2,0,FNATIC won
+Champions Tour 2023: EMEA League,Regular Season,Week 2,Team Liquid vs Karmine Corp,Team Liquid,Karmine Corp,2,0,Team Liquid won
+Champions Tour 2023: EMEA League,Regular Season,Week 2,KOI vs Giants Gaming,KOI,Giants Gaming,0,2,Giants Gaming won
+Champions Tour 2023: EMEA League,Regular Season,Week 3,Natus Vincere vs Team Heretics,Natus Vincere,Team Heretics,2,1,Natus Vincere won
+Champions Tour 2023: EMEA League,Regular Season,Week 3,KOI vs FUT Esports,KOI,FUT Esports,0,2,FUT Esports won
+Champions Tour 2023: EMEA League,Regular Season,Week 3,Team Liquid vs FNATIC,Team Liquid,FNATIC,0,2,FNATIC won
+Champions Tour 2023: EMEA League,Regular Season,Week 3,Giants Gaming vs BBL Esports,Giants Gaming,BBL Esports,2,0,Giants Gaming won
+Champions Tour 2023: EMEA League,Regular Season,Week 3,Team Vitality vs Karmine Corp,Team Vitality,Karmine Corp,2,0,Team Vitality won
+Champions Tour 2023: EMEA League,Regular Season,Week 4,Team Heretics vs Team Liquid,Team Heretics,Team Liquid,0,2,Team Liquid won
+Champions Tour 2023: EMEA League,Regular Season,Week 4,FUT Esports vs Giants Gaming,FUT Esports,Giants Gaming,0,2,Giants Gaming won
+Champions Tour 2023: EMEA League,Regular Season,Week 4,Karmine Corp vs Natus Vincere,Karmine Corp,Natus Vincere,0,2,Natus Vincere won
+Champions Tour 2023: EMEA League,Regular Season,Week 4,BBL Esports vs Team Vitality,BBL Esports,Team Vitality,2,0,BBL Esports won
+Champions Tour 2023: EMEA League,Regular Season,Week 5,Giants Gaming vs Team Liquid,Giants Gaming,Team Liquid,1,2,Team Liquid won
+Champions Tour 2023: EMEA League,Regular Season,Week 5,BBL Esports vs Team Heretics,BBL Esports,Team Heretics,2,1,BBL Esports won
+Champions Tour 2023: EMEA League,Regular Season,Week 5,KOI vs Karmine Corp,KOI,Karmine Corp,1,2,Karmine Corp won
+Champions Tour 2023: EMEA League,Regular Season,Week 5,FUT Esports vs FNATIC,FUT Esports,FNATIC,0,2,FNATIC won
+Champions Tour 2023: EMEA League,Regular Season,Week 5,Team Vitality vs Natus Vincere,Team Vitality,Natus Vincere,0,2,Natus Vincere won
+Champions Tour 2023: EMEA League,Regular Season,Week 6,Team Vitality vs FNATIC,Team Vitality,FNATIC,0,2,FNATIC won
+Champions Tour 2023: EMEA League,Regular Season,Week 6,FUT Esports vs Karmine Corp,FUT Esports,Karmine Corp,2,0,FUT Esports won
+Champions Tour 2023: EMEA League,Regular Season,Week 6,KOI vs BBL Esports,KOI,BBL Esports,1,2,BBL Esports won
+Champions Tour 2023: EMEA League,Regular Season,Week 6,Natus Vincere vs Team Liquid,Natus Vincere,Team Liquid,2,0,Natus Vincere won
+Champions Tour 2023: EMEA League,Regular Season,Week 6,Giants Gaming vs Team Heretics,Giants Gaming,Team Heretics,0,2,Team Heretics won
+Champions Tour 2023: EMEA League,Regular Season,Week 4,KOI vs FNATIC,KOI,FNATIC,0,2,FNATIC won
+Champions Tour 2023: EMEA League,Regular Season,Week 7,Giants Gaming vs Team Vitality,Giants Gaming,Team Vitality,2,1,Giants Gaming won
+Champions Tour 2023: EMEA League,Regular Season,Week 7,FUT Esports vs Natus Vincere,FUT Esports,Natus Vincere,0,2,Natus Vincere won
+Champions Tour 2023: EMEA League,Regular Season,Week 7,Karmine Corp vs FNATIC,Karmine Corp,FNATIC,0,2,FNATIC won
+Champions Tour 2023: EMEA League,Regular Season,Week 7,BBL Esports vs Team Liquid,BBL Esports,Team Liquid,1,2,Team Liquid won
+Champions Tour 2023: EMEA League,Regular Season,Week 7,KOI vs Team Heretics,KOI,Team Heretics,2,1,KOI won
+Champions Tour 2023: EMEA League,Regular Season,Week 8,FNATIC vs Natus Vincere,FNATIC,Natus Vincere,2,0,FNATIC won
+Champions Tour 2023: EMEA League,Regular Season,Week 8,Team Heretics vs Team Vitality,Team Heretics,Team Vitality,0,2,Team Vitality won
+Champions Tour 2023: EMEA League,Regular Season,Week 8,Karmine Corp vs Giants Gaming,Karmine Corp,Giants Gaming,0,2,Giants Gaming won
+Champions Tour 2023: EMEA League,Regular Season,Week 8,KOI vs Team Liquid,KOI,Team Liquid,1,2,Team Liquid won
+Champions Tour 2023: EMEA League,Regular Season,Week 8,BBL Esports vs FUT Esports,BBL Esports,FUT Esports,0,2,FUT Esports won
+Champions Tour 2023: EMEA League,Playoffs,Upper Round 1,Giants Gaming vs FUT Esports,Giants Gaming,FUT Esports,0,2,FUT Esports won
+Champions Tour 2023: EMEA League,Playoffs,Upper Round 1,Team Liquid vs Team Vitality,Team Liquid,Team Vitality,2,1,Team Liquid won
+Champions Tour 2023: EMEA League,Playoffs,Upper Semifinals,FNATIC vs FUT Esports,FNATIC,FUT Esports,2,1,FNATIC won
+Champions Tour 2023: EMEA League,Playoffs,Upper Semifinals,Natus Vincere vs Team Liquid,Natus Vincere,Team Liquid,0,2,Team Liquid won
+Champions Tour 2023: EMEA League,Playoffs,Lower Round 1,FUT Esports vs Team Vitality,FUT Esports,Team Vitality,2,1,FUT Esports won
+Champions Tour 2023: EMEA League,Playoffs,Lower Round 1,Natus Vincere vs Giants Gaming,Natus Vincere,Giants Gaming,2,0,Natus Vincere won
+Champions Tour 2023: EMEA League,Playoffs,Upper Final,FNATIC vs Team Liquid,FNATIC,Team Liquid,2,0,FNATIC won
+Champions Tour 2023: EMEA League,Playoffs,Lower Round 2,Natus Vincere vs FUT Esports,Natus Vincere,FUT Esports,0,2,FUT Esports won
+Champions Tour 2023: EMEA League,Playoffs,Lower Final,Team Liquid vs FUT Esports,Team Liquid,FUT Esports,3,0,Team Liquid won
+Champions Tour 2023: EMEA League,Playoffs,Grand Final,FNATIC vs Team Liquid,FNATIC,Team Liquid,1,3,Team Liquid won
+Champions Tour 2023: Pacific League,League Play,Week 1,ZETA DIVISION vs DRX,ZETA DIVISION,DRX,0,2,DRX won
+Champions Tour 2023: Pacific League,League Play,Week 1,T1 vs Global Esports,T1,Global Esports,2,1,T1 won
+Champions Tour 2023: Pacific League,League Play,Week 1,Paper Rex vs DetonatioN FocusMe,Paper Rex,DetonatioN FocusMe,2,0,Paper Rex won
+Champions Tour 2023: Pacific League,League Play,Week 1,Team Secret vs Talon Esports,Team Secret,Talon Esports,2,1,Team Secret won
+Champions Tour 2023: Pacific League,League Play,Week 1,Rex Regum Qeon vs Gen.G,Rex Regum Qeon,Gen.G,0,2,Gen.G won
+Champions Tour 2023: Pacific League,League Play,Week 2,ZETA DIVISION vs Rex Regum Qeon,ZETA DIVISION,Rex Regum Qeon,2,1,ZETA DIVISION won
+Champions Tour 2023: Pacific League,League Play,Week 2,Talon Esports vs T1,Talon Esports,T1,0,2,T1 won
+Champions Tour 2023: Pacific League,League Play,Week 2,Team Secret vs Paper Rex,Team Secret,Paper Rex,2,1,Team Secret won
+Champions Tour 2023: Pacific League,League Play,Week 2,Gen.G vs DetonatioN FocusMe,Gen.G,DetonatioN FocusMe,2,1,Gen.G won
+Champions Tour 2023: Pacific League,League Play,Week 2,Global Esports vs DRX,Global Esports,DRX,0,2,DRX won
+Champions Tour 2023: Pacific League,League Play,Week 3,Rex Regum Qeon vs DetonatioN FocusMe,Rex Regum Qeon,DetonatioN FocusMe,2,0,Rex Regum Qeon won
+Champions Tour 2023: Pacific League,League Play,Week 3,T1 vs Paper Rex,T1,Paper Rex,0,2,Paper Rex won
+Champions Tour 2023: Pacific League,League Play,Week 3,ZETA DIVISION vs Global Esports,ZETA DIVISION,Global Esports,2,1,ZETA DIVISION won
+Champions Tour 2023: Pacific League,League Play,Week 3,Talon Esports vs DRX,Talon Esports,DRX,0,2,DRX won
+Champions Tour 2023: Pacific League,League Play,Week 3,Team Secret vs Gen.G,Team Secret,Gen.G,0,2,Gen.G won
+Champions Tour 2023: Pacific League,League Play,Week 4,Paper Rex vs DRX,Paper Rex,DRX,0,2,DRX won
+Champions Tour 2023: Pacific League,League Play,Week 4,Team Secret vs Rex Regum Qeon,Team Secret,Rex Regum Qeon,0,2,Rex Regum Qeon won
+Champions Tour 2023: Pacific League,League Play,Week 4,T1 vs Gen.G,T1,Gen.G,0,2,Gen.G won
+Champions Tour 2023: Pacific League,League Play,Week 4,ZETA DIVISION vs DetonatioN FocusMe,ZETA DIVISION,DetonatioN FocusMe,2,0,ZETA DIVISION won
+Champions Tour 2023: Pacific League,League Play,Week 4,Talon Esports vs Global Esports,Talon Esports,Global Esports,0,2,Global Esports won
+Champions Tour 2023: Pacific League,League Play,Week 5,Paper Rex vs Global Esports,Paper Rex,Global Esports,2,1,Paper Rex won
+Champions Tour 2023: Pacific League,League Play,Week 5,Gen.G vs DRX,Gen.G,DRX,1,2,DRX won
+Champions Tour 2023: Pacific League,League Play,Week 5,T1 vs Rex Regum Qeon,T1,Rex Regum Qeon,2,0,T1 won
+Champions Tour 2023: Pacific League,League Play,Week 5,Team Secret vs DetonatioN FocusMe,Team Secret,DetonatioN FocusMe,2,0,Team Secret won
+Champions Tour 2023: Pacific League,League Play,Week 5,ZETA DIVISION vs Talon Esports,ZETA DIVISION,Talon Esports,0,2,Talon Esports won
+Champions Tour 2023: Pacific League,League Play,Week 6,T1 vs DetonatioN FocusMe,T1,DetonatioN FocusMe,2,1,T1 won
+Champions Tour 2023: Pacific League,League Play,Week 6,ZETA DIVISION vs Team Secret,ZETA DIVISION,Team Secret,2,1,ZETA DIVISION won
+Champions Tour 2023: Pacific League,League Play,Week 6,Global Esports vs Gen.G,Global Esports,Gen.G,2,0,Global Esports won
+Champions Tour 2023: Pacific League,League Play,Week 6,Rex Regum Qeon vs DRX,Rex Regum Qeon,DRX,1,2,DRX won
+Champions Tour 2023: Pacific League,League Play,Week 6,Talon Esports vs Paper Rex,Talon Esports,Paper Rex,1,2,Paper Rex won
+Champions Tour 2023: Pacific League,League Play,Week 7,Talon Esports vs Gen.G,Talon Esports,Gen.G,2,0,Talon Esports won
+Champions Tour 2023: Pacific League,League Play,Week 7,ZETA DIVISION vs Paper Rex,ZETA DIVISION,Paper Rex,0,2,Paper Rex won
+Champions Tour 2023: Pacific League,League Play,Week 7,Rex Regum Qeon vs Global Esports,Rex Regum Qeon,Global Esports,2,0,Rex Regum Qeon won
+Champions Tour 2023: Pacific League,League Play,Week 7,Team Secret vs T1,Team Secret,T1,0,2,T1 won
+Champions Tour 2023: Pacific League,League Play,Week 7,DRX vs DetonatioN FocusMe,DRX,DetonatioN FocusMe,2,0,DRX won
+Champions Tour 2023: Pacific League,League Play,Week 8,Paper Rex vs Gen.G,Paper Rex,Gen.G,2,0,Paper Rex won
+Champions Tour 2023: Pacific League,League Play,Week 8,ZETA DIVISION vs T1,ZETA DIVISION,T1,1,2,T1 won
+Champions Tour 2023: Pacific League,League Play,Week 8,Team Secret vs DRX,Team Secret,DRX,2,0,Team Secret won
+Champions Tour 2023: Pacific League,League Play,Week 8,Global Esports vs DetonatioN FocusMe,Global Esports,DetonatioN FocusMe,2,0,Global Esports won
+Champions Tour 2023: Pacific League,League Play,Week 8,Talon Esports vs Rex Regum Qeon,Talon Esports,Rex Regum Qeon,1,2,Rex Regum Qeon won
+Champions Tour 2023: Pacific League,League Play,Week 8,ZETA DIVISION vs Gen.G,ZETA DIVISION,Gen.G,2,1,ZETA DIVISION won
+Champions Tour 2023: Pacific League,League Play,Week 8,T1 vs DRX,T1,DRX,0,2,DRX won
+Champions Tour 2023: Pacific League,League Play,Week 8,Team Secret vs Global Esports,Team Secret,Global Esports,2,0,Team Secret won
+Champions Tour 2023: Pacific League,League Play,Week 8,Talon Esports vs DetonatioN FocusMe,Talon Esports,DetonatioN FocusMe,2,0,Talon Esports won
+Champions Tour 2023: Pacific League,League Play,Week 8,Rex Regum Qeon vs Paper Rex,Rex Regum Qeon,Paper Rex,0,2,Paper Rex won
+Champions Tour 2023: Pacific League,Playoffs,Upper Round 1,ZETA DIVISION vs Team Secret,ZETA DIVISION,Team Secret,0,2,Team Secret won
+Champions Tour 2023: Pacific League,Playoffs,Upper Round 1,T1 vs Gen.G,T1,Gen.G,2,1,T1 won
+Champions Tour 2023: Pacific League,Playoffs,Upper Semifinals,DRX vs Team Secret,DRX,Team Secret,2,1,DRX won
+Champions Tour 2023: Pacific League,Playoffs,Upper Semifinals,Paper Rex vs T1,Paper Rex,T1,2,0,Paper Rex won
+Champions Tour 2023: Pacific League,Playoffs,Lower Round 1,Team Secret vs Gen.G,Team Secret,Gen.G,1,2,Gen.G won
+Champions Tour 2023: Pacific League,Playoffs,Lower Round 1,T1 vs ZETA DIVISION,T1,ZETA DIVISION,2,1,T1 won
+Champions Tour 2023: Pacific League,Playoffs,Upper Final,DRX vs Paper Rex,DRX,Paper Rex,0,2,Paper Rex won
+Champions Tour 2023: Pacific League,Playoffs,Lower Round 2,T1 vs Gen.G,T1,Gen.G,2,0,T1 won
+Champions Tour 2023: Pacific League,Playoffs,Lower Final,DRX vs T1,DRX,T1,3,2,DRX won
+Champions Tour 2023: Pacific League,Playoffs,Grand Final,Paper Rex vs DRX,Paper Rex,DRX,3,2,Paper Rex won
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Round of 16,KOI vs NRG Esports,KOI,NRG Esports,0,2,NRG Esports won
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Round of 16,DetonatioN FocusMe vs Giants Gaming,DetonatioN FocusMe,Giants Gaming,0,2,Giants Gaming won
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Round of 16,FunPlus Phoenix vs Karmine Corp,FunPlus Phoenix,Karmine Corp,1,2,Karmine Corp won
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Round of 16,BBL Esports vs DRX,BBL Esports,DRX,1,2,DRX won
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Round of 16,Cloud9 vs Paper Rex,Cloud9,Paper Rex,2,0,Cloud9 won
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Round of 16,Team Heretics vs Evil Geniuses,Team Heretics,Evil Geniuses,0,2,Evil Geniuses won
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Round of 16,MIBR vs Talon Esports,MIBR,Talon Esports,0,2,Talon Esports won
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Round of 16,Gen.G vs LOUD,Gen.G,LOUD,0,2,LOUD won
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Quarterfinals,NRG Esports vs Giants Gaming,NRG Esports,Giants Gaming,2,1,NRG Esports won
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Quarterfinals,LOUD vs Karmine Corp,LOUD,Karmine Corp,2,0,LOUD won
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Quarterfinals,DRX vs Cloud9,DRX,Cloud9,2,1,DRX won
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Quarterfinals,Evil Geniuses vs Talon Esports,Evil Geniuses,Talon Esports,0,2,Talon Esports won
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Semifinals,NRG Esports vs LOUD,NRG Esports,LOUD,1,2,LOUD won
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Semifinals,DRX vs Talon Esports,DRX,Talon Esports,2,1,DRX won
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Round of 16,Team Liquid vs Team Secret,Team Liquid,Team Secret,0,2,Team Secret won
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Round of 16,Natus Vincere vs KRÜ Esports,Natus Vincere,KRÜ Esports,2,0,Natus Vincere won
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Round of 16,ZETA DIVISION vs LEVIATÁN,ZETA DIVISION,LEVIATÁN,0,2,Leviatán won
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Round of 16,Team Vitality vs Global Esports,Team Vitality,Global Esports,2,1,Team Vitality won
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Round of 16,FUT Esports vs Rex Regum Qeon,FUT Esports,Rex Regum Qeon,2,0,FUT Esports won
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Round of 16,100 Thieves vs EDward Gaming,100 Thieves,EDward Gaming,2,1,100 Thieves won
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Round of 16,Sentinels vs FNATIC,Sentinels,FNATIC,0,2,FNATIC won
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Round of 16,T1 vs FURIA,T1,FURIA,0,2,FURIA won
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Quarterfinals,Team Secret vs Natus Vincere,Team Secret,Natus Vincere,0,2,Natus Vincere won
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Quarterfinals,LEVIATÁN vs Team Vitality,LEVIATÁN,Team Vitality,2,0,Leviatán won
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Quarterfinals,FUT Esports vs 100 Thieves,FUT Esports,100 Thieves,1,2,100 Thieves won
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Quarterfinals,FNATIC vs FURIA,FNATIC,FURIA,2,0,FNATIC won
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Semifinals,Natus Vincere vs LEVIATÁN,Natus Vincere,LEVIATÁN,2,0,Natus Vincere won
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Semifinals,100 Thieves vs FNATIC,100 Thieves,FNATIC,0,2,FNATIC won
+Champions Tour 2023: Lock-In Sao Paulo,Playoffs,Semifinals,LOUD vs DRX,LOUD,DRX,3,2,LOUD won
+Champions Tour 2023: Lock-In Sao Paulo,Playoffs,Semifinals,Natus Vincere vs FNATIC,Natus Vincere,FNATIC,0,3,FNATIC won
+Champions Tour 2023: Lock-In Sao Paulo,Playoffs,Grand Final,LOUD vs FNATIC,LOUD,FNATIC,2,3,FNATIC won

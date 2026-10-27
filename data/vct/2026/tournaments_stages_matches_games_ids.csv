@@ -1,0 +1,887 @@
+Tournament,Tournament ID,Stage,Stage ID,Match Type,Match Name,Match ID,Map,Game ID
+Valorant Masters London 2026,2765,Swiss Stage,5767,Round 1,Xi Lai Gaming vs NRG,684613,Pearl,270746
+Valorant Masters London 2026,2765,Swiss Stage,5767,Round 1,Xi Lai Gaming vs NRG,684613,Lotus,270747
+Valorant Masters London 2026,2765,Swiss Stage,5767,Round 1,Team Vitality vs Dragon Ranger Gaming,684610,Lotus,270737
+Valorant Masters London 2026,2765,Swiss Stage,5767,Round 1,Team Vitality vs Dragon Ranger Gaming,684610,Breeze,270738
+Valorant Masters London 2026,2765,Swiss Stage,5767,Round 1,FULL SENSE vs FUT Esports,684611,Fracture,270740
+Valorant Masters London 2026,2765,Swiss Stage,5767,Round 1,FULL SENSE vs FUT Esports,684611,Haven,270741
+Valorant Masters London 2026,2765,Swiss Stage,5767,Round 1,LEVIATÁN vs Global Esports,684612,Pearl,270743
+Valorant Masters London 2026,2765,Swiss Stage,5767,Round 1,LEVIATÁN vs Global Esports,684612,Fracture,270744
+Valorant Masters London 2026,2765,Swiss Stage,5767,Round 1,LEVIATÁN vs Global Esports,684612,Split,270745
+Valorant Masters London 2026,2765,Swiss Stage,5767,Round 2 (1-0),Team Vitality vs FUT Esports,684614,Pearl,270749
+Valorant Masters London 2026,2765,Swiss Stage,5767,Round 2 (1-0),Team Vitality vs FUT Esports,684614,Haven,270750
+Valorant Masters London 2026,2765,Swiss Stage,5767,Round 2 (1-0),Team Vitality vs FUT Esports,684614,Fracture,270751
+Valorant Masters London 2026,2765,Swiss Stage,5767,Round 2 (1-0),NRG vs LEVIATÁN,684615,Ascent,270752
+Valorant Masters London 2026,2765,Swiss Stage,5767,Round 2 (1-0),NRG vs LEVIATÁN,684615,Lotus,270753
+Valorant Masters London 2026,2765,Swiss Stage,5767,Round 2 (1-0),NRG vs LEVIATÁN,684615,Pearl,270754
+Valorant Masters London 2026,2765,Swiss Stage,5767,Round 2 (0-1),Dragon Ranger Gaming vs Xi Lai Gaming,684616,Haven,270755
+Valorant Masters London 2026,2765,Swiss Stage,5767,Round 2 (0-1),Dragon Ranger Gaming vs Xi Lai Gaming,684616,Fracture,270756
+Valorant Masters London 2026,2765,Swiss Stage,5767,Round 2 (0-1),Dragon Ranger Gaming vs Xi Lai Gaming,684616,Split,270757
+Valorant Masters London 2026,2765,Swiss Stage,5767,Round 2 (0-1),Global Esports vs FULL SENSE,684617,Split,270758
+Valorant Masters London 2026,2765,Swiss Stage,5767,Round 2 (0-1),Global Esports vs FULL SENSE,684617,Breeze,270759
+Valorant Masters London 2026,2765,Swiss Stage,5767,Round 2 (0-1),Global Esports vs FULL SENSE,684617,Pearl,270760
+Valorant Masters London 2026,2765,Swiss Stage,5767,Round 3 (1-1),FUT Esports vs NRG,684619,Lotus,270764
+Valorant Masters London 2026,2765,Swiss Stage,5767,Round 3 (1-1),FUT Esports vs NRG,684619,Haven,270765
+Valorant Masters London 2026,2765,Swiss Stage,5767,Round 3 (1-1),FUT Esports vs NRG,684619,Fracture,270766
+Valorant Masters London 2026,2765,Swiss Stage,5767,Round 3 (1-1),Global Esports vs Xi Lai Gaming,684618,Haven,270761
+Valorant Masters London 2026,2765,Swiss Stage,5767,Round 3 (1-1),Global Esports vs Xi Lai Gaming,684618,Lotus,270762
+Valorant Masters London 2026,2765,Swiss Stage,5767,Round 3 (1-1),Global Esports vs Xi Lai Gaming,684618,Breeze,270763
+Valorant Masters London 2026,2765,Playoffs,5768,Upper Quarterfinals,Paper Rex vs LEVIATÁN,670466,Ascent,267804
+Valorant Masters London 2026,2765,Playoffs,5768,Upper Quarterfinals,Paper Rex vs LEVIATÁN,670466,Lotus,267805
+Valorant Masters London 2026,2765,Playoffs,5768,Upper Quarterfinals,Team Heretics vs Team Vitality,670467,Breeze,267807
+Valorant Masters London 2026,2765,Playoffs,5768,Upper Quarterfinals,Team Heretics vs Team Vitality,670467,Lotus,267808
+Valorant Masters London 2026,2765,Playoffs,5768,Upper Quarterfinals,EDward Gaming vs FUT Esports,670465,Haven,267801
+Valorant Masters London 2026,2765,Playoffs,5768,Upper Quarterfinals,EDward Gaming vs FUT Esports,670465,Pearl,267802
+Valorant Masters London 2026,2765,Playoffs,5768,Upper Quarterfinals,EDward Gaming vs FUT Esports,670465,Fracture,267803
+Valorant Masters London 2026,2765,Playoffs,5768,Upper Quarterfinals,G2 Esports vs Xi Lai Gaming,670464,Lotus,267798
+Valorant Masters London 2026,2765,Playoffs,5768,Upper Quarterfinals,G2 Esports vs Xi Lai Gaming,670464,Ascent,267799
+Valorant Masters London 2026,2765,Playoffs,5768,Upper Quarterfinals,G2 Esports vs Xi Lai Gaming,670464,Split,267800
+Valorant Masters London 2026,2765,Playoffs,5768,Lower Round 1,LEVIATÁN vs Team Heretics,670473,Split,267827
+Valorant Masters London 2026,2765,Playoffs,5768,Lower Round 1,LEVIATÁN vs Team Heretics,670473,Lotus,267828
+Valorant Masters London 2026,2765,Playoffs,5768,Lower Round 1,LEVIATÁN vs Team Heretics,670473,Ascent,273204
+Valorant Masters London 2026,2765,Playoffs,5768,Lower Round 1,G2 Esports vs FUT Esports,670472,Ascent,267824
+Valorant Masters London 2026,2765,Playoffs,5768,Lower Round 1,G2 Esports vs FUT Esports,670472,Lotus,267825
+Valorant Masters London 2026,2765,Playoffs,5768,Upper Semifinals,Xi Lai Gaming vs EDward Gaming,670468,Lotus,267810
+Valorant Masters London 2026,2765,Playoffs,5768,Upper Semifinals,Xi Lai Gaming vs EDward Gaming,670468,Breeze,267811
+Valorant Masters London 2026,2765,Playoffs,5768,Upper Semifinals,Xi Lai Gaming vs EDward Gaming,670468,Split,267812
+Valorant Masters London 2026,2765,Playoffs,5768,Upper Semifinals,Paper Rex vs Team Vitality,670469,Breeze,267813
+Valorant Masters London 2026,2765,Playoffs,5768,Upper Semifinals,Paper Rex vs Team Vitality,670469,Split,267814
+Valorant Masters London 2026,2765,Playoffs,5768,Upper Semifinals,Paper Rex vs Team Vitality,670469,Fracture,267815
+Valorant Masters London 2026,2765,Playoffs,5768,Lower Round 2,Xi Lai Gaming vs LEVIATÁN,670475,Haven,267833
+Valorant Masters London 2026,2765,Playoffs,5768,Lower Round 2,Xi Lai Gaming vs LEVIATÁN,670475,Lotus,267834
+Valorant Masters London 2026,2765,Playoffs,5768,Lower Round 2,Team Vitality vs FUT Esports,670474,Lotus,267830
+Valorant Masters London 2026,2765,Playoffs,5768,Lower Round 2,Team Vitality vs FUT Esports,670474,Ascent,267831
+Valorant Masters London 2026,2765,Playoffs,5768,Upper Final,EDward Gaming vs Paper Rex,670470,Breeze,267816
+Valorant Masters London 2026,2765,Playoffs,5768,Upper Final,EDward Gaming vs Paper Rex,670470,Fracture,267817
+Valorant Masters London 2026,2765,Playoffs,5768,Upper Final,EDward Gaming vs Paper Rex,670470,Split,267818
+Valorant Masters London 2026,2765,Playoffs,5768,Lower Round 3,Team Vitality vs LEVIATÁN,670476,Lotus,267836
+Valorant Masters London 2026,2765,Playoffs,5768,Lower Round 3,Team Vitality vs LEVIATÁN,670476,Split,267837
+Valorant Masters London 2026,2765,Playoffs,5768,Lower Final,EDward Gaming vs LEVIATÁN,670477,Haven,267839
+Valorant Masters London 2026,2765,Playoffs,5768,Lower Final,EDward Gaming vs LEVIATÁN,670477,Pearl,267840
+Valorant Masters London 2026,2765,Playoffs,5768,Lower Final,EDward Gaming vs LEVIATÁN,670477,Split,267841
+Valorant Masters London 2026,2765,Playoffs,5768,Grand Final,Paper Rex vs LEVIATÁN,670471,Fracture,267819
+Valorant Masters London 2026,2765,Playoffs,5768,Grand Final,Paper Rex vs LEVIATÁN,670471,Split,267820
+Valorant Masters London 2026,2765,Playoffs,5768,Grand Final,Paper Rex vs LEVIATÁN,670471,Breeze,267821
+Valorant Masters London 2026,2765,Playoffs,5768,Grand Final,Paper Rex vs LEVIATÁN,670471,Ascent,267822
+Valorant Masters London 2026,2765,Playoffs,5768,Grand Final,Paper Rex vs LEVIATÁN,670471,Lotus,267823
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 1,Sentinels vs KRÜ Esports,645474,Lotus,258575
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 1,Sentinels vs KRÜ Esports,645474,Breeze,258576
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 1,G2 Esports vs MIBR,645475,Lotus,258578
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 1,G2 Esports vs MIBR,645475,Split,258579
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 1,100 Thieves vs Evil Geniuses,645476,Haven,258581
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 1,100 Thieves vs Evil Geniuses,645476,Breeze,258582
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 1,ENVY vs LOUD,645477,Lotus,258584
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 1,ENVY vs LOUD,645477,Pearl,258585
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 1,ENVY vs LOUD,645477,Breeze,258586
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 1,Cloud9 vs LEVIATÁN,645478,Pearl,258587
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 1,Cloud9 vs LEVIATÁN,645478,Haven,258588
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 1,FURIA vs NRG,645479,Pearl,258590
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 1,FURIA vs NRG,645479,Split,258591
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 2,Cloud9 vs ENVY,645480,Split,258593
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 2,Cloud9 vs ENVY,645480,Pearl,258594
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 2,Cloud9 vs ENVY,645480,Haven,258595
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 2,FURIA vs Evil Geniuses,645481,Haven,258596
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 2,FURIA vs Evil Geniuses,645481,Pearl,258597
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 2,FURIA vs Evil Geniuses,645481,Lotus,258598
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 2,G2 Esports vs LEVIATÁN,645482,Breeze,258599
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 2,G2 Esports vs LEVIATÁN,645482,Split,258600
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 2,G2 Esports vs LEVIATÁN,645482,Bind,258601
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 2,MIBR vs LOUD,645483,Haven,258602
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 2,MIBR vs LOUD,645483,Split,258603
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 2,NRG vs KRÜ Esports,645484,Lotus,258605
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 2,NRG vs KRÜ Esports,645484,Split,258606
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 2,100 Thieves vs Sentinels,645485,Haven,258608
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 2,100 Thieves vs Sentinels,645485,Split,258609
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 3,LEVIATÁN vs ENVY,645486,Bind,258611
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 3,LEVIATÁN vs ENVY,645486,Fracture,258612
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 3,G2 Esports vs LOUD,645487,Haven,258614
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 3,G2 Esports vs LOUD,645487,Pearl,258615
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 3,FURIA vs KRÜ Esports,645488,Lotus,258617
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 3,FURIA vs KRÜ Esports,645488,Haven,258618
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 3,NRG vs 100 Thieves,645489,Pearl,258620
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 3,NRG vs 100 Thieves,645489,Lotus,258621
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 3,NRG vs 100 Thieves,645489,Breeze,258622
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 3,Evil Geniuses vs Sentinels,645490,Haven,258623
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 3,Evil Geniuses vs Sentinels,645490,Bind,258624
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 3,MIBR vs Cloud9,645491,Breeze,258626
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 3,MIBR vs Cloud9,645491,Split,258627
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 4,Evil Geniuses vs NRG,645492,Fracture,258629
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 4,Evil Geniuses vs NRG,645492,Pearl,258630
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 4,LEVIATÁN vs MIBR,645493,Breeze,258632
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 4,LEVIATÁN vs MIBR,645493,Haven,258633
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 4,KRÜ Esports vs 100 Thieves,645494,Bind,258635
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 4,KRÜ Esports vs 100 Thieves,645494,Haven,258636
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 4,KRÜ Esports vs 100 Thieves,645494,Split,258637
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 4,FURIA vs Sentinels,645495,Split,258638
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 4,FURIA vs Sentinels,645495,Breeze,258639
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 4,FURIA vs Sentinels,645495,Haven,258640
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 4,LOUD vs Cloud9,645496,Lotus,258641
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 4,LOUD vs Cloud9,645496,Split,258642
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 4,LOUD vs Cloud9,645496,Breeze,258643
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 4,G2 Esports vs ENVY,645497,Haven,258644
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 4,G2 Esports vs ENVY,645497,Lotus,258645
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 5,KRÜ Esports vs Evil Geniuses,645498,Haven,258647
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 5,KRÜ Esports vs Evil Geniuses,645498,Lotus,258648
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 5,KRÜ Esports vs Evil Geniuses,645498,Bind,258649
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 5,FURIA vs 100 Thieves,645499,Pearl,258650
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 5,FURIA vs 100 Thieves,645499,Haven,258651
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 5,FURIA vs 100 Thieves,645499,Breeze,258652
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 5,G2 Esports vs Cloud9,645500,Lotus,258653
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 5,G2 Esports vs Cloud9,645500,Split,258654
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 5,ENVY vs MIBR,645501,Haven,258656
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 5,ENVY vs MIBR,645501,Bind,258657
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 5,LOUD vs LEVIATÁN,645502,Bind,258659
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 5,LOUD vs LEVIATÁN,645502,Breeze,258660
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 5,LOUD vs LEVIATÁN,645502,Haven,258661
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 5,Sentinels vs NRG,645503,Fracture,258662
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 5,Sentinels vs NRG,645503,Breeze,258663
+VCT 2026: Americas Stage 1,2860,Group Stage,5556,Week 5,Sentinels vs NRG,645503,Lotus,258664
+VCT 2026: Americas Stage 1,2860,Playoffs,5557,Upper Round 1,FURIA vs LEVIATÁN,660369,Breeze,265422
+VCT 2026: Americas Stage 1,2860,Playoffs,5557,Upper Round 1,FURIA vs LEVIATÁN,660369,Split,265423
+VCT 2026: Americas Stage 1,2860,Playoffs,5557,Upper Round 1,FURIA vs LEVIATÁN,660369,Pearl,265424
+VCT 2026: Americas Stage 1,2860,Playoffs,5557,Upper Round 1,G2 Esports vs 100 Thieves,660370,Pearl,265425
+VCT 2026: Americas Stage 1,2860,Playoffs,5557,Upper Round 1,G2 Esports vs 100 Thieves,660370,Lotus,265426
+VCT 2026: Americas Stage 1,2860,Playoffs,5557,Upper Semifinals,MIBR vs LEVIATÁN,660371,Split,265428
+VCT 2026: Americas Stage 1,2860,Playoffs,5557,Upper Semifinals,MIBR vs LEVIATÁN,660371,Fracture,265429
+VCT 2026: Americas Stage 1,2860,Playoffs,5557,Upper Semifinals,MIBR vs LEVIATÁN,660371,Ascent,265430
+VCT 2026: Americas Stage 1,2860,Playoffs,5557,Upper Semifinals,KRÜ Esports vs G2 Esports,660372,Lotus,265431
+VCT 2026: Americas Stage 1,2860,Playoffs,5557,Upper Semifinals,KRÜ Esports vs G2 Esports,660372,Breeze,265432
+VCT 2026: Americas Stage 1,2860,Playoffs,5557,Lower Round 1,FURIA vs NRG,660375,Lotus,265442
+VCT 2026: Americas Stage 1,2860,Playoffs,5557,Lower Round 1,FURIA vs NRG,660375,Haven,265443
+VCT 2026: Americas Stage 1,2860,Playoffs,5557,Lower Round 1,100 Thieves vs LOUD,660376,Breeze,265445
+VCT 2026: Americas Stage 1,2860,Playoffs,5557,Lower Round 1,100 Thieves vs LOUD,660376,Split,265446
+VCT 2026: Americas Stage 1,2860,Playoffs,5557,Lower Round 2,KRÜ Esports vs NRG,660377,Breeze,265448
+VCT 2026: Americas Stage 1,2860,Playoffs,5557,Lower Round 2,KRÜ Esports vs NRG,660377,Haven,265449
+VCT 2026: Americas Stage 1,2860,Playoffs,5557,Lower Round 2,MIBR vs 100 Thieves,660378,Fracture,265451
+VCT 2026: Americas Stage 1,2860,Playoffs,5557,Lower Round 2,MIBR vs 100 Thieves,660378,Breeze,265452
+VCT 2026: Americas Stage 1,2860,Playoffs,5557,Upper Final,LEVIATÁN vs G2 Esports,660373,Ascent,265434
+VCT 2026: Americas Stage 1,2860,Playoffs,5557,Upper Final,LEVIATÁN vs G2 Esports,660373,Pearl,265435
+VCT 2026: Americas Stage 1,2860,Playoffs,5557,Upper Final,LEVIATÁN vs G2 Esports,660373,Split,265436
+VCT 2026: Americas Stage 1,2860,Playoffs,5557,Lower Round 3,NRG vs 100 Thieves,660379,Fracture,265454
+VCT 2026: Americas Stage 1,2860,Playoffs,5557,Lower Round 3,NRG vs 100 Thieves,660379,Breeze,265455
+VCT 2026: Americas Stage 1,2860,Playoffs,5557,Lower Final,G2 Esports vs NRG,660380,Lotus,265457
+VCT 2026: Americas Stage 1,2860,Playoffs,5557,Lower Final,G2 Esports vs NRG,660380,Breeze,265458
+VCT 2026: Americas Stage 1,2860,Playoffs,5557,Lower Final,G2 Esports vs NRG,660380,Pearl,265459
+VCT 2026: Americas Stage 1,2860,Playoffs,5557,Lower Final,G2 Esports vs NRG,660380,Haven,265460
+VCT 2026: Americas Stage 1,2860,Playoffs,5557,Lower Final,G2 Esports vs NRG,660380,Ascent,265461
+VCT 2026: Americas Stage 1,2860,Playoffs,5557,Grand Final,LEVIATÁN vs G2 Esports,660374,Fracture,265437
+VCT 2026: Americas Stage 1,2860,Playoffs,5557,Grand Final,LEVIATÁN vs G2 Esports,660374,Haven,265438
+VCT 2026: Americas Stage 1,2860,Playoffs,5557,Grand Final,LEVIATÁN vs G2 Esports,660374,Ascent,265439
+VCT 2026: Americas Stage 1,2860,Playoffs,5557,Grand Final,LEVIATÁN vs G2 Esports,660374,Pearl,265440
+VCT 2026: Americas Stage 1,2860,Playoffs,5557,Grand Final,LEVIATÁN vs G2 Esports,660374,Split,265441
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 1,FNATIC vs Eternal Fire,644709,Breeze,258339
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 1,FNATIC vs Eternal Fire,644709,Bind,258340
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 1,FNATIC vs Eternal Fire,644709,Lotus,258341
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 1,Team Liquid vs Karmine Corp,644710,Haven,258342
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 1,Team Liquid vs Karmine Corp,644710,Pearl,258343
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 1,Team Vitality vs GIANTX,644711,Haven,258345
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 1,Team Vitality vs GIANTX,644711,Pearl,258346
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 1,Gentle Mates vs FUT Esports,644712,Pearl,258348
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 1,Gentle Mates vs FUT Esports,644712,Bind,258349
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 1,Gentle Mates vs FUT Esports,644712,Haven,258350
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 1,Team Heretics vs Natus Vincere,644713,Pearl,258351
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 1,Team Heretics vs Natus Vincere,644713,Lotus,258352
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 1,Team Heretics vs Natus Vincere,644713,Bind,258353
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 1,BBL Esports vs PCIFIC Esports,644714,Split,258354
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 1,BBL Esports vs PCIFIC Esports,644714,Breeze,258355
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 2,PCIFIC Esports vs GIANTX,644716,Haven,258357
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 2,PCIFIC Esports vs GIANTX,644716,Pearl,258358
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 2,PCIFIC Esports vs GIANTX,644716,Split,258359
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 2,BBL Esports vs Eternal Fire,644717,Pearl,258360
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 2,BBL Esports vs Eternal Fire,644717,Split,258361
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 2,FNATIC vs Team Vitality,644718,Split,258363
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 2,FNATIC vs Team Vitality,644718,Breeze,258364
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 2,Team Liquid vs Team Heretics,644719,Pearl,258366
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 2,Team Liquid vs Team Heretics,644719,Bind,258367
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 2,FUT Esports vs Natus Vincere,644720,Fracture,258369
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 2,FUT Esports vs Natus Vincere,644720,Bind,258370
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 2,FUT Esports vs Natus Vincere,644720,Split,258371
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 2,Gentle Mates vs Karmine Corp,644721,Fracture,258372
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 2,Gentle Mates vs Karmine Corp,644721,Haven,258373
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 2,Gentle Mates vs Karmine Corp,644721,Pearl,258374
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 3,BBL Esports vs GIANTX,644722,Haven,258375
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 3,BBL Esports vs GIANTX,644722,Lotus,258376
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 3,BBL Esports vs GIANTX,644722,Split,264326
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 3,Gentle Mates vs Natus Vincere,644723,Pearl,258378
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 3,Gentle Mates vs Natus Vincere,644723,Lotus,258379
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 3,Eternal Fire vs Team Vitality,644724,Bind,258381
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 3,Eternal Fire vs Team Vitality,644724,Lotus,258382
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 3,Karmine Corp vs Team Heretics,644725,Haven,258384
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 3,Karmine Corp vs Team Heretics,644725,Lotus,258385
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 3,Karmine Corp vs Team Heretics,644725,Fracture,258386
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 3,FUT Esports vs Team Liquid,644726,Breeze,258387
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 3,FUT Esports vs Team Liquid,644726,Haven,258388
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 3,PCIFIC Esports vs FNATIC,644727,Split,258390
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 3,PCIFIC Esports vs FNATIC,644727,Lotus,258391
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 4,Eternal Fire vs PCIFIC Esports,644728,Split,258393
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 4,Eternal Fire vs PCIFIC Esports,644728,Fracture,258394
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 4,Eternal Fire vs PCIFIC Esports,644728,Lotus,258395
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 4,Natus Vincere vs Team Liquid,644729,Bind,258396
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 4,Natus Vincere vs Team Liquid,644729,Split,258397
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 4,Natus Vincere vs Team Liquid,644729,Lotus,258398
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 4,GIANTX vs FNATIC,644730,Haven,258399
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 4,GIANTX vs FNATIC,644730,Bind,258400
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 4,GIANTX vs FNATIC,644730,Breeze,258401
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 4,Karmine Corp vs FUT Esports,644731,Haven,258402
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 4,Karmine Corp vs FUT Esports,644731,Lotus,258403
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 4,Karmine Corp vs FUT Esports,644731,Bind,258404
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 4,Gentle Mates vs Team Heretics,644732,Fracture,258405
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 4,Gentle Mates vs Team Heretics,644732,Lotus,258406
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 4,BBL Esports vs Team Vitality,644733,Lotus,258408
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 4,BBL Esports vs Team Vitality,644733,Haven,258409
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 4,BBL Esports vs Team Vitality,644733,Breeze,258410
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 5,Team Heretics vs FUT Esports,644734,Lotus,258411
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 5,Team Heretics vs FUT Esports,644734,Split,258412
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 5,Team Vitality vs PCIFIC Esports,644735,Haven,258414
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 5,Team Vitality vs PCIFIC Esports,644735,Split,258415
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 5,Natus Vincere vs Karmine Corp,644736,Lotus,258417
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 5,Natus Vincere vs Karmine Corp,644736,Breeze,258418
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 5,BBL Esports vs FNATIC,644737,Haven,258420
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 5,BBL Esports vs FNATIC,644737,Fracture,258421
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 5,GIANTX vs Eternal Fire,644738,Split,258423
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 5,GIANTX vs Eternal Fire,644738,Breeze,258424
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 5,Gentle Mates vs Team Liquid,644739,Split,258426
+VCT 2026: EMEA Stage 1,2863,Group Stage,5561,Week 5,Gentle Mates vs Team Liquid,644739,Lotus,258427
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Upper Round 1,Eternal Fire vs Team Heretics,660381,Fracture,265462
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Upper Round 1,Eternal Fire vs Team Heretics,660381,Pearl,265463
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Upper Round 1,Eternal Fire vs Team Heretics,660381,Lotus,265464
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Upper Round 1,Team Liquid vs Team Vitality,660382,Pearl,265465
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Upper Round 1,Team Liquid vs Team Vitality,660382,Ascent,265466
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Upper Round 1,Team Liquid vs Team Vitality,660382,Lotus,265467
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Upper Semifinals,FUT Esports vs Eternal Fire,660383,Pearl,265468
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Upper Semifinals,FUT Esports vs Eternal Fire,660383,Ascent,265469
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Upper Semifinals,FUT Esports vs Eternal Fire,660383,Split,265470
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Upper Semifinals,FNATIC vs Team Vitality,660384,Breeze,265471
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Upper Semifinals,FNATIC vs Team Vitality,660384,Haven,265472
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Lower Round 1,Team Heretics vs BBL Esports,660387,Breeze,265482
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Lower Round 1,Team Heretics vs BBL Esports,660387,Ascent,265483
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Lower Round 1,Team Liquid vs Gentle Mates,660388,Split,265485
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Lower Round 1,Team Liquid vs Gentle Mates,660388,Ascent,265486
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Lower Round 1,Team Liquid vs Gentle Mates,660388,Fracture,265487
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Lower Round 2,FNATIC vs Team Heretics,660389,Fracture,265488
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Lower Round 2,FNATIC vs Team Heretics,660389,Lotus,265489
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Lower Round 2,FNATIC vs Team Heretics,660389,Ascent,265490
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Lower Round 2,Eternal Fire vs Gentle Mates,660390,Ascent,265491
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Lower Round 2,Eternal Fire vs Gentle Mates,660390,Lotus,265492
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Upper Final,FUT Esports vs Team Vitality,660385,Pearl,265474
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Upper Final,FUT Esports vs Team Vitality,660385,Ascent,265475
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Upper Final,FUT Esports vs Team Vitality,660385,Split,265476
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Lower Round 3,Team Heretics vs Eternal Fire,660391,Lotus,265494
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Lower Round 3,Team Heretics vs Eternal Fire,660391,Fracture,265495
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Lower Round 3,Team Heretics vs Eternal Fire,660391,Ascent,265496
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Lower Final,FUT Esports vs Team Heretics,660392,Haven,265497
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Lower Final,FUT Esports vs Team Heretics,660392,Lotus,265498
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Lower Final,FUT Esports vs Team Heretics,660392,Ascent,265499
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Lower Final,FUT Esports vs Team Heretics,660392,Breeze,265500
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Grand Final,Team Vitality vs Team Heretics,660386,Breeze,265477
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Grand Final,Team Vitality vs Team Heretics,660386,Lotus,265478
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Grand Final,Team Vitality vs Team Heretics,660386,Pearl,269000
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Grand Final,Team Vitality vs Team Heretics,660386,Split,265480
+VCT 2026: EMEA Stage 1,2863,Playoffs,5560,Grand Final,Team Vitality vs Team Heretics,660386,Haven,265481
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 1,Gen.G vs Global Esports,644652,Bind,258249
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 1,Gen.G vs Global Esports,644652,Split,258250
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 1,T1 vs VARREL,644653,Haven,258252
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 1,T1 vs VARREL,644653,Pearl,258253
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 1,Nongshim RedForce vs Paper Rex,644654,Fracture,258255
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 1,Nongshim RedForce vs Paper Rex,644654,Split,258256
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 1,Nongshim RedForce vs Paper Rex,644654,Lotus,258257
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 1,FULL SENSE vs DetonatioN FocusMe,644655,Pearl,258258
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 1,FULL SENSE vs DetonatioN FocusMe,644655,Bind,258259
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 1,Team Secret vs KIWOOM DRX,644656,Pearl,258261
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 1,Team Secret vs KIWOOM DRX,644656,Fracture,258262
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 1,Rex Regum Qeon vs ZETA DIVISION,644657,Split,258264
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 1,Rex Regum Qeon vs ZETA DIVISION,644657,Fracture,258265
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 1,Rex Regum Qeon vs ZETA DIVISION,644657,Haven,258266
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 2,DetonatioN FocusMe vs T1,644658,Pearl,258267
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 2,DetonatioN FocusMe vs T1,644658,Lotus,258268
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 2,Nongshim RedForce vs KIWOOM DRX,644659,Haven,258270
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 2,Nongshim RedForce vs KIWOOM DRX,644659,Fracture,258271
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 2,Nongshim RedForce vs KIWOOM DRX,644659,Lotus,258272
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 2,Team Secret vs Global Esports,644660,Split,258273
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 2,Team Secret vs Global Esports,644660,Lotus,258274
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 2,Rex Regum Qeon vs VARREL,644661,Bind,258276
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 2,Rex Regum Qeon vs VARREL,644661,Split,258277
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 2,FULL SENSE vs ZETA DIVISION,644662,Fracture,258279
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 2,FULL SENSE vs ZETA DIVISION,644662,Split,258280
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 2,Gen.G vs Paper Rex,644663,Haven,258282
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 2,Gen.G vs Paper Rex,644663,Fracture,258283
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 2,Gen.G vs Paper Rex,644663,Lotus,258284
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 3,FULL SENSE vs VARREL,644665,Haven,258285
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 3,FULL SENSE vs VARREL,644665,Lotus,265130
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 3,Team Secret vs Paper Rex,644666,Breeze,258288
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 3,Team Secret vs Paper Rex,644666,Split,258289
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 3,KIWOOM DRX vs Global Esports,644667,Fracture,258291
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 3,KIWOOM DRX vs Global Esports,644667,Haven,258292
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 3,ZETA DIVISION vs DetonatioN FocusMe,644668,Bind,258294
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 3,ZETA DIVISION vs DetonatioN FocusMe,644668,Lotus,258295
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 3,ZETA DIVISION vs DetonatioN FocusMe,644668,Pearl,258296
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 3,Rex Regum Qeon vs T1,644669,Pearl,258297
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 3,Rex Regum Qeon vs T1,644669,Bind,258298
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 3,Nongshim RedForce vs Gen.G,644670,Pearl,258300
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 3,Nongshim RedForce vs Gen.G,644670,Breeze,258301
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 4,Rex Regum Qeon vs FULL SENSE,644671,Pearl,258303
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 4,Rex Regum Qeon vs FULL SENSE,644671,Haven,258304
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 4,Rex Regum Qeon vs FULL SENSE,644671,Fracture,258305
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 4,Paper Rex vs Global Esports,644672,Split,258306
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 4,Paper Rex vs Global Esports,644672,Pearl,258307
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 4,Gen.G vs KIWOOM DRX,644673,Haven,258309
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 4,Gen.G vs KIWOOM DRX,644673,Pearl,258310
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 4,Gen.G vs KIWOOM DRX,644673,Lotus,258311
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 4,DetonatioN FocusMe vs VARREL,644674,Lotus,258312
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 4,DetonatioN FocusMe vs VARREL,644674,Haven,258313
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 4,DetonatioN FocusMe vs VARREL,644674,Fracture,258314
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 4,T1 vs ZETA DIVISION,644675,Haven,258315
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 4,T1 vs ZETA DIVISION,644675,Lotus,258316
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 4,Nongshim RedForce vs Team Secret,644676,Breeze,258318
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 4,Nongshim RedForce vs Team Secret,644676,Fracture,258319
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 4,Nongshim RedForce vs Team Secret,644676,Pearl,258320
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 5,Gen.G vs Team Secret,644677,Split,258321
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 5,Gen.G vs Team Secret,644677,Lotus,258322
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 5,Gen.G vs Team Secret,644677,Breeze,258323
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 5,VARREL vs ZETA DIVISION,644678,Bind,258324
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 5,VARREL vs ZETA DIVISION,644678,Breeze,258325
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 5,VARREL vs ZETA DIVISION,644678,Fracture,258326
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 5,T1 vs FULL SENSE,644679,Pearl,258327
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 5,T1 vs FULL SENSE,644679,Bind,258328
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 5,T1 vs FULL SENSE,644679,Breeze,258329
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 5,Nongshim RedForce vs Global Esports,644680,Breeze,258330
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 5,Nongshim RedForce vs Global Esports,644680,Bind,258331
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 5,Nongshim RedForce vs Global Esports,644680,Haven,258332
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 5,Paper Rex vs KIWOOM DRX,644681,Breeze,258333
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 5,Paper Rex vs KIWOOM DRX,644681,Lotus,258334
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 5,Rex Regum Qeon vs DetonatioN FocusMe,644682,Haven,258336
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 5,Rex Regum Qeon vs DetonatioN FocusMe,644682,Lotus,258337
+VCT 2026: Pacific Stage 1,2775,Group Stage,5374,Week 5,Rex Regum Qeon vs DetonatioN FocusMe,644682,Fracture,258338
+VCT 2026: Pacific Stage 1,2775,Playoffs,5375,Upper Round 1,Rex Regum Qeon vs Global Esports,666488,Breeze,266840
+VCT 2026: Pacific Stage 1,2775,Playoffs,5375,Upper Round 1,Rex Regum Qeon vs Global Esports,666488,Pearl,266841
+VCT 2026: Pacific Stage 1,2775,Playoffs,5375,Upper Round 1,KIWOOM DRX vs FULL SENSE,666489,Lotus,266843
+VCT 2026: Pacific Stage 1,2775,Playoffs,5375,Upper Round 1,KIWOOM DRX vs FULL SENSE,666489,Fracture,266844
+VCT 2026: Pacific Stage 1,2775,Playoffs,5375,Upper Semifinals,Paper Rex vs Global Esports,666490,Breeze,266846
+VCT 2026: Pacific Stage 1,2775,Playoffs,5375,Upper Semifinals,Paper Rex vs Global Esports,666490,Lotus,266847
+VCT 2026: Pacific Stage 1,2775,Playoffs,5375,Upper Semifinals,Paper Rex vs Global Esports,666490,Pearl,266848
+VCT 2026: Pacific Stage 1,2775,Playoffs,5375,Upper Semifinals,T1 vs FULL SENSE,666491,Pearl,266849
+VCT 2026: Pacific Stage 1,2775,Playoffs,5375,Upper Semifinals,T1 vs FULL SENSE,666491,Lotus,266850
+VCT 2026: Pacific Stage 1,2775,Playoffs,5375,Lower Round 1,Rex Regum Qeon vs DetonatioN FocusMe,666494,Ascent,266860
+VCT 2026: Pacific Stage 1,2775,Playoffs,5375,Lower Round 1,Rex Regum Qeon vs DetonatioN FocusMe,666494,Breeze,266861
+VCT 2026: Pacific Stage 1,2775,Playoffs,5375,Lower Round 1,Rex Regum Qeon vs DetonatioN FocusMe,666494,Lotus,266862
+VCT 2026: Pacific Stage 1,2775,Playoffs,5375,Lower Round 1,KIWOOM DRX vs Nongshim RedForce,666495,Pearl,266863
+VCT 2026: Pacific Stage 1,2775,Playoffs,5375,Lower Round 1,KIWOOM DRX vs Nongshim RedForce,666495,Split,266864
+VCT 2026: Pacific Stage 1,2775,Playoffs,5375,Lower Round 1,KIWOOM DRX vs Nongshim RedForce,666495,Haven,266865
+VCT 2026: Pacific Stage 1,2775,Playoffs,5375,Lower Round 2,T1 vs Rex Regum Qeon,666496,Haven,266866
+VCT 2026: Pacific Stage 1,2775,Playoffs,5375,Lower Round 2,T1 vs Rex Regum Qeon,666496,Lotus,266867
+VCT 2026: Pacific Stage 1,2775,Playoffs,5375,Lower Round 2,T1 vs Rex Regum Qeon,666496,Breeze,266868
+VCT 2026: Pacific Stage 1,2775,Playoffs,5375,Lower Round 2,Paper Rex vs KIWOOM DRX,666497,Ascent,266869
+VCT 2026: Pacific Stage 1,2775,Playoffs,5375,Lower Round 2,Paper Rex vs KIWOOM DRX,666497,Breeze,266870
+VCT 2026: Pacific Stage 1,2775,Playoffs,5375,Lower Round 2,Paper Rex vs KIWOOM DRX,666497,Split,266871
+VCT 2026: Pacific Stage 1,2775,Playoffs,5375,Upper Final,Global Esports vs FULL SENSE,666492,Split,266852
+VCT 2026: Pacific Stage 1,2775,Playoffs,5375,Upper Final,Global Esports vs FULL SENSE,666492,Breeze,266853
+VCT 2026: Pacific Stage 1,2775,Playoffs,5375,Lower Round 3,T1 vs Paper Rex,666498,Split,266872
+VCT 2026: Pacific Stage 1,2775,Playoffs,5375,Lower Round 3,T1 vs Paper Rex,666498,Ascent,266873
+VCT 2026: Pacific Stage 1,2775,Playoffs,5375,Lower Round 3,T1 vs Paper Rex,666498,Breeze,266874
+VCT 2026: Pacific Stage 1,2775,Playoffs,5375,Lower Final,Global Esports vs Paper Rex,666499,Haven,266875
+VCT 2026: Pacific Stage 1,2775,Playoffs,5375,Lower Final,Global Esports vs Paper Rex,666499,Lotus,266876
+VCT 2026: Pacific Stage 1,2775,Playoffs,5375,Lower Final,Global Esports vs Paper Rex,666499,Ascent,266877
+VCT 2026: Pacific Stage 1,2775,Playoffs,5375,Grand Final,FULL SENSE vs Paper Rex,666493,Pearl,266855
+VCT 2026: Pacific Stage 1,2775,Playoffs,5375,Grand Final,FULL SENSE vs Paper Rex,666493,Lotus,266856
+VCT 2026: Pacific Stage 1,2775,Playoffs,5375,Grand Final,FULL SENSE vs Paper Rex,666493,Fracture,266857
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 1,Titan Esports Club vs All Gamers,642914,Lotus,257925
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 1,Titan Esports Club vs All Gamers,642914,Bind,257926
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 1,Titan Esports Club vs All Gamers,642914,Breeze,257927
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 1,Nova Esports vs EDward Gaming,642915,Fracture,257928
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 1,Nova Esports vs EDward Gaming,642915,Breeze,257929
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 1,JDG Esports vs FunPlus Phoenix,642916,Lotus,257931
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 1,JDG Esports vs FunPlus Phoenix,642916,Pearl,260852
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 1,JDG Esports vs FunPlus Phoenix,642916,Split,257933
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 1,Dragon Ranger Gaming vs Xi Lai Gaming,642917,Lotus,257934
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 1,Dragon Ranger Gaming vs Xi Lai Gaming,642917,Bind,257935
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 1,Wolves Esports vs Trace Esports,642918,Lotus,257937
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 1,Wolves Esports vs Trace Esports,642918,Bind,257938
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 1,Bilibili Gaming vs TYLOO,642919,Bind,257940
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 1,Bilibili Gaming vs TYLOO,642919,Pearl,257941
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 1,Bilibili Gaming vs TYLOO,642919,Breeze,257942
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 1,Dragon Ranger Gaming vs Nova Esports,642920,Breeze,257943
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 1,Dragon Ranger Gaming vs Nova Esports,642920,Haven,257944
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 1,FunPlus Phoenix vs All Gamers,642921,Split,257946
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 1,FunPlus Phoenix vs All Gamers,642921,Pearl,257947
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 1,TYLOO vs Titan Esports Club,642922,Split,257949
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 1,TYLOO vs Titan Esports Club,642922,Fracture,257950
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 1,Wolves Esports vs EDward Gaming,642923,Fracture,257952
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 1,Wolves Esports vs EDward Gaming,642923,Lotus,257953
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 1,Trace Esports vs Xi Lai Gaming,642924,Breeze,257955
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 1,Trace Esports vs Xi Lai Gaming,642924,Lotus,257956
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 1,Trace Esports vs Xi Lai Gaming,642924,Bind,257957
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 1,Bilibili Gaming vs JDG Esports,642925,Haven,257958
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 1,Bilibili Gaming vs JDG Esports,642925,Fracture,257959
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 2,FunPlus Phoenix vs TYLOO,642927,Bind,257961
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 2,FunPlus Phoenix vs TYLOO,642927,Pearl,262074
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 2,FunPlus Phoenix vs TYLOO,642927,Split,257963
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 2,Titan Esports Club vs Bilibili Gaming,642928,Fracture,257964
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 2,Titan Esports Club vs Bilibili Gaming,642928,Breeze,257965
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 2,Xi Lai Gaming vs Nova Esports,642929,Haven,257967
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 2,Xi Lai Gaming vs Nova Esports,642929,Bind,257968
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 2,EDward Gaming vs Trace Esports,642930,Lotus,257970
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 2,EDward Gaming vs Trace Esports,642930,Haven,257971
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 2,JDG Esports vs All Gamers,642931,Lotus,257973
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 2,JDG Esports vs All Gamers,642931,Haven,257974
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 2,Dragon Ranger Gaming vs Wolves Esports,642932,Breeze,257976
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 2,Dragon Ranger Gaming vs Wolves Esports,642932,Pearl,257977
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 2,Dragon Ranger Gaming vs Wolves Esports,642932,Lotus,257978
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 2,Nova Esports vs Trace Esports,642933,Lotus,257979
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 2,Nova Esports vs Trace Esports,642933,Split,257980
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 2,FunPlus Phoenix vs Bilibili Gaming,642934,Lotus,257982
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 2,FunPlus Phoenix vs Bilibili Gaming,642934,Fracture,257983
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 2,FunPlus Phoenix vs Bilibili Gaming,642934,Pearl,257984
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 2,All Gamers vs TYLOO,642935,Bind,257985
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 2,All Gamers vs TYLOO,642935,Haven,257986
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 2,All Gamers vs TYLOO,642935,Breeze,257987
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 2,EDward Gaming vs Dragon Ranger Gaming,642936,Breeze,257988
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 2,EDward Gaming vs Dragon Ranger Gaming,642936,Lotus,257989
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 2,EDward Gaming vs Dragon Ranger Gaming,642936,Split,257990
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 2,JDG Esports vs Titan Esports Club,642937,Fracture,257991
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 2,JDG Esports vs Titan Esports Club,642937,Haven,257992
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 2,Xi Lai Gaming vs Wolves Esports,642938,Fracture,257994
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 2,Xi Lai Gaming vs Wolves Esports,642938,Bind,257995
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 2,Xi Lai Gaming vs Wolves Esports,642938,Lotus,257996
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 3,TYLOO vs JDG Esports,642939,Bind,257997
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 3,TYLOO vs JDG Esports,642939,Haven,257998
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 3,Trace Esports vs Dragon Ranger Gaming,642940,Lotus,258000
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 3,Trace Esports vs Dragon Ranger Gaming,642940,Bind,258001
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 3,Trace Esports vs Dragon Ranger Gaming,642940,Breeze,258002
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 3,Titan Esports Club vs FunPlus Phoenix,642941,Fracture,258003
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 3,Titan Esports Club vs FunPlus Phoenix,642941,Split,258004
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 3,All Gamers vs Bilibili Gaming,642942,Lotus,258006
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 3,All Gamers vs Bilibili Gaming,642942,Pearl,258007
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 3,All Gamers vs Bilibili Gaming,642942,Bind,258008
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 3,Nova Esports vs Wolves Esports,642943,Lotus,258009
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 3,Nova Esports vs Wolves Esports,642943,Fracture,258010
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 3,EDward Gaming vs Xi Lai Gaming,642944,Lotus,258012
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 3,EDward Gaming vs Xi Lai Gaming,642944,Haven,258013
+VCT 2026: China Stage 1,2864,Group Stage,5605,Week 3,EDward Gaming vs Xi Lai Gaming,642944,Split,258014
+VCT 2026: China Stage 1,2864,Group Stage,5605,Seeding,TYLOO vs Dragon Ranger Gaming,642947,Haven,258021
+VCT 2026: China Stage 1,2864,Group Stage,5605,Seeding,TYLOO vs Dragon Ranger Gaming,642947,Breeze,258022
+VCT 2026: China Stage 1,2864,Group Stage,5605,Seeding,JDG Esports vs EDward Gaming,642946,Fracture,258018
+VCT 2026: China Stage 1,2864,Group Stage,5605,Seeding,JDG Esports vs EDward Gaming,642946,Haven,258019
+VCT 2026: China Stage 1,2864,Group Stage,5605,Seeding,JDG Esports vs EDward Gaming,642946,Bind,258020
+VCT 2026: China Stage 1,2864,Group Stage,5605,Seeding,Titan Esports Club vs Trace Esports,642948,Fracture,258024
+VCT 2026: China Stage 1,2864,Group Stage,5605,Seeding,Titan Esports Club vs Trace Esports,642948,Split,258025
+VCT 2026: China Stage 1,2864,Group Stage,5605,Seeding,Titan Esports Club vs Trace Esports,642948,Breeze,258026
+VCT 2026: China Stage 1,2864,Group Stage,5605,Seeding,All Gamers vs Xi Lai Gaming,642945,Lotus,258015
+VCT 2026: China Stage 1,2864,Group Stage,5605,Seeding,All Gamers vs Xi Lai Gaming,642945,Bind,258016
+VCT 2026: China Stage 1,2864,Group Stage,5605,Seeding,All Gamers vs Xi Lai Gaming,642945,Split,258017
+VCT 2026: China Stage 1,2864,Playoffs,5606,Upper Quarterfinals,Xi Lai Gaming vs Titan Esports Club,659474,Breeze,265283
+VCT 2026: China Stage 1,2864,Playoffs,5606,Upper Quarterfinals,Xi Lai Gaming vs Titan Esports Club,659474,Lotus,265284
+VCT 2026: China Stage 1,2864,Playoffs,5606,Upper Quarterfinals,JDG Esports vs TYLOO,659475,Haven,265286
+VCT 2026: China Stage 1,2864,Playoffs,5606,Upper Quarterfinals,JDG Esports vs TYLOO,659475,Fracture,265287
+VCT 2026: China Stage 1,2864,Playoffs,5606,Upper Quarterfinals,JDG Esports vs TYLOO,659475,Pearl,265288
+VCT 2026: China Stage 1,2864,Playoffs,5606,Upper Quarterfinals,All Gamers vs Trace Esports,659476,Split,265289
+VCT 2026: China Stage 1,2864,Playoffs,5606,Upper Quarterfinals,All Gamers vs Trace Esports,659476,Lotus,265290
+VCT 2026: China Stage 1,2864,Playoffs,5606,Upper Quarterfinals,EDward Gaming vs Dragon Ranger Gaming,659477,Lotus,265292
+VCT 2026: China Stage 1,2864,Playoffs,5606,Upper Quarterfinals,EDward Gaming vs Dragon Ranger Gaming,659477,Split,265293
+VCT 2026: China Stage 1,2864,Playoffs,5606,Upper Quarterfinals,EDward Gaming vs Dragon Ranger Gaming,659477,Breeze,265294
+VCT 2026: China Stage 1,2864,Playoffs,5606,Lower Round 1,Titan Esports Club vs TYLOO,659482,Pearl,265309
+VCT 2026: China Stage 1,2864,Playoffs,5606,Lower Round 1,Titan Esports Club vs TYLOO,659482,Fracture,265310
+VCT 2026: China Stage 1,2864,Playoffs,5606,Lower Round 1,Titan Esports Club vs TYLOO,659482,Split,265311
+VCT 2026: China Stage 1,2864,Playoffs,5606,Lower Round 1,Trace Esports vs Dragon Ranger Gaming,659483,Ascent,265312
+VCT 2026: China Stage 1,2864,Playoffs,5606,Lower Round 1,Trace Esports vs Dragon Ranger Gaming,659483,Lotus,265313
+VCT 2026: China Stage 1,2864,Playoffs,5606,Upper Semifinals,Xi Lai Gaming vs JDG Esports,659478,Lotus,265295
+VCT 2026: China Stage 1,2864,Playoffs,5606,Upper Semifinals,Xi Lai Gaming vs JDG Esports,659478,Pearl,265296
+VCT 2026: China Stage 1,2864,Playoffs,5606,Upper Semifinals,All Gamers vs EDward Gaming,659479,Fracture,265298
+VCT 2026: China Stage 1,2864,Playoffs,5606,Upper Semifinals,All Gamers vs EDward Gaming,659479,Lotus,265299
+VCT 2026: China Stage 1,2864,Playoffs,5606,Lower Round 2,JDG Esports vs Dragon Ranger Gaming,659485,Haven,265318
+VCT 2026: China Stage 1,2864,Playoffs,5606,Lower Round 2,JDG Esports vs Dragon Ranger Gaming,659485,Lotus,265319
+VCT 2026: China Stage 1,2864,Playoffs,5606,Lower Round 2,All Gamers vs TYLOO,659484,Fracture,265315
+VCT 2026: China Stage 1,2864,Playoffs,5606,Lower Round 2,All Gamers vs TYLOO,659484,Haven,265316
+VCT 2026: China Stage 1,2864,Playoffs,5606,Lower Round 2,All Gamers vs TYLOO,659484,Split,265317
+VCT 2026: China Stage 1,2864,Playoffs,5606,Upper Final,Xi Lai Gaming vs EDward Gaming,659480,Split,265301
+VCT 2026: China Stage 1,2864,Playoffs,5606,Upper Final,Xi Lai Gaming vs EDward Gaming,659480,Breeze,265302
+VCT 2026: China Stage 1,2864,Playoffs,5606,Lower Round 3,All Gamers vs Dragon Ranger Gaming,659486,Lotus,265321
+VCT 2026: China Stage 1,2864,Playoffs,5606,Lower Round 3,All Gamers vs Dragon Ranger Gaming,659486,Split,265322
+VCT 2026: China Stage 1,2864,Playoffs,5606,Lower Round 3,All Gamers vs Dragon Ranger Gaming,659486,Haven,265323
+VCT 2026: China Stage 1,2864,Playoffs,5606,Lower Final,Xi Lai Gaming vs Dragon Ranger Gaming,659487,Lotus,265324
+VCT 2026: China Stage 1,2864,Playoffs,5606,Lower Final,Xi Lai Gaming vs Dragon Ranger Gaming,659487,Breeze,265325
+VCT 2026: China Stage 1,2864,Playoffs,5606,Lower Final,Xi Lai Gaming vs Dragon Ranger Gaming,659487,Haven,265326
+VCT 2026: China Stage 1,2864,Playoffs,5606,Lower Final,Xi Lai Gaming vs Dragon Ranger Gaming,659487,Split,265327
+VCT 2026: China Stage 1,2864,Playoffs,5606,Grand Final,EDward Gaming vs Xi Lai Gaming,659481,Fracture,265304
+VCT 2026: China Stage 1,2864,Playoffs,5606,Grand Final,EDward Gaming vs Xi Lai Gaming,659481,Split,265305
+VCT 2026: China Stage 1,2864,Playoffs,5606,Grand Final,EDward Gaming vs Xi Lai Gaming,659481,Breeze,265306
+VCT 2026: China Stage 1,2864,Playoffs,5606,Grand Final,EDward Gaming vs Xi Lai Gaming,659481,Haven,265307
+VCT 2026: China Stage 1,2864,Playoffs,5606,Grand Final,EDward Gaming vs Xi Lai Gaming,659481,Pearl,265308
+Valorant Masters Santiago 2026,2760,Swiss Stage,5359,Round 1,Gentle Mates vs EDward Gaming,625788,Haven,254143
+Valorant Masters Santiago 2026,2760,Swiss Stage,5359,Round 1,Gentle Mates vs EDward Gaming,625788,Pearl,254144
+Valorant Masters Santiago 2026,2760,Swiss Stage,5359,Round 1,Xi Lai Gaming vs NRG,625791,Haven,254152
+Valorant Masters Santiago 2026,2760,Swiss Stage,5359,Round 1,Xi Lai Gaming vs NRG,625791,Abyss,254153
+Valorant Masters Santiago 2026,2760,Swiss Stage,5359,Round 1,G2 Esports vs Paper Rex,625790,Split,254149
+Valorant Masters Santiago 2026,2760,Swiss Stage,5359,Round 1,G2 Esports vs Paper Rex,625790,Corrode,254150
+Valorant Masters Santiago 2026,2760,Swiss Stage,5359,Round 1,T1 vs Team Liquid,625789,Breeze,254146
+Valorant Masters Santiago 2026,2760,Swiss Stage,5359,Round 1,T1 vs Team Liquid,625789,Split,254147
+Valorant Masters Santiago 2026,2760,Swiss Stage,5359,Round 2 (1-0),Paper Rex vs NRG,626529,Split,254342
+Valorant Masters Santiago 2026,2760,Swiss Stage,5359,Round 2 (1-0),Paper Rex vs NRG,626529,Pearl,254343
+Valorant Masters Santiago 2026,2760,Swiss Stage,5359,Round 2 (1-0),Paper Rex vs NRG,626529,Haven,254344
+Valorant Masters Santiago 2026,2760,Swiss Stage,5359,Round 2 (1-0),Gentle Mates vs Team Liquid,626530,Pearl,254345
+Valorant Masters Santiago 2026,2760,Swiss Stage,5359,Round 2 (1-0),Gentle Mates vs Team Liquid,626530,Bind,254346
+Valorant Masters Santiago 2026,2760,Swiss Stage,5359,Round 2 (0-1),EDward Gaming vs T1,626532,Bind,254348
+Valorant Masters Santiago 2026,2760,Swiss Stage,5359,Round 2 (0-1),EDward Gaming vs T1,626532,Haven,254349
+Valorant Masters Santiago 2026,2760,Swiss Stage,5359,Round 2 (0-1),Xi Lai Gaming vs G2 Esports,626533,Abyss,254351
+Valorant Masters Santiago 2026,2760,Swiss Stage,5359,Round 2 (0-1),Xi Lai Gaming vs G2 Esports,626533,Haven,254352
+Valorant Masters Santiago 2026,2760,Swiss Stage,5359,Round 3,NRG vs Team Liquid,626535,Breeze,254357
+Valorant Masters Santiago 2026,2760,Swiss Stage,5359,Round 3,NRG vs Team Liquid,626535,Abyss,254358
+Valorant Masters Santiago 2026,2760,Swiss Stage,5359,Round 3,G2 Esports vs T1,626534,Breeze,254354
+Valorant Masters Santiago 2026,2760,Swiss Stage,5359,Round 3,G2 Esports vs T1,626534,Haven,254355
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Upper Quarterfinals,FURIA vs Paper Rex,626539,Haven,254366
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Upper Quarterfinals,FURIA vs Paper Rex,626539,Breeze,254367
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Upper Quarterfinals,FURIA vs Paper Rex,626539,Split,254368
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Upper Quarterfinals,Nongshim RedForce vs Gentle Mates,626537,Haven,254360
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Upper Quarterfinals,Nongshim RedForce vs Gentle Mates,626537,Corrode,254361
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Upper Quarterfinals,BBL Esports vs NRG,626540,Pearl,254369
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Upper Quarterfinals,BBL Esports vs NRG,626540,Abyss,254370
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Upper Quarterfinals,BBL Esports vs NRG,626540,Split,254371
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Upper Quarterfinals,All Gamers vs G2 Esports,626538,Split,254363
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Upper Quarterfinals,All Gamers vs G2 Esports,626538,Abyss,254364
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Lower Round 1,FURIA vs BBL Esports,626546,Haven,254389
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Lower Round 1,FURIA vs BBL Esports,626546,Breeze,254390
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Lower Round 1,FURIA vs BBL Esports,626546,Abyss,254391
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Lower Round 1,Gentle Mates vs All Gamers,626545,Pearl,254386
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Lower Round 1,Gentle Mates vs All Gamers,626545,Split,254387
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Lower Round 1,Gentle Mates vs All Gamers,626545,Bind,254388
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Upper Semifinals,Nongshim RedForce vs G2 Esports,626541,Abyss,256753
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Upper Semifinals,Nongshim RedForce vs G2 Esports,626541,Corrode,254373
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Upper Semifinals,Nongshim RedForce vs G2 Esports,626541,Split,254374
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Upper Semifinals,Paper Rex vs NRG,626542,Pearl,254375
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Upper Semifinals,Paper Rex vs NRG,626542,Bind,254376
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Lower Round 2,G2 Esports vs BBL Esports,626548,Haven,254395
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Lower Round 2,G2 Esports vs BBL Esports,626548,Breeze,256892
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Lower Round 2,Paper Rex vs All Gamers,626547,Corrode,254392
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Lower Round 2,Paper Rex vs All Gamers,626547,Pearl,254393
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Lower Round 2,Paper Rex vs All Gamers,626547,Split,254394
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Upper Final,Nongshim RedForce vs NRG,626543,Bind,254378
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Upper Final,Nongshim RedForce vs NRG,626543,Abyss,254379
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Lower Round 3,Paper Rex vs G2 Esports,626549,Haven,254398
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Lower Round 3,Paper Rex vs G2 Esports,626549,Breeze,254399
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Lower Round 3,Paper Rex vs G2 Esports,626549,Corrode,254400
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Lower Final,NRG vs Paper Rex,626550,Pearl,254401
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Lower Final,NRG vs Paper Rex,626550,Split,254402
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Lower Final,NRG vs Paper Rex,626550,Corrode,254403
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Lower Final,NRG vs Paper Rex,626550,Breeze,254404
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Grand Final,Nongshim RedForce vs Paper Rex,626544,Corrode,254381
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Grand Final,Nongshim RedForce vs Paper Rex,626544,Split,254382
+Valorant Masters Santiago 2026,2760,Playoffs,5546,Grand Final,Nongshim RedForce vs Paper Rex,626544,Abyss,254383
+VCT 2026: Americas Kickoff,2682,Main Event,0,Upper Round 1,ENVY vs Evil Geniuses,596399,Abyss,244778
+VCT 2026: Americas Kickoff,2682,Main Event,0,Upper Round 1,ENVY vs Evil Geniuses,596399,Corrode,244779
+VCT 2026: Americas Kickoff,2682,Main Event,0,Upper Round 1,ENVY vs Evil Geniuses,596399,Bind,244780
+VCT 2026: Americas Kickoff,2682,Main Event,0,Upper Round 1,LOUD vs Cloud9,596398,Haven,244775
+VCT 2026: Americas Kickoff,2682,Main Event,0,Upper Round 1,LOUD vs Cloud9,596398,Abyss,244776
+VCT 2026: Americas Kickoff,2682,Main Event,0,Upper Round 1,KRÜ Esports vs FURIA,596400,Pearl,244781
+VCT 2026: Americas Kickoff,2682,Main Event,0,Upper Round 1,KRÜ Esports vs FURIA,596400,Breeze,244782
+VCT 2026: Americas Kickoff,2682,Main Event,0,Upper Round 1,KRÜ Esports vs FURIA,596400,Abyss,244783
+VCT 2026: Americas Kickoff,2682,Main Event,0,Upper Round 1,100 Thieves vs LEVIATÁN,596401,Bind,244784
+VCT 2026: Americas Kickoff,2682,Main Event,0,Upper Round 1,100 Thieves vs LEVIATÁN,596401,Pearl,244785
+VCT 2026: Americas Kickoff,2682,Main Event,0,Upper Round 1,100 Thieves vs LEVIATÁN,596401,Split,244786
+VCT 2026: Americas Kickoff,2682,Main Event,0,Upper Round 2,NRG vs Cloud9,596402,Pearl,244787
+VCT 2026: Americas Kickoff,2682,Main Event,0,Upper Round 2,NRG vs Cloud9,596402,Breeze,244788
+VCT 2026: Americas Kickoff,2682,Main Event,0,Upper Round 2,MIBR vs ENVY,596403,Abyss,244790
+VCT 2026: Americas Kickoff,2682,Main Event,0,Upper Round 2,MIBR vs ENVY,596403,Corrode,244791
+VCT 2026: Americas Kickoff,2682,Main Event,0,Upper Round 2,Sentinels vs FURIA,596404,Split,244793
+VCT 2026: Americas Kickoff,2682,Main Event,0,Upper Round 2,Sentinels vs FURIA,596404,Breeze,244794
+VCT 2026: Americas Kickoff,2682,Main Event,0,Upper Round 2,G2 Esports vs 100 Thieves,596405,Bind,244796
+VCT 2026: Americas Kickoff,2682,Main Event,0,Upper Round 2,G2 Esports vs 100 Thieves,596405,Corrode,244797
+VCT 2026: Americas Kickoff,2682,Main Event,0,Upper Round 2,G2 Esports vs 100 Thieves,596405,Split,244798
+VCT 2026: Americas Kickoff,2682,Main Event,0,Middle Round 1,LOUD vs 100 Thieves,596409,Breeze,244810
+VCT 2026: Americas Kickoff,2682,Main Event,0,Middle Round 1,LOUD vs 100 Thieves,596409,Pearl,249108
+VCT 2026: Americas Kickoff,2682,Main Event,0,Middle Round 1,LOUD vs 100 Thieves,596409,Bind,244812
+VCT 2026: Americas Kickoff,2682,Main Event,0,Middle Round 1,Evil Geniuses vs Sentinels,596410,Abyss,244813
+VCT 2026: Americas Kickoff,2682,Main Event,0,Middle Round 1,Evil Geniuses vs Sentinels,596410,Pearl,244814
+VCT 2026: Americas Kickoff,2682,Main Event,0,Middle Round 1,KRÜ Esports vs ENVY,596411,Abyss,244816
+VCT 2026: Americas Kickoff,2682,Main Event,0,Middle Round 1,KRÜ Esports vs ENVY,596411,Pearl,244817
+VCT 2026: Americas Kickoff,2682,Main Event,0,Middle Round 1,KRÜ Esports vs ENVY,596411,Breeze,244818
+VCT 2026: Americas Kickoff,2682,Main Event,0,Middle Round 1,LEVIATÁN vs Cloud9,596412,Pearl,244819
+VCT 2026: Americas Kickoff,2682,Main Event,0,Middle Round 1,LEVIATÁN vs Cloud9,596412,Split,244820
+VCT 2026: Americas Kickoff,2682,Main Event,0,Middle Round 2,100 Thieves vs Sentinels,596413,Corrode,244822
+VCT 2026: Americas Kickoff,2682,Main Event,0,Middle Round 2,100 Thieves vs Sentinels,596413,Split,244823
+VCT 2026: Americas Kickoff,2682,Main Event,0,Middle Round 2,ENVY vs Cloud9,596414,Pearl,244825
+VCT 2026: Americas Kickoff,2682,Main Event,0,Middle Round 2,ENVY vs Cloud9,596414,Breeze,244826
+VCT 2026: Americas Kickoff,2682,Main Event,0,Middle Round 2,ENVY vs Cloud9,596414,Split,244827
+VCT 2026: Americas Kickoff,2682,Main Event,0,Upper Round 3,NRG vs MIBR,596406,Abyss,244799
+VCT 2026: Americas Kickoff,2682,Main Event,0,Upper Round 3,NRG vs MIBR,596406,Split,244800
+VCT 2026: Americas Kickoff,2682,Main Event,0,Upper Round 3,NRG vs MIBR,596406,Breeze,244801
+VCT 2026: Americas Kickoff,2682,Main Event,0,Upper Round 3,FURIA vs G2 Esports,596407,Abyss,244802
+VCT 2026: Americas Kickoff,2682,Main Event,0,Upper Round 3,FURIA vs G2 Esports,596407,Bind,244803
+VCT 2026: Americas Kickoff,2682,Main Event,0,Upper Round 3,FURIA vs G2 Esports,596407,Split,244804
+VCT 2026: Americas Kickoff,2682,Main Event,0,Lower Round 1,LOUD vs Evil Geniuses,596419,Haven,244842
+VCT 2026: Americas Kickoff,2682,Main Event,0,Lower Round 1,LOUD vs Evil Geniuses,596419,Abyss,244843
+VCT 2026: Americas Kickoff,2682,Main Event,0,Lower Round 1,KRÜ Esports vs LEVIATÁN,596420,Bind,244845
+VCT 2026: Americas Kickoff,2682,Main Event,0,Lower Round 1,KRÜ Esports vs LEVIATÁN,596420,Split,244846
+VCT 2026: Americas Kickoff,2682,Main Event,0,Middle Round 3,NRG vs 100 Thieves,596415,Haven,244828
+VCT 2026: Americas Kickoff,2682,Main Event,0,Middle Round 3,NRG vs 100 Thieves,596415,Corrode,244829
+VCT 2026: Americas Kickoff,2682,Main Event,0,Middle Round 3,G2 Esports vs Cloud9,596416,Corrode,244831
+VCT 2026: Americas Kickoff,2682,Main Event,0,Middle Round 3,G2 Esports vs Cloud9,596416,Bind,244832
+VCT 2026: Americas Kickoff,2682,Main Event,0,Lower Round 2,ENVY vs Evil Geniuses,596421,Pearl,244848
+VCT 2026: Americas Kickoff,2682,Main Event,0,Lower Round 2,ENVY vs Evil Geniuses,596421,Corrode,244849
+VCT 2026: Americas Kickoff,2682,Main Event,0,Lower Round 2,Sentinels vs LEVIATÁN,596422,Corrode,244851
+VCT 2026: Americas Kickoff,2682,Main Event,0,Lower Round 2,Sentinels vs LEVIATÁN,596422,Bind,244852
+VCT 2026: Americas Kickoff,2682,Main Event,0,Lower Round 3,100 Thieves vs Evil Geniuses,596423,Haven,244854
+VCT 2026: Americas Kickoff,2682,Main Event,0,Lower Round 3,100 Thieves vs Evil Geniuses,596423,Bind,244855
+VCT 2026: Americas Kickoff,2682,Main Event,0,Lower Round 3,Cloud9 vs LEVIATÁN,596424,Bind,244857
+VCT 2026: Americas Kickoff,2682,Main Event,0,Lower Round 3,Cloud9 vs LEVIATÁN,596424,Breeze,244858
+VCT 2026: Americas Kickoff,2682,Main Event,0,Middle Round 4,NRG vs G2 Esports,596417,Pearl,244834
+VCT 2026: Americas Kickoff,2682,Main Event,0,Middle Round 4,NRG vs G2 Esports,596417,Split,244835
+VCT 2026: Americas Kickoff,2682,Main Event,0,Lower Round 4,100 Thieves vs Cloud9,596425,Pearl,244860
+VCT 2026: Americas Kickoff,2682,Main Event,0,Lower Round 4,100 Thieves vs Cloud9,596425,Split,244861
+VCT 2026: Americas Kickoff,2682,Main Event,0,Lower Round 4,100 Thieves vs Cloud9,596425,Abyss,244862
+VCT 2026: Americas Kickoff,2682,Main Event,0,Upper Final,MIBR vs FURIA,596408,Bind,244805
+VCT 2026: Americas Kickoff,2682,Main Event,0,Upper Final,MIBR vs FURIA,596408,Abyss,244806
+VCT 2026: Americas Kickoff,2682,Main Event,0,Upper Final,MIBR vs FURIA,596408,Haven,244807
+VCT 2026: Americas Kickoff,2682,Main Event,0,Upper Final,MIBR vs FURIA,596408,Breeze,244808
+VCT 2026: Americas Kickoff,2682,Main Event,0,Upper Final,MIBR vs FURIA,596408,Split,244809
+VCT 2026: Americas Kickoff,2682,Main Event,0,Lower Round 5,NRG vs 100 Thieves,596426,Pearl,244863
+VCT 2026: Americas Kickoff,2682,Main Event,0,Lower Round 5,NRG vs 100 Thieves,596426,Abyss,244864
+VCT 2026: Americas Kickoff,2682,Main Event,0,Middle Final,MIBR vs G2 Esports,596418,Breeze,244837
+VCT 2026: Americas Kickoff,2682,Main Event,0,Middle Final,MIBR vs G2 Esports,596418,Haven,244838
+VCT 2026: Americas Kickoff,2682,Main Event,0,Middle Final,MIBR vs G2 Esports,596418,Corrode,244839
+VCT 2026: Americas Kickoff,2682,Main Event,0,Lower Final,MIBR vs NRG,596427,Bind,244866
+VCT 2026: Americas Kickoff,2682,Main Event,0,Lower Final,MIBR vs NRG,596427,Corrode,244867
+VCT 2026: Americas Kickoff,2682,Main Event,0,Lower Final,MIBR vs NRG,596427,Split,244868
+VCT 2026: Americas Kickoff,2682,Main Event,0,Lower Final,MIBR vs NRG,596427,Abyss,244869
+VCT 2026: Americas Kickoff,2682,Main Event,0,Lower Final,MIBR vs NRG,596427,Haven,244870
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Upper Round 1,Natus Vincere vs Karmine Corp,594740,Split,244304
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Upper Round 1,Natus Vincere vs Karmine Corp,594740,Haven,244305
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Upper Round 1,FUT Esports vs Gentle Mates,594741,Abyss,244307
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Upper Round 1,FUT Esports vs Gentle Mates,594741,Split,244308
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Upper Round 1,PCIFIC Esports vs BBL Esports,594742,Breeze,244310
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Upper Round 1,PCIFIC Esports vs BBL Esports,594742,Abyss,244311
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Upper Round 1,PCIFIC Esports vs BBL Esports,594742,Pearl,244312
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Upper Round 1,ULF Esports vs Team Vitality,594743,Breeze,244313
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Upper Round 1,ULF Esports vs Team Vitality,594743,Corrode,244314
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Upper Round 2,Team Heretics vs Natus Vincere,594744,Bind,244316
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Upper Round 2,Team Heretics vs Natus Vincere,594744,Haven,244317
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Upper Round 2,Team Heretics vs Natus Vincere,594744,Split,244318
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Upper Round 2,GIANTX vs Gentle Mates,594745,Pearl,244319
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Upper Round 2,GIANTX vs Gentle Mates,594745,Bind,244320
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Upper Round 2,FNATIC vs BBL Esports,594746,Breeze,244322
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Upper Round 2,FNATIC vs BBL Esports,594746,Haven,244323
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Upper Round 2,Team Liquid vs Team Vitality,594747,Breeze,244325
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Upper Round 2,Team Liquid vs Team Vitality,594747,Pearl,244326
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Upper Round 2,Team Liquid vs Team Vitality,594747,Corrode,244327
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Middle Round 1,Karmine Corp vs Team Liquid,594751,Abyss,244339
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Middle Round 1,Karmine Corp vs Team Liquid,594751,Split,244340
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Middle Round 1,Karmine Corp vs Team Liquid,594751,Breeze,244341
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Middle Round 1,FUT Esports vs FNATIC,594752,Abyss,244342
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Middle Round 1,FUT Esports vs FNATIC,594752,Corrode,244343
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Middle Round 1,FUT Esports vs FNATIC,594752,Split,244344
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Middle Round 1,PCIFIC Esports vs GIANTX,594753,Abyss,244345
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Middle Round 1,PCIFIC Esports vs GIANTX,594753,Bind,244346
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Middle Round 1,PCIFIC Esports vs GIANTX,594753,Split,244347
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Middle Round 1,ULF Esports vs Team Heretics,594754,Haven,244348
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Middle Round 1,ULF Esports vs Team Heretics,594754,Bind,244349
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Upper Round 3,Natus Vincere vs Gentle Mates,594748,Abyss,244328
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Upper Round 3,Natus Vincere vs Gentle Mates,594748,Bind,244329
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Upper Round 3,BBL Esports vs Team Vitality,594749,Haven,244331
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Upper Round 3,BBL Esports vs Team Vitality,594749,Abyss,244332
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Middle Round 2,Team Liquid vs FNATIC,594755,Corrode,244351
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Middle Round 2,Team Liquid vs FNATIC,594755,Split,244352
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Middle Round 2,GIANTX vs Team Heretics,594756,Abyss,244354
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Middle Round 2,GIANTX vs Team Heretics,594756,Haven,244355
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Lower Round 1,Karmine Corp vs FUT Esports,594761,Haven,244371
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Lower Round 1,Karmine Corp vs FUT Esports,594761,Split,244372
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Lower Round 1,Karmine Corp vs FUT Esports,594761,Pearl,244373
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Lower Round 1,PCIFIC Esports vs ULF Esports,594762,Split,244374
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Lower Round 1,PCIFIC Esports vs ULF Esports,594762,Abyss,244375
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Middle Round 3,Natus Vincere vs FNATIC,594757,Split,244357
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Middle Round 3,Natus Vincere vs FNATIC,594757,Breeze,244358
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Middle Round 3,Natus Vincere vs FNATIC,594757,Bind,244359
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Middle Round 3,Team Vitality vs GIANTX,594758,Abyss,244360
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Middle Round 3,Team Vitality vs GIANTX,594758,Breeze,244361
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Lower Round 2,Team Heretics vs Karmine Corp,594763,Abyss,252723
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Lower Round 2,Team Heretics vs Karmine Corp,594763,Haven,244378
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Lower Round 2,Team Heretics vs Karmine Corp,594763,Corrode,244379
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Lower Round 2,Team Liquid vs ULF Esports,594764,Split,244380
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Lower Round 2,Team Liquid vs ULF Esports,594764,Breeze,252724
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Lower Round 2,Team Liquid vs ULF Esports,594764,Pearl,244382
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Lower Round 3,Natus Vincere vs Team Heretics,594765,Haven,244383
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Lower Round 3,Natus Vincere vs Team Heretics,594765,Breeze,244384
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Lower Round 3,GIANTX vs Team Liquid,594766,Breeze,244386
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Lower Round 3,GIANTX vs Team Liquid,594766,Pearl,244387
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Lower Round 3,GIANTX vs Team Liquid,594766,Bind,244388
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Lower Round 4,Team Heretics vs Team Liquid,594767,Abyss,244389
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Lower Round 4,Team Heretics vs Team Liquid,594767,Bind,244390
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Middle Round 4,FNATIC vs Team Vitality,594759,Abyss,244363
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Middle Round 4,FNATIC vs Team Vitality,594759,Bind,244364
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Upper Final,Gentle Mates vs BBL Esports,594750,Haven,244334
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Upper Final,Gentle Mates vs BBL Esports,594750,Abyss,244335
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Upper Final,Gentle Mates vs BBL Esports,594750,Pearl,244336
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Upper Final,Gentle Mates vs BBL Esports,594750,Split,244337
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Upper Final,Gentle Mates vs BBL Esports,594750,Corrode,244338
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Lower Round 5,Team Vitality vs Team Liquid,594768,Corrode,244392
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Lower Round 5,Team Vitality vs Team Liquid,594768,Bind,244393
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Lower Round 5,Team Vitality vs Team Liquid,594768,Breeze,244394
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Middle Final,Gentle Mates vs FNATIC,594760,Abyss,244366
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Middle Final,Gentle Mates vs FNATIC,594760,Corrode,244367
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Middle Final,Gentle Mates vs FNATIC,594760,Split,244368
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Middle Final,Gentle Mates vs FNATIC,594760,Bind,244369
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Middle Final,Gentle Mates vs FNATIC,594760,Haven,244370
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Lower Final,FNATIC vs Team Liquid,594769,Corrode,244395
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Lower Final,FNATIC vs Team Liquid,594769,Bind,244396
+VCT 2026: EMEA Kickoff,2684,Main Event,0,Lower Final,FNATIC vs Team Liquid,594769,Abyss,244397
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Upper Round 1,Nongshim RedForce vs Team Secret,595630,Haven,244560
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Upper Round 1,Nongshim RedForce vs Team Secret,595630,Split,244561
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Upper Round 1,ZETA DIVISION vs FULL SENSE,595631,Corrode,244563
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Upper Round 1,ZETA DIVISION vs FULL SENSE,595631,Split,244564
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Upper Round 1,VARREL vs Global Esports,595632,Split,248947
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Upper Round 1,VARREL vs Global Esports,595632,Abyss,244567
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Upper Round 1,DetonatioN FocusMe vs Gen.G,595633,Abyss,244569
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Upper Round 1,DetonatioN FocusMe vs Gen.G,595633,Pearl,244570
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Upper Round 2,T1 vs Nongshim RedForce,595634,Split,249401
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Upper Round 2,T1 vs Nongshim RedForce,595634,Haven,244573
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Upper Round 2,T1 vs Nongshim RedForce,595634,Corrode,244574
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Upper Round 2,KIWOOM DRX vs FULL SENSE,595635,Breeze,244575
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Upper Round 2,KIWOOM DRX vs FULL SENSE,595635,Pearl,244576
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Upper Round 2,KIWOOM DRX vs FULL SENSE,595635,Split,244577
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Upper Round 2,Paper Rex vs Global Esports,595636,Breeze,244578
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Upper Round 2,Paper Rex vs Global Esports,595636,Split,244579
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Upper Round 2,Paper Rex vs Global Esports,595636,Bind,244580
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Upper Round 2,Rex Regum Qeon vs DetonatioN FocusMe,595637,Haven,244581
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Upper Round 2,Rex Regum Qeon vs DetonatioN FocusMe,595637,Corrode,244582
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Middle Round 1,Team Secret vs DetonatioN FocusMe,595641,Split,244595
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Middle Round 1,Team Secret vs DetonatioN FocusMe,595641,Bind,251314
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Middle Round 1,ZETA DIVISION vs Global Esports,595642,Haven,244598
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Middle Round 1,ZETA DIVISION vs Global Esports,595642,Abyss,244599
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Middle Round 1,VARREL vs KIWOOM DRX,595643,Corrode,244601
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Middle Round 1,VARREL vs KIWOOM DRX,595643,Split,244602
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Middle Round 1,VARREL vs KIWOOM DRX,595643,Bind,244603
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Middle Round 1,Gen.G vs T1,595644,Breeze,244604
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Middle Round 1,Gen.G vs T1,595644,Bind,244605
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Middle Round 1,Gen.G vs T1,595644,Haven,244606
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Upper Round 3,Nongshim RedForce vs FULL SENSE,595638,Split,244584
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Upper Round 3,Nongshim RedForce vs FULL SENSE,595638,Bind,244585
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Upper Round 3,Paper Rex vs Rex Regum Qeon,595639,Bind,244587
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Upper Round 3,Paper Rex vs Rex Regum Qeon,595639,Pearl,244588
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Middle Round 2,DetonatioN FocusMe vs Global Esports,595645,Breeze,244607
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Middle Round 2,DetonatioN FocusMe vs Global Esports,595645,Pearl,244608
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Middle Round 2,DetonatioN FocusMe vs Global Esports,595645,Split,244609
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Middle Round 2,KIWOOM DRX vs T1,595646,Split,244610
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Middle Round 2,KIWOOM DRX vs T1,595646,Bind,244611
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Lower Round 1,Team Secret vs ZETA DIVISION,595651,Bind,244627
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Lower Round 1,Team Secret vs ZETA DIVISION,595651,Split,244628
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Lower Round 1,Team Secret vs ZETA DIVISION,595651,Abyss,244629
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Lower Round 1,VARREL vs Gen.G,595652,Breeze,244630
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Lower Round 1,VARREL vs Gen.G,595652,Pearl,244631
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Lower Round 1,VARREL vs Gen.G,595652,Haven,244632
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Middle Round 3,FULL SENSE vs DetonatioN FocusMe,595647,Pearl,244613
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Middle Round 3,FULL SENSE vs DetonatioN FocusMe,595647,Split,244614
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Middle Round 3,FULL SENSE vs DetonatioN FocusMe,595647,Haven,244615
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Middle Round 3,Paper Rex vs T1,595648,Pearl,244616
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Middle Round 3,Paper Rex vs T1,595648,Breeze,244617
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Middle Round 3,Paper Rex vs T1,595648,Bind,244618
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Lower Round 2,KIWOOM DRX vs ZETA DIVISION,595653,Haven,244633
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Lower Round 2,KIWOOM DRX vs ZETA DIVISION,595653,Bind,244634
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Lower Round 2,KIWOOM DRX vs ZETA DIVISION,595653,Split,244635
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Lower Round 2,Global Esports vs Gen.G,595654,Breeze,244636
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Lower Round 2,Global Esports vs Gen.G,595654,Abyss,244637
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Lower Round 2,Global Esports vs Gen.G,595654,Haven,244638
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Lower Round 3,FULL SENSE vs KIWOOM DRX,595655,Corrode,244639
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Lower Round 3,FULL SENSE vs KIWOOM DRX,595655,Abyss,244640
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Lower Round 3,Paper Rex vs Global Esports,595656,Corrode,244642
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Lower Round 3,Paper Rex vs Global Esports,595656,Breeze,244643
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Lower Round 3,Paper Rex vs Global Esports,595656,Split,244644
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Lower Round 4,KIWOOM DRX vs Paper Rex,595657,Haven,244645
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Lower Round 4,KIWOOM DRX vs Paper Rex,595657,Corrode,244646
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Lower Round 4,KIWOOM DRX vs Paper Rex,595657,Breeze,244647
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Middle Round 4,DetonatioN FocusMe vs T1,595649,Pearl,244619
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Middle Round 4,DetonatioN FocusMe vs T1,595649,Split,244620
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Upper Final,Nongshim RedForce vs Rex Regum Qeon,595640,Corrode,244590
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Upper Final,Nongshim RedForce vs Rex Regum Qeon,595640,Bind,244591
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Upper Final,Nongshim RedForce vs Rex Regum Qeon,595640,Haven,244592
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Upper Final,Nongshim RedForce vs Rex Regum Qeon,595640,Abyss,244593
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Upper Final,Nongshim RedForce vs Rex Regum Qeon,595640,Breeze,244594
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Lower Round 5,DetonatioN FocusMe vs Paper Rex,595658,Haven,244648
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Lower Round 5,DetonatioN FocusMe vs Paper Rex,595658,Split,244649
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Middle Final,Rex Regum Qeon vs T1,595650,Pearl,244622
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Middle Final,Rex Regum Qeon vs T1,595650,Breeze,244623
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Middle Final,Rex Regum Qeon vs T1,595650,Abyss,244624
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Lower Final,Rex Regum Qeon vs Paper Rex,595659,Haven,244651
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Lower Final,Rex Regum Qeon vs Paper Rex,595659,Corrode,244652
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Lower Final,Rex Regum Qeon vs Paper Rex,595659,Breeze,244653
+VCT 2026: Pacific Kickoff,2683,Main Event,0,Lower Final,Rex Regum Qeon vs Paper Rex,595659,Pearl,244654
+VCT 2026: China Kickoff,2685,Main Event,0,Upper Round 1,Trace Esports vs Wolves Esports,598923,Abyss,245204
+VCT 2026: China Kickoff,2685,Main Event,0,Upper Round 1,Trace Esports vs Wolves Esports,598923,Haven,245205
+VCT 2026: China Kickoff,2685,Main Event,0,Upper Round 1,Trace Esports vs Wolves Esports,598923,Bind,245206
+VCT 2026: China Kickoff,2685,Main Event,0,Upper Round 1,FunPlus Phoenix vs TYLOO,598924,Pearl,245207
+VCT 2026: China Kickoff,2685,Main Event,0,Upper Round 1,FunPlus Phoenix vs TYLOO,598924,Haven,245208
+VCT 2026: China Kickoff,2685,Main Event,0,Upper Round 1,All Gamers vs Nova Esports,598921,Split,245198
+VCT 2026: China Kickoff,2685,Main Event,0,Upper Round 1,All Gamers vs Nova Esports,598921,Pearl,245199
+VCT 2026: China Kickoff,2685,Main Event,0,Upper Round 1,JDG Esports vs Titan Esports Club,598922,Corrode,245201
+VCT 2026: China Kickoff,2685,Main Event,0,Upper Round 1,JDG Esports vs Titan Esports Club,598922,Haven,245202
+VCT 2026: China Kickoff,2685,Main Event,0,Upper Round 1,JDG Esports vs Titan Esports Club,598922,Abyss,245203
+VCT 2026: China Kickoff,2685,Main Event,0,Upper Round 2,Xi Lai Gaming vs Wolves Esports,598927,Breeze,245216
+VCT 2026: China Kickoff,2685,Main Event,0,Upper Round 2,Xi Lai Gaming vs Wolves Esports,598927,Abyss,245217
+VCT 2026: China Kickoff,2685,Main Event,0,Upper Round 2,EDward Gaming vs TYLOO,598928,Abyss,245219
+VCT 2026: China Kickoff,2685,Main Event,0,Upper Round 2,EDward Gaming vs TYLOO,598928,Bind,245220
+VCT 2026: China Kickoff,2685,Main Event,0,Upper Round 2,Bilibili Gaming vs All Gamers,598925,Split,245210
+VCT 2026: China Kickoff,2685,Main Event,0,Upper Round 2,Bilibili Gaming vs All Gamers,598925,Abyss,245211
+VCT 2026: China Kickoff,2685,Main Event,0,Upper Round 2,Dragon Ranger Gaming vs JDG Esports,598926,Abyss,245213
+VCT 2026: China Kickoff,2685,Main Event,0,Upper Round 2,Dragon Ranger Gaming vs JDG Esports,598926,Breeze,245214
+VCT 2026: China Kickoff,2685,Main Event,0,Upper Round 2,Dragon Ranger Gaming vs JDG Esports,598926,Corrode,245215
+VCT 2026: China Kickoff,2685,Main Event,0,Middle Round 1,Nova Esports vs TYLOO,598932,Split,245233
+VCT 2026: China Kickoff,2685,Main Event,0,Middle Round 1,Nova Esports vs TYLOO,598932,Corrode,245234
+VCT 2026: China Kickoff,2685,Main Event,0,Middle Round 1,Titan Esports Club vs Wolves Esports,598933,Breeze,245236
+VCT 2026: China Kickoff,2685,Main Event,0,Middle Round 1,Titan Esports Club vs Wolves Esports,598933,Bind,245237
+VCT 2026: China Kickoff,2685,Main Event,0,Middle Round 1,Titan Esports Club vs Wolves Esports,598933,Haven,245238
+VCT 2026: China Kickoff,2685,Main Event,0,Middle Round 1,Trace Esports vs JDG Esports,598934,Split,245239
+VCT 2026: China Kickoff,2685,Main Event,0,Middle Round 1,Trace Esports vs JDG Esports,598934,Pearl,245240
+VCT 2026: China Kickoff,2685,Main Event,0,Middle Round 1,Trace Esports vs JDG Esports,598934,Corrode,245241
+VCT 2026: China Kickoff,2685,Main Event,0,Middle Round 1,FunPlus Phoenix vs Bilibili Gaming,598935,Pearl,245242
+VCT 2026: China Kickoff,2685,Main Event,0,Middle Round 1,FunPlus Phoenix vs Bilibili Gaming,598935,Bind,245243
+VCT 2026: China Kickoff,2685,Main Event,0,Middle Round 2,TYLOO vs Titan Esports Club,598936,Corrode,245245
+VCT 2026: China Kickoff,2685,Main Event,0,Middle Round 2,TYLOO vs Titan Esports Club,598936,Breeze,245246
+VCT 2026: China Kickoff,2685,Main Event,0,Middle Round 2,TYLOO vs Titan Esports Club,598936,Split,245247
+VCT 2026: China Kickoff,2685,Main Event,0,Middle Round 2,Trace Esports vs Bilibili Gaming,598937,Abyss,245248
+VCT 2026: China Kickoff,2685,Main Event,0,Middle Round 2,Trace Esports vs Bilibili Gaming,598937,Breeze,245249
+VCT 2026: China Kickoff,2685,Main Event,0,Lower Round 1,Nova Esports vs Wolves Esports,598942,Abyss,245265
+VCT 2026: China Kickoff,2685,Main Event,0,Lower Round 1,Nova Esports vs Wolves Esports,598942,Haven,245266
+VCT 2026: China Kickoff,2685,Main Event,0,Lower Round 1,Nova Esports vs Wolves Esports,598942,Pearl,245267
+VCT 2026: China Kickoff,2685,Main Event,0,Upper Round 3,All Gamers vs Dragon Ranger Gaming,598929,Corrode,245222
+VCT 2026: China Kickoff,2685,Main Event,0,Upper Round 3,All Gamers vs Dragon Ranger Gaming,598929,Bind,245223
+VCT 2026: China Kickoff,2685,Main Event,0,Upper Round 3,All Gamers vs Dragon Ranger Gaming,598929,Abyss,245224
+VCT 2026: China Kickoff,2685,Main Event,0,Lower Round 1,JDG Esports vs FunPlus Phoenix,598943,Pearl,245268
+VCT 2026: China Kickoff,2685,Main Event,0,Lower Round 1,JDG Esports vs FunPlus Phoenix,598943,Bind,245269
+VCT 2026: China Kickoff,2685,Main Event,0,Lower Round 1,JDG Esports vs FunPlus Phoenix,598943,Haven,245270
+VCT 2026: China Kickoff,2685,Main Event,0,Upper Round 3,Xi Lai Gaming vs EDward Gaming,598930,Split,245225
+VCT 2026: China Kickoff,2685,Main Event,0,Upper Round 3,Xi Lai Gaming vs EDward Gaming,598930,Pearl,245226
+VCT 2026: China Kickoff,2685,Main Event,0,Lower Round 2,Trace Esports vs Wolves Esports,598944,Abyss,245271
+VCT 2026: China Kickoff,2685,Main Event,0,Lower Round 2,Trace Esports vs Wolves Esports,598944,Bind,245272
+VCT 2026: China Kickoff,2685,Main Event,0,Lower Round 2,Trace Esports vs Wolves Esports,598944,Split,245273
+VCT 2026: China Kickoff,2685,Main Event,0,Middle Round 3,Dragon Ranger Gaming vs TYLOO,598938,Corrode,245251
+VCT 2026: China Kickoff,2685,Main Event,0,Middle Round 3,Dragon Ranger Gaming vs TYLOO,598938,Split,245252
+VCT 2026: China Kickoff,2685,Main Event,0,Middle Round 3,Dragon Ranger Gaming vs TYLOO,598938,Pearl,245253
+VCT 2026: China Kickoff,2685,Main Event,0,Lower Round 2,Titan Esports Club vs JDG Esports,598945,Bind,245274
+VCT 2026: China Kickoff,2685,Main Event,0,Lower Round 2,Titan Esports Club vs JDG Esports,598945,Haven,245275
+VCT 2026: China Kickoff,2685,Main Event,0,Lower Round 2,Titan Esports Club vs JDG Esports,598945,Split,245276
+VCT 2026: China Kickoff,2685,Main Event,0,Middle Round 3,EDward Gaming vs Bilibili Gaming,598939,Abyss,245254
+VCT 2026: China Kickoff,2685,Main Event,0,Middle Round 3,EDward Gaming vs Bilibili Gaming,598939,Haven,245255
+VCT 2026: China Kickoff,2685,Main Event,0,Middle Round 3,EDward Gaming vs Bilibili Gaming,598939,Breeze,245256
+VCT 2026: China Kickoff,2685,Main Event,0,Lower Round 3,TYLOO vs Trace Esports,598946,Haven,245277
+VCT 2026: China Kickoff,2685,Main Event,0,Lower Round 3,TYLOO vs Trace Esports,598946,Abyss,245278
+VCT 2026: China Kickoff,2685,Main Event,0,Lower Round 3,EDward Gaming vs JDG Esports,598947,Abyss,245280
+VCT 2026: China Kickoff,2685,Main Event,0,Lower Round 3,EDward Gaming vs JDG Esports,598947,Haven,245281
+VCT 2026: China Kickoff,2685,Main Event,0,Lower Round 3,EDward Gaming vs JDG Esports,598947,Corrode,245282
+VCT 2026: China Kickoff,2685,Main Event,0,Middle Round 4,Dragon Ranger Gaming vs Bilibili Gaming,598940,Split,245257
+VCT 2026: China Kickoff,2685,Main Event,0,Middle Round 4,Dragon Ranger Gaming vs Bilibili Gaming,598940,Abyss,245258
+VCT 2026: China Kickoff,2685,Main Event,0,Lower Round 4,TYLOO vs EDward Gaming,598948,Bind,245283
+VCT 2026: China Kickoff,2685,Main Event,0,Lower Round 4,TYLOO vs EDward Gaming,598948,Haven,245284
+VCT 2026: China Kickoff,2685,Main Event,0,Lower Round 4,TYLOO vs EDward Gaming,598948,Corrode,245285
+VCT 2026: China Kickoff,2685,Main Event,0,Lower Round 5,Dragon Ranger Gaming vs EDward Gaming,598949,Split,245286
+VCT 2026: China Kickoff,2685,Main Event,0,Lower Round 5,Dragon Ranger Gaming vs EDward Gaming,598949,Pearl,245287
+VCT 2026: China Kickoff,2685,Main Event,0,Lower Round 5,Dragon Ranger Gaming vs EDward Gaming,598949,Corrode,245288
+VCT 2026: China Kickoff,2685,Main Event,0,Upper Final,All Gamers vs Xi Lai Gaming,598931,Pearl,245228
+VCT 2026: China Kickoff,2685,Main Event,0,Upper Final,All Gamers vs Xi Lai Gaming,598931,Split,245229
+VCT 2026: China Kickoff,2685,Main Event,0,Upper Final,All Gamers vs Xi Lai Gaming,598931,Bind,245230
+VCT 2026: China Kickoff,2685,Main Event,0,Upper Final,All Gamers vs Xi Lai Gaming,598931,Abyss,245231
+VCT 2026: China Kickoff,2685,Main Event,0,Upper Final,All Gamers vs Xi Lai Gaming,598931,Haven,245232
+VCT 2026: China Kickoff,2685,Main Event,0,Middle Final,Xi Lai Gaming vs Bilibili Gaming,598941,Abyss,245260
+VCT 2026: China Kickoff,2685,Main Event,0,Middle Final,Xi Lai Gaming vs Bilibili Gaming,598941,Bind,245261
+VCT 2026: China Kickoff,2685,Main Event,0,Middle Final,Xi Lai Gaming vs Bilibili Gaming,598941,Breeze,245262
+VCT 2026: China Kickoff,2685,Main Event,0,Middle Final,Xi Lai Gaming vs Bilibili Gaming,598941,Pearl,245263
+VCT 2026: China Kickoff,2685,Main Event,0,Middle Final,Xi Lai Gaming vs Bilibili Gaming,598941,Split,245264
+VCT 2026: China Kickoff,2685,Main Event,0,Lower Final,Bilibili Gaming vs EDward Gaming,598950,Pearl,245289
+VCT 2026: China Kickoff,2685,Main Event,0,Lower Final,Bilibili Gaming vs EDward Gaming,598950,Haven,245290
+VCT 2026: China Kickoff,2685,Main Event,0,Lower Final,Bilibili Gaming vs EDward Gaming,598950,Abyss,245291
+VCT 2026: China Kickoff,2685,Main Event,0,Lower Final,Bilibili Gaming vs EDward Gaming,598950,Split,253654

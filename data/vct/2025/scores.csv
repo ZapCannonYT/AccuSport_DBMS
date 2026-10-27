@@ -1,0 +1,504 @@
+Tournament,Stage,Match Type,Match Name,Team A,Team B,Team A Score,Team B Score,Match Result
+Valorant Champions 2025,Group Stage,Opening (A),Paper Rex vs Xi Lai Gaming,Paper Rex,Xi Lai Gaming,2,0,Paper Rex won
+Valorant Champions 2025,Group Stage,Opening (A),GIANTX vs Sentinels,GIANTX,Sentinels,2,1,GIANTX won
+Valorant Champions 2025,Group Stage,Opening (C),NRG vs EDward Gaming,Mega Minors,EDward Gaming,2,0,NRG won
+Valorant Champions 2025,Group Stage,Opening (C),Team Liquid vs DRX,Team Liquid,DRX,0,2,DRX won
+Valorant Champions 2025,Group Stage,Opening (D),Dragon Ranger Gaming vs T1,Dragon Ranger Gaming,T1,0,2,T1 won
+Valorant Champions 2025,Group Stage,Opening (D),G2 Esports vs Team Heretics,G2 Esports,Team Heretics,0,2,Team Heretics won
+Valorant Champions 2025,Group Stage,Opening (B),Bilibili Gaming vs MIBR,Bilibili Gaming,MIBR,0,2,MIBR won
+Valorant Champions 2025,Group Stage,Opening (B),Rex Regum Qeon vs FNATIC,Rex Regum Qeon,FNATIC,0,2,FNATIC won
+Valorant Champions 2025,Group Stage,Winner's (A),Paper Rex vs GIANTX,Paper Rex,GIANTX,2,1,Paper Rex won
+Valorant Champions 2025,Group Stage,Winner's (C),DRX vs NRG,DRX,Mega Minors,1,2,NRG won
+Valorant Champions 2025,Group Stage,Winner's (D),Team Heretics vs T1,Team Heretics,T1,2,0,Team Heretics won
+Valorant Champions 2025,Group Stage,Winner's (B),MIBR vs FNATIC,MIBR,FNATIC,1,2,FNATIC won
+Valorant Champions 2025,Group Stage,Elimination (C),Team Liquid vs EDward Gaming,Team Liquid,EDward Gaming,2,1,Team Liquid won
+Valorant Champions 2025,Group Stage,Elimination (A),Xi Lai Gaming vs Sentinels,Xi Lai Gaming,Sentinels,2,1,Xi Lai Gaming won
+Valorant Champions 2025,Group Stage,Elimination (B),Bilibili Gaming vs Rex Regum Qeon,Bilibili Gaming,Rex Regum Qeon,1,2,Rex Regum Qeon won
+Valorant Champions 2025,Group Stage,Elimination (D),G2 Esports vs Dragon Ranger Gaming,G2 Esports,Dragon Ranger Gaming,2,0,G2 Esports won
+Valorant Champions 2025,Group Stage,Decider (C),DRX vs Team Liquid,DRX,Team Liquid,2,0,DRX won
+Valorant Champions 2025,Group Stage,Decider (A),GIANTX vs Xi Lai Gaming,GIANTX,Xi Lai Gaming,2,0,GIANTX won
+Valorant Champions 2025,Group Stage,Decider (D),T1 vs G2 Esports,T1,G2 Esports,0,2,G2 Esports won
+Valorant Champions 2025,Group Stage,Decider (B),MIBR vs Rex Regum Qeon,MIBR,Rex Regum Qeon,2,0,MIBR won
+Valorant Champions 2025,Playoffs,Upper Quarterfinals,Paper Rex vs G2 Esports,Paper Rex,G2 Esports,2,1,Paper Rex won
+Valorant Champions 2025,Playoffs,Upper Quarterfinals,FNATIC vs DRX,FNATIC,DRX,2,1,FNATIC won
+Valorant Champions 2025,Playoffs,Upper Quarterfinals,Team Heretics vs MIBR,Team Heretics,MIBR,0,2,MIBR won
+Valorant Champions 2025,Playoffs,Upper Quarterfinals,NRG vs GIANTX,Mega Minors,GIANTX,2,0,NRG won
+Valorant Champions 2025,Playoffs,Lower Round 1,DRX vs G2 Esports,DRX,G2 Esports,2,1,DRX won
+Valorant Champions 2025,Playoffs,Lower Round 1,Team Heretics vs GIANTX,Team Heretics,GIANTX,2,1,Team Heretics won
+Valorant Champions 2025,Playoffs,Upper Semifinals,FNATIC vs Paper Rex,FNATIC,Paper Rex,2,1,FNATIC won
+Valorant Champions 2025,Playoffs,Upper Semifinals,MIBR vs NRG,MIBR,Mega Minors,1,2,NRG won
+Valorant Champions 2025,Playoffs,Lower Round 2,Paper Rex vs Team Heretics,Paper Rex,Team Heretics,2,1,Paper Rex won
+Valorant Champions 2025,Playoffs,Lower Round 2,MIBR vs DRX,MIBR,DRX,1,2,DRX won
+Valorant Champions 2025,Playoffs,Upper Final,FNATIC vs NRG,FNATIC,Mega Minors,0,2,NRG won
+Valorant Champions 2025,Playoffs,Lower Round 3,DRX vs Paper Rex,DRX,Paper Rex,2,0,DRX won
+Valorant Champions 2025,Playoffs,Lower Final,FNATIC vs DRX,FNATIC,DRX,3,1,FNATIC won
+Valorant Champions 2025,Playoffs,Grand Final,NRG vs FNATIC,Mega Minors,FNATIC,3,2,NRG won
+VCT 2025: Americas Stage 2,Group Stage,Week 1,Cloud9 vs FURIA,Cloud9,FURIA,2,0,Cloud9 won
+VCT 2025: Americas Stage 2,Group Stage,Week 1,LEVIATÁN vs LOUD,LEVIATÁN,LOUD,1,2,LOUD won
+VCT 2025: Americas Stage 2,Group Stage,Week 1,Evil Geniuses vs 2Game Esports,Evil Geniuses,2Game Esports,2,1,Evil Geniuses won
+VCT 2025: Americas Stage 2,Group Stage,Week 1,MIBR vs KRÜ Esports,MIBR,KRÜ Esports,1,2,KRÜ Esports won
+VCT 2025: Americas Stage 2,Group Stage,Week 1,100 Thieves vs NRG,100 Thieves,Mega Minors,2,0,100 Thieves won
+VCT 2025: Americas Stage 2,Group Stage,Week 1,Sentinels vs G2 Esports,Sentinels,G2 Esports,2,1,Sentinels won
+VCT 2025: Americas Stage 2,Group Stage,Week 2,2Game Esports vs G2 Esports,2Game Esports,G2 Esports,0,2,G2 Esports won
+VCT 2025: Americas Stage 2,Group Stage,Week 2,FURIA vs Sentinels,FURIA,Sentinels,0,2,Sentinels won
+VCT 2025: Americas Stage 2,Group Stage,Week 2,100 Thieves vs KRÜ Esports,100 Thieves,KRÜ Esports,2,0,100 Thieves won
+VCT 2025: Americas Stage 2,Group Stage,Week 2,NRG vs LOUD,Mega Minors,LOUD,2,0,NRG won
+VCT 2025: Americas Stage 2,Group Stage,Week 2,Cloud9 vs Evil Geniuses,Cloud9,Evil Geniuses,2,0,Cloud9 won
+VCT 2025: Americas Stage 2,Group Stage,Week 2,MIBR vs LEVIATÁN,MIBR,LEVIATÁN,0,2,LEVIATÁN won
+VCT 2025: Americas Stage 2,Group Stage,Week 3,2Game Esports vs FURIA,2Game Esports,FURIA,2,1,2Game Esports won
+VCT 2025: Americas Stage 2,Group Stage,Week 3,LEVIATÁN vs NRG,LEVIATÁN,Mega Minors,1,2,NRG won
+VCT 2025: Americas Stage 2,Group Stage,Week 3,Sentinels vs Cloud9,Sentinels,Cloud9,2,0,Sentinels won
+VCT 2025: Americas Stage 2,Group Stage,Week 3,MIBR vs 100 Thieves,MIBR,100 Thieves,2,0,MIBR won
+VCT 2025: Americas Stage 2,Group Stage,Week 3,G2 Esports vs Evil Geniuses,G2 Esports,Evil Geniuses,2,1,G2 Esports won
+VCT 2025: Americas Stage 2,Group Stage,Week 3,LOUD vs KRÜ Esports,LOUD,KRÜ Esports,1,2,KRÜ Esports won
+VCT 2025: Americas Stage 2,Group Stage,Week 4,Cloud9 vs 2Game Esports,Cloud9,2Game Esports,2,0,Cloud9 won
+VCT 2025: Americas Stage 2,Group Stage,Week 4,MIBR vs NRG,MIBR,Mega Minors,0,2,NRG won
+VCT 2025: Americas Stage 2,Group Stage,Week 4,Sentinels vs Evil Geniuses,Sentinels,Evil Geniuses,2,0,Sentinels won
+VCT 2025: Americas Stage 2,Group Stage,Week 4,LEVIATÁN vs KRÜ Esports,LEVIATÁN,KRÜ Esports,2,1,LEVIATÁN won
+VCT 2025: Americas Stage 2,Group Stage,Week 4,FURIA vs G2 Esports,FURIA,G2 Esports,0,2,G2 Esports won
+VCT 2025: Americas Stage 2,Group Stage,Week 4,LOUD vs 100 Thieves,LOUD,100 Thieves,1,2,100 Thieves won
+VCT 2025: Americas Stage 2,Group Stage,Week 5,KRÜ Esports vs NRG,KRÜ Esports,Mega Minors,1,2,NRG won
+VCT 2025: Americas Stage 2,Group Stage,Week 5,100 Thieves vs LEVIATÁN,100 Thieves,LEVIATÁN,1,2,LEVIATÁN won
+VCT 2025: Americas Stage 2,Group Stage,Week 5,FURIA vs Evil Geniuses,FURIA,Evil Geniuses,0,2,Evil Geniuses won
+VCT 2025: Americas Stage 2,Group Stage,Week 5,2Game Esports vs Sentinels,2Game Esports,Sentinels,1,2,Sentinels won
+VCT 2025: Americas Stage 2,Group Stage,Week 5,G2 Esports vs Cloud9,G2 Esports,Cloud9,2,0,G2 Esports won
+VCT 2025: Americas Stage 2,Group Stage,Week 5,MIBR vs LOUD,MIBR,LOUD,2,0,MIBR won
+VCT 2025: Americas Stage 2,Playoffs,Upper Round 1,LEVIATÁN vs Cloud9,LEVIATÁN,Cloud9,1,2,Cloud9 won
+VCT 2025: Americas Stage 2,Playoffs,Upper Round 1,G2 Esports vs 100 Thieves,G2 Esports,100 Thieves,2,0,G2 Esports won
+VCT 2025: Americas Stage 2,Playoffs,Upper Semifinals,Sentinels vs Cloud9,Sentinels,Cloud9,2,1,Sentinels won
+VCT 2025: Americas Stage 2,Playoffs,Upper Semifinals,NRG vs G2 Esports,Mega Minors,G2 Esports,1,2,G2 Esports won
+VCT 2025: Americas Stage 2,Playoffs,Lower Round 1,LEVIATÁN vs KRÜ Esports,LEVIATÁN,KRÜ Esports,2,1,LEVIATÁN won
+VCT 2025: Americas Stage 2,Playoffs,Lower Round 1,100 Thieves vs Evil Geniuses,100 Thieves,Evil Geniuses,2,0,100 Thieves won
+VCT 2025: Americas Stage 2,Playoffs,Lower Round 2,NRG vs LEVIATÁN,Mega Minors,LEVIATÁN,2,0,NRG won
+VCT 2025: Americas Stage 2,Playoffs,Lower Round 2,Cloud9 vs 100 Thieves,Cloud9,100 Thieves,2,0,Cloud9 won
+VCT 2025: Americas Stage 2,Playoffs,Upper Final,Sentinels vs G2 Esports,Sentinels,G2 Esports,0,2,G2 Esports won
+VCT 2025: Americas Stage 2,Playoffs,Lower Round 3,NRG vs Cloud9,Mega Minors,Cloud9,2,1,NRG won
+VCT 2025: Americas Stage 2,Showmatch,Override,Team Alpha vs Team Omega,Team Alpha,Team Omega,13,4,Team Alpha won
+VCT 2025: Americas Stage 2,Playoffs,Lower Final,Sentinels vs NRG,Sentinels,Mega Minors,1,3,NRG won
+VCT 2025: Americas Stage 2,Playoffs,Grand Final,G2 Esports vs NRG,G2 Esports,Mega Minors,3,0,G2 Esports won
+VCT 2025: EMEA Stage 2,Group Stage,Week 1,Natus Vincere vs Apeks,Natus Vincere,Apeks,2,1,Natus Vincere won
+VCT 2025: EMEA Stage 2,Group Stage,Week 1,Team Vitality vs GIANTX,Team Vitality,GIANTX,0,2,GIANTX won
+VCT 2025: EMEA Stage 2,Group Stage,Week 1,FUT Esports vs Gentle Mates,FUT Esports,Gentle Mates,2,1,FUT Esports won
+VCT 2025: EMEA Stage 2,Group Stage,Week 1,Team Liquid vs KOI,Team Liquid,KOI,2,1,Team Liquid won
+VCT 2025: EMEA Stage 2,Group Stage,Week 1,Team Heretics vs BBL Esports,Team Heretics,BBL Esports,2,1,Team Heretics won
+VCT 2025: EMEA Stage 2,Group Stage,Week 1,FNATIC vs Karmine Corp,FNATIC,Karmine Corp,2,1,FNATIC won
+VCT 2025: EMEA Stage 2,Group Stage,Week 2,Apeks vs Karmine Corp,Apeks,Karmine Corp,1,2,Karmine Corp won
+VCT 2025: EMEA Stage 2,Group Stage,Week 2,GIANTX vs BBL Esports,GIANTX,BBL Esports,2,1,GIANTX won
+VCT 2025: EMEA Stage 2,Group Stage,Week 2,Team Liquid vs Natus Vincere,Team Liquid,Natus Vincere,2,0,Team Liquid won
+VCT 2025: EMEA Stage 2,Group Stage,Week 2,Gentle Mates vs Team Heretics,Gentle Mates,Team Heretics,1,2,Team Heretics won
+VCT 2025: EMEA Stage 2,Group Stage,Week 2,FUT Esports vs Team Vitality,FUT Esports,Team Vitality,0,2,Team Vitality won
+VCT 2025: EMEA Stage 2,Group Stage,Week 2,KOI vs FNATIC,KOI,FNATIC,0,2,FNATIC won
+VCT 2025: EMEA Stage 2,Group Stage,Week 3,FUT Esports vs GIANTX,FUT Esports,GIANTX,2,1,FUT Esports won
+VCT 2025: EMEA Stage 2,Group Stage,Week 3,Gentle Mates vs BBL Esports,Gentle Mates,BBL Esports,0,2,BBL Esports won
+VCT 2025: EMEA Stage 2,Group Stage,Week 3,Team Liquid vs Apeks,Team Liquid,Apeks,2,1,Team Liquid won
+VCT 2025: EMEA Stage 2,Group Stage,Week 3,KOI vs Karmine Corp,KOI,Karmine Corp,1,2,Karmine Corp won
+VCT 2025: EMEA Stage 2,Group Stage,Week 3,Natus Vincere vs FNATIC,Natus Vincere,FNATIC,1,2,FNATIC won
+VCT 2025: EMEA Stage 2,Group Stage,Week 3,Team Vitality vs Team Heretics,Team Vitality,Team Heretics,0,2,Team Heretics won
+VCT 2025: EMEA Stage 2,Group Stage,Week 4,FUT Esports vs Team Heretics,FUT Esports,Team Heretics,0,2,Team Heretics won
+VCT 2025: EMEA Stage 2,Group Stage,Week 4,KOI vs Apeks,KOI,Apeks,2,1,KOI won
+VCT 2025: EMEA Stage 2,Group Stage,Week 4,Gentle Mates vs GIANTX,Gentle Mates,GIANTX,1,2,GIANTX won
+VCT 2025: EMEA Stage 2,Group Stage,Week 4,Natus Vincere vs Karmine Corp,Natus Vincere,Karmine Corp,2,0,Natus Vincere won
+VCT 2025: EMEA Stage 2,Group Stage,Week 4,Team Vitality vs BBL Esports,Team Vitality,BBL Esports,1,2,BBL Esports won
+VCT 2025: EMEA Stage 2,Group Stage,Week 4,Team Liquid vs FNATIC,Team Liquid,FNATIC,2,0,Team Liquid won
+VCT 2025: EMEA Stage 2,Group Stage,Week 5,KOI vs Natus Vincere,KOI,Natus Vincere,1,2,Natus Vincere won
+VCT 2025: EMEA Stage 2,Group Stage,Week 5,Apeks vs FNATIC,Apeks,FNATIC,0,2,FNATIC won
+VCT 2025: EMEA Stage 2,Group Stage,Week 5,GIANTX vs Team Heretics,GIANTX,Team Heretics,0,2,Team Heretics won
+VCT 2025: EMEA Stage 2,Group Stage,Week 5,Gentle Mates vs Team Vitality,Gentle Mates,Team Vitality,1,2,Team Vitality won
+VCT 2025: EMEA Stage 2,Group Stage,Week 5,FUT Esports vs BBL Esports,FUT Esports,BBL Esports,0,2,BBL Esports won
+VCT 2025: EMEA Stage 2,Group Stage,Week 5,Team Liquid vs Karmine Corp,Team Liquid,Karmine Corp,1,2,Karmine Corp won
+VCT 2025: EMEA Stage 2,Playoffs,Upper Round 1,FNATIC vs BBL Esports,FNATIC,BBL Esports,1,2,BBL Esports won
+VCT 2025: EMEA Stage 2,Playoffs,Upper Round 1,GIANTX vs Natus Vincere,GIANTX,Natus Vincere,2,1,GIANTX won
+VCT 2025: EMEA Stage 2,Playoffs,Upper Semifinals,Team Heretics vs BBL Esports,Team Heretics,BBL Esports,0,2,BBL Esports won
+VCT 2025: EMEA Stage 2,Playoffs,Upper Semifinals,Team Liquid vs GIANTX,Team Liquid,GIANTX,2,1,Team Liquid won
+VCT 2025: EMEA Stage 2,Playoffs,Lower Round 1,FNATIC vs Karmine Corp,FNATIC,Karmine Corp,2,1,FNATIC won
+VCT 2025: EMEA Stage 2,Playoffs,Lower Round 1,Natus Vincere vs Team Vitality,Natus Vincere,Team Vitality,2,0,Natus Vincere won
+VCT 2025: EMEA Stage 2,Playoffs,Lower Round 2,GIANTX vs FNATIC,GIANTX,FNATIC,2,0,GIANTX won
+VCT 2025: EMEA Stage 2,Playoffs,Lower Round 2,Team Heretics vs Natus Vincere,Team Heretics,Natus Vincere,0,2,Natus Vincere won
+VCT 2025: EMEA Stage 2,Playoffs,Upper Final,BBL Esports vs Team Liquid,BBL Esports,Team Liquid,1,2,Team Liquid won
+VCT 2025: EMEA Stage 2,Playoffs,Lower Round 3,GIANTX vs Natus Vincere,GIANTX,Natus Vincere,2,1,GIANTX won
+VCT 2025: EMEA Stage 2,Playoffs,Lower Final,BBL Esports vs GIANTX,BBL Esports,GIANTX,0,3,GIANTX won
+VCT 2025: EMEA Stage 2,Showmatch,Main Event,Team France vs Team EMEA,Team France,Team EMEA,7,13,Team EMEA won
+VCT 2025: EMEA Stage 2,Playoffs,Grand Final,Team Liquid vs GIANTX,Team Liquid,GIANTX,3,0,Team Liquid won
+VCT 2025: Pacific Stage 2,Group Stage,Week 1,BOOM Esports vs TALON,BOOM Esports,TALON,0,2,TALON won
+VCT 2025: Pacific Stage 2,Group Stage,Week 1,Nongshim RedForce vs Team Secret,Nongshim RedForce,Team Secret,2,1,Nongshim RedForce won
+VCT 2025: Pacific Stage 2,Group Stage,Week 1,T1 vs Paper Rex,T1,Paper Rex,0,2,Paper Rex won
+VCT 2025: Pacific Stage 2,Group Stage,Week 1,DRX vs Gen.G,DRX,Gen.G,0,2,Gen.G won
+VCT 2025: Pacific Stage 2,Group Stage,Week 1,Rex Regum Qeon vs Global Esports,Rex Regum Qeon,Global Esports,0,2,Global Esports won
+VCT 2025: Pacific Stage 2,Group Stage,Week 1,ZETA DIVISION vs DetonatioN FocusMe,ZETA DIVISION,DetonatioN FocusMe,1,2,DetonatioN FocusMe won
+VCT 2025: Pacific Stage 2,Group Stage,Week 1,DRX vs Nongshim RedForce,DRX,Nongshim RedForce,2,1,DRX won
+VCT 2025: Pacific Stage 2,Group Stage,Week 1,BOOM Esports vs T1,BOOM Esports,T1,0,2,T1 won
+VCT 2025: Pacific Stage 2,Group Stage,Week 1,Global Esports vs Team Secret,Global Esports,Team Secret,1,2,Team Secret won
+VCT 2025: Pacific Stage 2,Group Stage,Week 1,Paper Rex vs DetonatioN FocusMe,Paper Rex,DetonatioN FocusMe,2,0,Paper Rex won
+VCT 2025: Pacific Stage 2,Group Stage,Week 1,TALON vs ZETA DIVISION,TALON,ZETA DIVISION,2,0,TALON won
+VCT 2025: Pacific Stage 2,Group Stage,Week 1,Rex Regum Qeon vs Gen.G,Rex Regum Qeon,Gen.G,2,1,Rex Regum Qeon won
+VCT 2025: Pacific Stage 2,Group Stage,Week 2,Gen.G vs Global Esports,Gen.G,Global Esports,2,1,Gen.G won
+VCT 2025: Pacific Stage 2,Group Stage,Week 2,TALON vs DetonatioN FocusMe,TALON,DetonatioN FocusMe,1,2,DetonatioN FocusMe won
+VCT 2025: Pacific Stage 2,Group Stage,Week 2,T1 vs ZETA DIVISION,T1,ZETA DIVISION,2,0,T1 won
+VCT 2025: Pacific Stage 2,Group Stage,Week 2,Rex Regum Qeon vs Nongshim RedForce,Rex Regum Qeon,Nongshim RedForce,2,1,Rex Regum Qeon won
+VCT 2025: Pacific Stage 2,Group Stage,Week 2,DRX vs Team Secret,DRX,Team Secret,2,0,DRX won
+VCT 2025: Pacific Stage 2,Group Stage,Week 2,BOOM Esports vs Paper Rex,BOOM Esports,Paper Rex,0,2,Paper Rex won
+VCT 2025: Pacific Stage 2,Group Stage,Week 3,Gen.G vs Team Secret,Gen.G,Team Secret,2,0,Gen.G won
+VCT 2025: Pacific Stage 2,Group Stage,Week 3,TALON vs T1,TALON,T1,2,0,TALON won
+VCT 2025: Pacific Stage 2,Group Stage,Week 3,BOOM Esports vs DetonatioN FocusMe,BOOM Esports,DetonatioN FocusMe,0,2,DetonatioN FocusMe won
+VCT 2025: Pacific Stage 2,Group Stage,Week 3,Rex Regum Qeon vs DRX,Rex Regum Qeon,DRX,0,2,DRX won
+VCT 2025: Pacific Stage 2,Group Stage,Week 3,Nongshim RedForce vs Global Esports,Nongshim RedForce,Global Esports,2,0,Nongshim RedForce won
+VCT 2025: Pacific Stage 2,Group Stage,Week 3,Paper Rex vs ZETA DIVISION,Paper Rex,ZETA DIVISION,0,2,ZETA DIVISION won
+VCT 2025: Pacific Stage 2,Group Stage,Week 4,Gen.G vs Nongshim RedForce,Gen.G,Nongshim RedForce,0,2,Nongshim RedForce won
+VCT 2025: Pacific Stage 2,Group Stage,Week 4,TALON vs Paper Rex,TALON,Paper Rex,0,2,Paper Rex won
+VCT 2025: Pacific Stage 2,Group Stage,Week 4,DRX vs Global Esports,DRX,Global Esports,2,0,DRX won
+VCT 2025: Pacific Stage 2,Group Stage,Week 4,BOOM Esports vs ZETA DIVISION,BOOM Esports,ZETA DIVISION,1,2,ZETA DIVISION won
+VCT 2025: Pacific Stage 2,Group Stage,Week 4,Rex Regum Qeon vs Team Secret,Rex Regum Qeon,Team Secret,2,1,Rex Regum Qeon won
+VCT 2025: Pacific Stage 2,Group Stage,Week 4,T1 vs DetonatioN FocusMe,T1,DetonatioN FocusMe,2,0,T1 won
+VCT 2025: Pacific Stage 2,Playoffs,Upper Round 1,TALON vs Nongshim RedForce,TALON,Nongshim RedForce,2,0,TALON won
+VCT 2025: Pacific Stage 2,Playoffs,Upper Round 1,Rex Regum Qeon vs T1,Rex Regum Qeon,T1,1,2,T1 won
+VCT 2025: Pacific Stage 2,Playoffs,Upper Semifinals,DRX vs TALON,DRX,TALON,1,2,TALON won
+VCT 2025: Pacific Stage 2,Playoffs,Upper Semifinals,Paper Rex vs T1,Paper Rex,T1,2,0,Paper Rex won
+VCT 2025: Pacific Stage 2,Playoffs,Lower Round 1,Nongshim RedForce vs DetonatioN FocusMe,Nongshim RedForce,DetonatioN FocusMe,2,0,Nongshim RedForce won
+VCT 2025: Pacific Stage 2,Playoffs,Lower Round 1,Rex Regum Qeon vs Gen.G,Rex Regum Qeon,Gen.G,2,1,Rex Regum Qeon won
+VCT 2025: Pacific Stage 2,Playoffs,Lower Round 2,T1 vs Nongshim RedForce,T1,Nongshim RedForce,2,0,T1 won
+VCT 2025: Pacific Stage 2,Playoffs,Lower Round 2,DRX vs Rex Regum Qeon,DRX,Rex Regum Qeon,0,2,Rex Regum Qeon won
+VCT 2025: Pacific Stage 2,Playoffs,Upper Final,TALON vs Paper Rex,TALON,Paper Rex,0,2,Paper Rex won
+VCT 2025: Pacific Stage 2,Playoffs,Lower Round 3,T1 vs Rex Regum Qeon,T1,Rex Regum Qeon,1,2,Rex Regum Qeon won
+VCT 2025: Pacific Stage 2,Showmatch,Main Event,Team World vs Glory Once Again,Team World,Glory Once Again,13,8,Team World won
+VCT 2025: Pacific Stage 2,Playoffs,Lower Final,TALON vs Rex Regum Qeon,TALON,Rex Regum Qeon,2,3,Rex Regum Qeon won
+VCT 2025: Pacific Stage 2,Playoffs,Grand Final,Paper Rex vs Rex Regum Qeon,Paper Rex,Rex Regum Qeon,3,1,Paper Rex won
+VCT 2025: China Stage 2,Group Stage,Week 1,EDward Gaming vs Titan Esports Club,EDward Gaming,Titan Esports Club,2,0,EDward Gaming won
+VCT 2025: China Stage 2,Group Stage,Week 1,Bilibili Gaming vs TYLOO,Bilibili Gaming,TYLOO,2,0,Bilibili Gaming won
+VCT 2025: China Stage 2,Group Stage,Week 1,All Gamers vs Xi Lai Gaming,All Gamers,Xi Lai Gaming,1,2,Xi Lai Gaming won
+VCT 2025: China Stage 2,Group Stage,Week 1,Wolves Esports vs FunPlus Phoenix,Wolves Esports,FunPlus Phoenix,0,2,FunPlus Phoenix won
+VCT 2025: China Stage 2,Group Stage,Week 1,Dragon Ranger Gaming vs Nova Esports,Dragon Ranger Gaming,Nova Esports,2,1,Dragon Ranger Gaming won
+VCT 2025: China Stage 2,Group Stage,Week 1,JDG Esports vs Trace Esports,JDG Esports,Trace Esports,1,2,Trace Esports won
+VCT 2025: China Stage 2,Group Stage,Week 2,Trace Esports vs TYLOO,Trace Esports,TYLOO,0,2,TYLOO won
+VCT 2025: China Stage 2,Group Stage,Week 2,FunPlus Phoenix vs Nova Esports,FunPlus Phoenix,Nova Esports,2,1,FunPlus Phoenix won
+VCT 2025: China Stage 2,Group Stage,Week 2,All Gamers vs Wolves Esports,All Gamers,Wolves Esports,2,0,All Gamers won
+VCT 2025: China Stage 2,Group Stage,Week 2,JDG Esports vs Bilibili Gaming,JDG Esports,Bilibili Gaming,1,2,Bilibili Gaming won
+VCT 2025: China Stage 2,Group Stage,Week 2,TYLOO vs Titan Esports Club,TYLOO,Titan Esports Club,2,0,TYLOO won
+VCT 2025: China Stage 2,Group Stage,Week 2,Trace Esports vs EDward Gaming,Trace Esports,EDward Gaming,2,1,Trace Esports won
+VCT 2025: China Stage 2,Group Stage,Week 2,Dragon Ranger Gaming vs All Gamers,Dragon Ranger Gaming,All Gamers,2,1,Dragon Ranger Gaming won
+VCT 2025: China Stage 2,Group Stage,Week 2,Xi Lai Gaming vs Wolves Esports,Xi Lai Gaming,Wolves Esports,2,0,Xi Lai Gaming won
+VCT 2025: China Stage 2,Group Stage,Week 3,Titan Esports Club vs Bilibili Gaming,Titan Esports Club,Bilibili Gaming,0,2,Bilibili Gaming won
+VCT 2025: China Stage 2,Group Stage,Week 3,FunPlus Phoenix vs Dragon Ranger Gaming,FunPlus Phoenix,Dragon Ranger Gaming,2,1,FunPlus Phoenix won
+VCT 2025: China Stage 2,Group Stage,Week 3,Nova Esports vs All Gamers,Nova Esports,All Gamers,1,2,All Gamers won
+VCT 2025: China Stage 2,Group Stage,Week 3,TYLOO vs EDward Gaming,TYLOO,EDward Gaming,0,2,EDward Gaming won
+VCT 2025: China Stage 2,Group Stage,Week 3,Titan Esports Club vs JDG Esports,Titan Esports Club,JDG Esports,1,2,JDG Esports won
+VCT 2025: China Stage 2,Group Stage,Week 3,Bilibili Gaming vs Trace Esports,Bilibili Gaming,Trace Esports,1,2,Trace Esports won
+VCT 2025: China Stage 2,Group Stage,Week 3,Wolves Esports vs Dragon Ranger Gaming,Wolves Esports,Dragon Ranger Gaming,2,1,Wolves Esports won
+VCT 2025: China Stage 2,Group Stage,Week 3,Xi Lai Gaming vs FunPlus Phoenix,Xi Lai Gaming,FunPlus Phoenix,2,0,Xi Lai Gaming won
+VCT 2025: China Stage 2,Group Stage,Week 4,Nova Esports vs Xi Lai Gaming,Nova Esports,Xi Lai Gaming,0,2,Xi Lai Gaming won
+VCT 2025: China Stage 2,Group Stage,Week 4,EDward Gaming vs JDG Esports,EDward Gaming,JDG Esports,2,1,EDward Gaming won
+VCT 2025: China Stage 2,Group Stage,Week 4,All Gamers vs FunPlus Phoenix,All Gamers,FunPlus Phoenix,2,0,All Gamers won
+VCT 2025: China Stage 2,Group Stage,Week 4,Trace Esports vs Titan Esports Club,Trace Esports,Titan Esports Club,0,2,Titan Esports Club won
+VCT 2025: China Stage 2,Group Stage,Week 4,Nova Esports vs Wolves Esports,Nova Esports,Wolves Esports,2,1,Nova Esports won
+VCT 2025: China Stage 2,Group Stage,Week 4,Dragon Ranger Gaming vs Xi Lai Gaming,Dragon Ranger Gaming,Xi Lai Gaming,2,1,Dragon Ranger Gaming won
+VCT 2025: China Stage 2,Group Stage,Week 4,TYLOO vs JDG Esports,TYLOO,JDG Esports,2,1,TYLOO won
+VCT 2025: China Stage 2,Group Stage,Week 4,Bilibili Gaming vs EDward Gaming,Bilibili Gaming,EDward Gaming,2,0,Bilibili Gaming won
+VCT 2025: China Stage 2,Playoffs,Upper Quarterfinals,All Gamers vs TYLOO,All Gamers,TYLOO,0,2,TYLOO won
+VCT 2025: China Stage 2,Playoffs,Upper Quarterfinals,EDward Gaming vs Dragon Ranger Gaming,EDward Gaming,Dragon Ranger Gaming,0,2,Dragon Ranger Gaming won
+VCT 2025: China Stage 2,Playoffs,Lower Round 1,All Gamers vs FunPlus Phoenix,All Gamers,FunPlus Phoenix,2,1,All Gamers won
+VCT 2025: China Stage 2,Playoffs,Lower Round 1,EDward Gaming vs Trace Esports,EDward Gaming,Trace Esports,2,1,EDward Gaming won
+VCT 2025: China Stage 2,Playoffs,Upper Semifinals,Bilibili Gaming vs TYLOO,Bilibili Gaming,TYLOO,2,1,Bilibili Gaming won
+VCT 2025: China Stage 2,Playoffs,Upper Semifinals,Xi Lai Gaming vs Dragon Ranger Gaming,Xi Lai Gaming,Dragon Ranger Gaming,1,2,Dragon Ranger Gaming won
+VCT 2025: China Stage 2,Playoffs,Lower Round 2,TYLOO vs EDward Gaming,TYLOO,EDward Gaming,0,2,EDward Gaming won
+VCT 2025: China Stage 2,Playoffs,Lower Round 2,Xi Lai Gaming vs All Gamers,Xi Lai Gaming,All Gamers,2,1,Xi Lai Gaming won
+VCT 2025: China Stage 2,Showmatch,All-Star Match,Pure Aim vs Precise Defeat,Pure Aim,Precise Defeat,10,13,Precise Defeat won
+VCT 2025: China Stage 2,Playoffs,Upper Final,Dragon Ranger Gaming vs Bilibili Gaming,Dragon Ranger Gaming,Bilibili Gaming,2,1,Dragon Ranger Gaming won
+VCT 2025: China Stage 2,Playoffs,Lower Round 3,EDward Gaming vs Xi Lai Gaming,EDward Gaming,Xi Lai Gaming,2,0,EDward Gaming won
+VCT 2025: China Stage 2,Playoffs,Lower Final,Bilibili Gaming vs EDward Gaming,Bilibili Gaming,EDward Gaming,3,1,Bilibili Gaming won
+VCT 2025: China Stage 2,Playoffs,Grand Final,Dragon Ranger Gaming vs Bilibili Gaming,Dragon Ranger Gaming,Bilibili Gaming,1,3,Bilibili Gaming won
+Valorant Masters Toronto 2025,Swiss Stage,Round 1,Team Heretics vs Paper Rex,Team Heretics,Paper Rex,0,2,Paper Rex won
+Valorant Masters Toronto 2025,Swiss Stage,Round 1,Bilibili Gaming vs Team Liquid,Bilibili Gaming,Team Liquid,2,1,Bilibili Gaming won
+Valorant Masters Toronto 2025,Swiss Stage,Round 1,Sentinels vs Wolves Esports,Sentinels,Wolves Esports,2,0,Sentinels won
+Valorant Masters Toronto 2025,Swiss Stage,Round 1,Gen.G vs MIBR,Gen.G,MIBR,2,0,Gen.G won
+Valorant Masters Toronto 2025,Swiss Stage,Round 2 (1-0),Bilibili Gaming vs Sentinels,Bilibili Gaming,Sentinels,1,2,Sentinels won
+Valorant Masters Toronto 2025,Swiss Stage,Round 2 (1-0),Paper Rex vs Gen.G,Paper Rex,Gen.G,0,2,Gen.G won
+Valorant Masters Toronto 2025,Swiss Stage,Round 2 (0-1),Team Heretics vs Wolves Esports,Team Heretics,Wolves Esports,0,2,Wolves Esports won
+Valorant Masters Toronto 2025,Swiss Stage,Round 2 (0-1),Team Liquid vs MIBR,Team Liquid,MIBR,2,0,Team Liquid won
+Valorant Masters Toronto 2025,Swiss Stage,Round 3 (1-1),Bilibili Gaming vs Wolves Esports,Bilibili Gaming,Wolves Esports,0,2,Wolves Esports won
+Valorant Masters Toronto 2025,Swiss Stage,Round 3 (1-1),Paper Rex vs Team Liquid,Paper Rex,Team Liquid,2,1,Paper Rex won
+Valorant Masters Toronto 2025,Playoffs,Upper Quarterfinals,G2 Esports vs Paper Rex,G2 Esports,Paper Rex,0,2,Paper Rex won
+Valorant Masters Toronto 2025,Playoffs,Upper Quarterfinals,Xi Lai Gaming vs Sentinels,Xi Lai Gaming,Sentinels,0,2,Sentinels won
+Valorant Masters Toronto 2025,Playoffs,Upper Quarterfinals,Rex Regum Qeon vs Wolves Esports,Rex Regum Qeon,Wolves Esports,0,2,Wolves Esports won
+Valorant Masters Toronto 2025,Playoffs,Upper Quarterfinals,FNATIC vs Gen.G,FNATIC,Gen.G,1,2,Gen.G won
+Valorant Masters Toronto 2025,Playoffs,Lower Round 1,Xi Lai Gaming vs G2 Esports,Xi Lai Gaming,G2 Esports,0,2,G2 Esports won
+Valorant Masters Toronto 2025,Playoffs,Lower Round 1,Rex Regum Qeon vs FNATIC,Rex Regum Qeon,FNATIC,1,2,FNATIC won
+Valorant Masters Toronto 2025,Playoffs,Upper Semifinals,Wolves Esports vs Gen.G,Wolves Esports,Gen.G,2,0,Wolves Esports won
+Valorant Masters Toronto 2025,Playoffs,Upper Semifinals,Sentinels vs Paper Rex,Sentinels,Paper Rex,0,2,Paper Rex won
+Valorant Masters Toronto 2025,Playoffs,Lower Round 2,Gen.G vs G2 Esports,Gen.G,G2 Esports,1,2,G2 Esports won
+Valorant Masters Toronto 2025,Playoffs,Lower Round 2,Sentinels vs FNATIC,Sentinels,FNATIC,1,2,FNATIC won
+Valorant Masters Toronto 2025,Playoffs,Upper Final,Paper Rex vs Wolves Esports,Paper Rex,Wolves Esports,2,0,Paper Rex won
+Valorant Masters Toronto 2025,Playoffs,Lower Round 3,G2 Esports vs FNATIC,G2 Esports,FNATIC,0,2,FNATIC won
+Valorant Masters Toronto 2025,Playoffs,Lower Final,Wolves Esports vs FNATIC,Wolves Esports,FNATIC,1,3,FNATIC won
+Valorant Masters Toronto 2025,Playoffs,Grand Final,Paper Rex vs FNATIC,Paper Rex,FNATIC,3,1,Paper Rex won
+VCT 2025: EMEA Stage 1,Group Stage,Week 1,Team Vitality vs GIANTX,Team Vitality,GIANTX,2,0,Team Vitality won
+VCT 2025: EMEA Stage 1,Group Stage,Week 1,BBL Esports vs Karmine Corp,BBL Esports,Karmine Corp,2,1,BBL Esports won
+VCT 2025: EMEA Stage 1,Group Stage,Week 1,Team Heretics vs Apeks,Team Heretics,Apeks,2,1,Team Heretics won
+VCT 2025: EMEA Stage 1,Group Stage,Week 1,FUT Esports vs KOI,FUT Esports,KOI,2,0,FUT Esports won
+VCT 2025: EMEA Stage 1,Group Stage,Week 1,FNATIC vs Natus Vincere,FNATIC,Natus Vincere,2,0,FNATIC won
+VCT 2025: EMEA Stage 1,Group Stage,Week 1,Team Liquid vs Gentle Mates,Team Liquid,Gentle Mates,1,2,Gentle Mates won
+VCT 2025: EMEA Stage 1,Group Stage,Week 2,Team Liquid vs BBL Esports,Team Liquid,BBL Esports,2,1,Team Liquid won
+VCT 2025: EMEA Stage 1,Group Stage,Week 2,Apeks vs Natus Vincere,Apeks,Natus Vincere,1,2,Natus Vincere won
+VCT 2025: EMEA Stage 1,Group Stage,Week 2,FUT Esports vs Gentle Mates,FUT Esports,Gentle Mates,2,1,FUT Esports won
+VCT 2025: EMEA Stage 1,Group Stage,Week 2,Team Heretics vs GIANTX,Team Heretics,GIANTX,2,1,Team Heretics won
+VCT 2025: EMEA Stage 1,Group Stage,Week 2,Team Vitality vs FNATIC,Team Vitality,FNATIC,1,2,FNATIC won
+VCT 2025: EMEA Stage 1,Group Stage,Week 2,KOI vs Karmine Corp,KOI,Karmine Corp,0,2,Karmine Corp won
+VCT 2025: EMEA Stage 1,Group Stage,Week 3,KOI vs BBL Esports,KOI,BBL Esports,0,2,BBL Esports won
+VCT 2025: EMEA Stage 1,Group Stage,Week 3,Natus Vincere vs GIANTX,Natus Vincere,GIANTX,2,1,Natus Vincere won
+VCT 2025: EMEA Stage 1,Group Stage,Week 3,Team Liquid vs FUT Esports,Team Liquid,FUT Esports,2,0,Team Liquid won
+VCT 2025: EMEA Stage 1,Group Stage,Week 3,Team Vitality vs Team Heretics,Team Vitality,Team Heretics,0,2,Team Heretics won
+VCT 2025: EMEA Stage 1,Group Stage,Week 3,Apeks vs FNATIC,Apeks,FNATIC,0,2,FNATIC won
+VCT 2025: EMEA Stage 1,Group Stage,Week 3,Karmine Corp vs Gentle Mates,Karmine Corp,Gentle Mates,2,0,Karmine Corp won
+VCT 2025: EMEA Stage 1,Group Stage,Week 4,Team Vitality vs Apeks,Team Vitality,Apeks,2,0,Team Vitality won
+VCT 2025: EMEA Stage 1,Group Stage,Week 4,Team Liquid vs KOI,Team Liquid,KOI,2,0,Team Liquid won
+VCT 2025: EMEA Stage 1,Group Stage,Week 4,Gentle Mates vs BBL Esports,Gentle Mates,BBL Esports,0,2,BBL Esports won
+VCT 2025: EMEA Stage 1,Group Stage,Week 4,GIANTX vs FNATIC,GIANTX,FNATIC,1,2,FNATIC won
+VCT 2025: EMEA Stage 1,Group Stage,Week 4,Karmine Corp vs FUT Esports,Karmine Corp,FUT Esports,1,2,FUT Esports won
+VCT 2025: EMEA Stage 1,Group Stage,Week 4,Natus Vincere vs Team Heretics,Natus Vincere,Team Heretics,0,2,Team Heretics won
+VCT 2025: EMEA Stage 1,Group Stage,Week 5,BBL Esports vs FUT Esports,BBL Esports,FUT Esports,2,0,BBL Esports won
+VCT 2025: EMEA Stage 1,Group Stage,Week 5,GIANTX vs Apeks,GIANTX,Apeks,2,0,GIANTX won
+VCT 2025: EMEA Stage 1,Group Stage,Week 5,Gentle Mates vs KOI,Gentle Mates,KOI,1,2,KOI won
+VCT 2025: EMEA Stage 1,Group Stage,Week 5,Team Vitality vs Natus Vincere,Team Vitality,Natus Vincere,0,2,Natus Vincere won
+VCT 2025: EMEA Stage 1,Group Stage,Week 5,Team Liquid vs Karmine Corp,Team Liquid,Karmine Corp,2,1,Team Liquid won
+VCT 2025: EMEA Stage 1,Group Stage,Week 5,FNATIC vs Team Heretics,FNATIC,Team Heretics,0,2,Team Heretics won
+VCT 2025: EMEA Stage 1,Playoffs,Upper Round 1,BBL Esports vs Natus Vincere,BBL Esports,Natus Vincere,2,0,BBL Esports won
+VCT 2025: EMEA Stage 1,Playoffs,Upper Round 1,FNATIC vs FUT Esports,FNATIC,FUT Esports,2,0,FNATIC won
+VCT 2025: EMEA Stage 1,Playoffs,Lower Round 1,Natus Vincere vs Karmine Corp,Natus Vincere,Karmine Corp,2,1,Natus Vincere won
+VCT 2025: EMEA Stage 1,Playoffs,Lower Round 1,FUT Esports vs Team Vitality,FUT Esports,Team Vitality,2,0,FUT Esports won
+VCT 2025: EMEA Stage 1,Playoffs,Upper Semifinals,Team Heretics vs BBL Esports,Team Heretics,BBL Esports,2,0,Team Heretics won
+VCT 2025: EMEA Stage 1,Playoffs,Upper Semifinals,Team Liquid vs FNATIC,Team Liquid,FNATIC,1,2,FNATIC won
+VCT 2025: EMEA Stage 1,Playoffs,Lower Round 2,BBL Esports vs FUT Esports,BBL Esports,FUT Esports,2,1,BBL Esports won
+VCT 2025: EMEA Stage 1,Playoffs,Lower Round 2,Team Liquid vs Natus Vincere,Team Liquid,Natus Vincere,2,1,Team Liquid won
+VCT 2025: EMEA Stage 1,Playoffs,Upper Final,Team Heretics vs FNATIC,Team Heretics,FNATIC,0,2,FNATIC won
+VCT 2025: EMEA Stage 1,Playoffs,Lower Round 3,Team Liquid vs BBL Esports,Team Liquid,BBL Esports,2,1,Team Liquid won
+VCT 2025: EMEA Stage 1,Playoffs,Lower Final,Team Heretics vs Team Liquid,Team Heretics,Team Liquid,3,0,Team Heretics won
+VCT 2025: EMEA Stage 1,Playoffs,Grand Final,FNATIC vs Team Heretics,FNATIC,Team Heretics,3,0,FNATIC won
+VCT 2025: Pacific Stage 1,Group Stage,Week 1,DetonatioN FocusMe vs Global Esports,DetonatioN FocusMe,Global Esports,0,2,Global Esports won
+VCT 2025: Pacific Stage 1,Group Stage,Week 1,T1 vs ZETA DIVISION,T1,ZETA DIVISION,2,1,T1 won
+VCT 2025: Pacific Stage 1,Group Stage,Week 1,DRX vs Paper Rex,DRX,Paper Rex,2,1,DRX won
+VCT 2025: Pacific Stage 1,Group Stage,Week 1,TALON vs Team Secret,TALON,Team Secret,2,1,TALON won
+VCT 2025: Pacific Stage 1,Group Stage,Week 1,Gen.G vs BOOM Esports,Gen.G,BOOM Esports,0,2,BOOM Esports won
+VCT 2025: Pacific Stage 1,Group Stage,Week 1,Nongshim RedForce vs Rex Regum Qeon,Nongshim RedForce,Rex Regum Qeon,2,1,Nongshim RedForce won
+VCT 2025: Pacific Stage 1,Group Stage,Week 2,Team Secret vs ZETA DIVISION,Team Secret,ZETA DIVISION,0,2,ZETA DIVISION won
+VCT 2025: Pacific Stage 1,Group Stage,Week 2,T1 vs Nongshim RedForce,T1,Nongshim RedForce,2,0,T1 won
+VCT 2025: Pacific Stage 1,Group Stage,Week 2,Gen.G vs Paper Rex,Gen.G,Paper Rex,2,1,Gen.G won
+VCT 2025: Pacific Stage 1,Group Stage,Week 2,DRX vs DetonatioN FocusMe,DRX,DetonatioN FocusMe,2,0,DRX won
+VCT 2025: Pacific Stage 1,Group Stage,Week 2,TALON vs Rex Regum Qeon,TALON,Rex Regum Qeon,0,2,Rex Regum Qeon won
+VCT 2025: Pacific Stage 1,Group Stage,Week 2,BOOM Esports vs Global Esports,BOOM Esports,Global Esports,2,0,BOOM Esports won
+VCT 2025: Pacific Stage 1,Group Stage,Week 3,Gen.G vs DetonatioN FocusMe,Gen.G,DetonatioN FocusMe,2,0,Gen.G won
+VCT 2025: Pacific Stage 1,Group Stage,Week 3,Rex Regum Qeon vs ZETA DIVISION,Rex Regum Qeon,ZETA DIVISION,2,0,Rex Regum Qeon won
+VCT 2025: Pacific Stage 1,Group Stage,Week 3,Paper Rex vs BOOM Esports,Paper Rex,BOOM Esports,1,2,BOOM Esports won
+VCT 2025: Pacific Stage 1,Group Stage,Week 3,TALON vs Nongshim RedForce,TALON,Nongshim RedForce,2,1,TALON won
+VCT 2025: Pacific Stage 1,Group Stage,Week 3,DRX vs Global Esports,DRX,Global Esports,2,0,DRX won
+VCT 2025: Pacific Stage 1,Group Stage,Week 3,T1 vs Team Secret,T1,Team Secret,2,1,T1 won
+VCT 2025: Pacific Stage 1,Group Stage,Week 4,Nongshim RedForce vs Team Secret,Nongshim RedForce,Team Secret,2,0,Nongshim RedForce won
+VCT 2025: Pacific Stage 1,Group Stage,Week 4,DRX vs BOOM Esports,DRX,BOOM Esports,1,2,BOOM Esports won
+VCT 2025: Pacific Stage 1,Group Stage,Week 4,T1 vs Rex Regum Qeon,T1,Rex Regum Qeon,1,2,Rex Regum Qeon won
+VCT 2025: Pacific Stage 1,Group Stage,Week 4,Gen.G vs Global Esports,Gen.G,Global Esports,2,0,Gen.G won
+VCT 2025: Pacific Stage 1,Group Stage,Week 4,TALON vs ZETA DIVISION,TALON,ZETA DIVISION,0,2,ZETA DIVISION won
+VCT 2025: Pacific Stage 1,Group Stage,Week 4,DetonatioN FocusMe vs Paper Rex,DetonatioN FocusMe,Paper Rex,1,2,Paper Rex won
+VCT 2025: Pacific Stage 1,Group Stage,Week 5,Paper Rex vs Global Esports,Paper Rex,Global Esports,2,0,Paper Rex won
+VCT 2025: Pacific Stage 1,Group Stage,Week 5,T1 vs TALON,T1,TALON,0,2,TALON won
+VCT 2025: Pacific Stage 1,Group Stage,Week 5,DRX vs Gen.G,DRX,Gen.G,2,1,DRX won
+VCT 2025: Pacific Stage 1,Group Stage,Week 5,Nongshim RedForce vs ZETA DIVISION,Nongshim RedForce,ZETA DIVISION,2,1,Nongshim RedForce won
+VCT 2025: Pacific Stage 1,Group Stage,Week 5,DetonatioN FocusMe vs BOOM Esports,DetonatioN FocusMe,BOOM Esports,0,2,BOOM Esports won
+VCT 2025: Pacific Stage 1,Group Stage,Week 5,Rex Regum Qeon vs Team Secret,Rex Regum Qeon,Team Secret,1,2,Team Secret won
+VCT 2025: Pacific Stage 1,Playoffs,Upper Round 1,TALON vs Gen.G,TALON,Gen.G,1,2,Gen.G won
+VCT 2025: Pacific Stage 1,Playoffs,Upper Round 1,DRX vs T1,DRX,T1,2,0,DRX won
+VCT 2025: Pacific Stage 1,Playoffs,Upper Semifinals,BOOM Esports vs Gen.G,BOOM Esports,Gen.G,0,2,Gen.G won
+VCT 2025: Pacific Stage 1,Playoffs,Upper Semifinals,Rex Regum Qeon vs DRX,Rex Regum Qeon,DRX,2,1,Rex Regum Qeon won
+VCT 2025: Pacific Stage 1,Playoffs,Lower Round 1,TALON vs Nongshim RedForce,TALON,Nongshim RedForce,2,1,TALON won
+VCT 2025: Pacific Stage 1,Playoffs,Lower Round 1,T1 vs Paper Rex,T1,Paper Rex,1,2,Paper Rex won
+VCT 2025: Pacific Stage 1,Playoffs,Lower Round 2,DRX vs TALON,DRX,TALON,2,0,DRX won
+VCT 2025: Pacific Stage 1,Playoffs,Lower Round 2,BOOM Esports vs Paper Rex,BOOM Esports,Paper Rex,0,2,Paper Rex won
+VCT 2025: Pacific Stage 1,Playoffs,Upper Final,Gen.G vs Rex Regum Qeon,Gen.G,Rex Regum Qeon,2,0,Gen.G won
+VCT 2025: Pacific Stage 1,Playoffs,Lower Round 3,DRX vs Paper Rex,DRX,Paper Rex,0,2,Paper Rex won
+VCT 2025: Pacific Stage 1,Playoffs,Lower Final,Rex Regum Qeon vs Paper Rex,Rex Regum Qeon,Paper Rex,3,2,Rex Regum Qeon won
+VCT 2025: Pacific Stage 1,Playoffs,Grand Final,Gen.G vs Rex Regum Qeon,Gen.G,Rex Regum Qeon,1,3,Rex Regum Qeon won
+VCT 2025: China Stage 1,Group Stage,Week 1,Xi Lai Gaming vs Bilibili Gaming,Xi Lai Gaming,Bilibili Gaming,1,2,Bilibili Gaming won
+VCT 2025: China Stage 1,Group Stage,Week 1,Trace Esports vs All Gamers,Trace Esports,All Gamers,2,1,Trace Esports won
+VCT 2025: China Stage 1,Group Stage,Week 1,Dragon Ranger Gaming vs Nova Esports,Dragon Ranger Gaming,Nova Esports,2,0,Dragon Ranger Gaming won
+VCT 2025: China Stage 1,Group Stage,Week 1,TYLOO vs EDward Gaming,TYLOO,EDward Gaming,0,2,EDward Gaming won
+VCT 2025: China Stage 1,Group Stage,Week 1,JDG Esports vs Wolves Esports,JDG Esports,Wolves Esports,0,2,Wolves Esports won
+VCT 2025: China Stage 1,Group Stage,Week 1,FunPlus Phoenix vs Titan Esports Club,FunPlus Phoenix,Titan Esports Club,2,0,FunPlus Phoenix won
+VCT 2025: China Stage 1,Group Stage,Week 2,Nova Esports vs EDward Gaming,Nova Esports,EDward Gaming,2,0,Nova Esports won
+VCT 2025: China Stage 1,Group Stage,Week 2,TYLOO vs FunPlus Phoenix,TYLOO,FunPlus Phoenix,1,2,FunPlus Phoenix won
+VCT 2025: China Stage 1,Group Stage,Week 2,Xi Lai Gaming vs All Gamers,Xi Lai Gaming,All Gamers,2,0,Xi Lai Gaming won
+VCT 2025: China Stage 1,Group Stage,Week 2,Wolves Esports vs Trace Esports,Wolves Esports,Trace Esports,2,0,Wolves Esports won
+VCT 2025: China Stage 1,Group Stage,Week 2,Titan Esports Club vs Dragon Ranger Gaming,Titan Esports Club,Dragon Ranger Gaming,2,1,Titan Esports Club won
+VCT 2025: China Stage 1,Group Stage,Week 2,Bilibili Gaming vs JDG Esports,Bilibili Gaming,JDG Esports,2,1,Bilibili Gaming won
+VCT 2025: China Stage 1,Group Stage,Week 3,JDG Esports vs Trace Esports,JDG Esports,Trace Esports,0,2,Trace Esports won
+VCT 2025: China Stage 1,Group Stage,Week 3,Wolves Esports vs Xi Lai Gaming,Wolves Esports,Xi Lai Gaming,0,2,Xi Lai Gaming won
+VCT 2025: China Stage 1,Group Stage,Week 3,TYLOO vs Titan Esports Club,TYLOO,Titan Esports Club,1,2,Titan Esports Club won
+VCT 2025: China Stage 1,Group Stage,Week 3,Dragon Ranger Gaming vs EDward Gaming,Dragon Ranger Gaming,EDward Gaming,1,2,EDward Gaming won
+VCT 2025: China Stage 1,Group Stage,Week 3,Nova Esports vs FunPlus Phoenix,Nova Esports,FunPlus Phoenix,2,0,Nova Esports won
+VCT 2025: China Stage 1,Group Stage,Week 3,All Gamers vs Bilibili Gaming,All Gamers,Bilibili Gaming,0,2,Bilibili Gaming won
+VCT 2025: China Stage 1,Group Stage,Week 4,FunPlus Phoenix vs Dragon Ranger Gaming,FunPlus Phoenix,Dragon Ranger Gaming,0,2,Dragon Ranger Gaming won
+VCT 2025: China Stage 1,Group Stage,Week 4,Bilibili Gaming vs Wolves Esports,Bilibili Gaming,Wolves Esports,2,1,Bilibili Gaming won
+VCT 2025: China Stage 1,Group Stage,Week 4,All Gamers vs JDG Esports,All Gamers,JDG Esports,0,2,JDG Esports won
+VCT 2025: China Stage 1,Group Stage,Week 4,EDward Gaming vs Titan Esports Club,EDward Gaming,Titan Esports Club,2,1,EDward Gaming won
+VCT 2025: China Stage 1,Group Stage,Week 4,Nova Esports vs TYLOO,Nova Esports,TYLOO,2,1,Nova Esports won
+VCT 2025: China Stage 1,Group Stage,Week 4,Trace Esports vs Xi Lai Gaming,Trace Esports,Xi Lai Gaming,1,2,Xi Lai Gaming won
+VCT 2025: China Stage 1,Group Stage,Week 5,JDG Esports vs Xi Lai Gaming,JDG Esports,Xi Lai Gaming,1,2,Xi Lai Gaming won
+VCT 2025: China Stage 1,Group Stage,Week 5,Dragon Ranger Gaming vs TYLOO,Dragon Ranger Gaming,TYLOO,1,2,TYLOO won
+VCT 2025: China Stage 1,Group Stage,Week 5,Wolves Esports vs All Gamers,Wolves Esports,All Gamers,2,1,Wolves Esports won
+VCT 2025: China Stage 1,Group Stage,Week 5,Bilibili Gaming vs Trace Esports,Bilibili Gaming,Trace Esports,1,2,Trace Esports won
+VCT 2025: China Stage 1,Group Stage,Week 5,Titan Esports Club vs Nova Esports,Titan Esports Club,Nova Esports,2,0,Titan Esports Club won
+VCT 2025: China Stage 1,Group Stage,Week 5,EDward Gaming vs FunPlus Phoenix,EDward Gaming,FunPlus Phoenix,2,0,EDward Gaming won
+VCT 2025: China Stage 1,Playoffs,Upper Round 1,Titan Esports Club vs Wolves Esports,Titan Esports Club,Wolves Esports,0,2,Wolves Esports won
+VCT 2025: China Stage 1,Playoffs,Upper Round 1,Xi Lai Gaming vs Nova Esports,Xi Lai Gaming,Nova Esports,2,0,Xi Lai Gaming won
+VCT 2025: China Stage 1,Playoffs,Lower Round 1,Titan Esports Club vs Dragon Ranger Gaming,Titan Esports Club,Dragon Ranger Gaming,1,2,Dragon Ranger Gaming won
+VCT 2025: China Stage 1,Playoffs,Lower Round 1,Nova Esports vs Trace Esports,Nova Esports,Trace Esports,0,2,Trace Esports won
+VCT 2025: China Stage 1,Playoffs,Upper Semifinals,Bilibili Gaming vs Wolves Esports,Bilibili Gaming,Wolves Esports,0,2,Wolves Esports won
+VCT 2025: China Stage 1,Playoffs,Upper Semifinals,EDward Gaming vs Xi Lai Gaming,EDward Gaming,Xi Lai Gaming,0,2,Xi Lai Gaming won
+VCT 2025: China Stage 1,Playoffs,Lower Round 2,Bilibili Gaming vs Trace Esports,Bilibili Gaming,Trace Esports,2,0,Bilibili Gaming won
+VCT 2025: China Stage 1,Playoffs,Lower Round 2,EDward Gaming vs Dragon Ranger Gaming,EDward Gaming,Dragon Ranger Gaming,2,1,EDward Gaming won
+VCT 2025: China Stage 1,Playoffs,Upper Final,Wolves Esports vs Xi Lai Gaming,Wolves Esports,Xi Lai Gaming,0,2,Xi Lai Gaming won
+VCT 2025: China Stage 1,Playoffs,Lower Round 3,EDward Gaming vs Bilibili Gaming,EDward Gaming,Bilibili Gaming,1,2,Bilibili Gaming won
+VCT 2025: China Stage 1,Playoffs,Lower Final,Wolves Esports vs Bilibili Gaming,Wolves Esports,Bilibili Gaming,0,3,Bilibili Gaming won
+VCT 2025: China Stage 1,Playoffs,Grand Final,Xi Lai Gaming vs Bilibili Gaming,Xi Lai Gaming,Bilibili Gaming,3,1,Xi Lai Gaming won
+VCT 2025: Americas Stage 1,Group Stage,Week 1,Cloud9 vs NRG,Cloud9,Mega Minors,2,1,Cloud9 won
+VCT 2025: Americas Stage 1,Group Stage,Week 1,KRÜ Esports vs LOUD,KRÜ Esports,LOUD,2,1,KRÜ Esports won
+VCT 2025: Americas Stage 1,Group Stage,Week 1,G2 Esports vs FURIA,G2 Esports,FURIA,2,0,G2 Esports won
+VCT 2025: Americas Stage 1,Group Stage,Week 1,MIBR vs LEVIATÁN,MIBR,LEVIATÁN,2,0,MIBR won
+VCT 2025: Americas Stage 1,Group Stage,Week 1,2Game Esports vs Evil Geniuses,2Game Esports,Evil Geniuses,0,2,Evil Geniuses won
+VCT 2025: Americas Stage 1,Group Stage,Week 1,Sentinels vs 100 Thieves,Sentinels,100 Thieves,2,1,Sentinels won
+VCT 2025: Americas Stage 1,Group Stage,Week 2,NRG vs FURIA,Mega Minors,FURIA,2,1,NRG won
+VCT 2025: Americas Stage 1,Group Stage,Week 2,Sentinels vs KRÜ Esports,Sentinels,KRÜ Esports,0,2,KRÜ Esports won
+VCT 2025: Americas Stage 1,Group Stage,Week 2,100 Thieves vs Evil Geniuses,100 Thieves,Evil Geniuses,2,0,100 Thieves won
+VCT 2025: Americas Stage 1,Group Stage,Week 2,G2 Esports vs MIBR,G2 Esports,MIBR,2,1,G2 Esports won
+VCT 2025: Americas Stage 1,Group Stage,Week 2,LOUD vs 2Game Esports,LOUD,2Game Esports,0,2,2Game Esports won
+VCT 2025: Americas Stage 1,Group Stage,Week 2,LEVIATÁN vs Cloud9,LEVIATÁN,Cloud9,0,2,Cloud9 won
+VCT 2025: Americas Stage 1,Group Stage,Week 3,Evil Geniuses vs Sentinels,Evil Geniuses,Sentinels,0,2,Sentinels won
+VCT 2025: Americas Stage 1,Group Stage,Week 3,100 Thieves vs LOUD,100 Thieves,LOUD,2,1,100 Thieves won
+VCT 2025: Americas Stage 1,Group Stage,Week 3,2Game Esports vs KRÜ Esports,2Game Esports,KRÜ Esports,1,2,KRÜ Esports won
+VCT 2025: Americas Stage 1,Group Stage,Week 3,G2 Esports vs NRG,G2 Esports,Mega Minors,2,0,G2 Esports won
+VCT 2025: Americas Stage 1,Group Stage,Week 3,FURIA vs LEVIATÁN,FURIA,LEVIATÁN,0,2,LEVIATÁN won
+VCT 2025: Americas Stage 1,Group Stage,Week 3,Cloud9 vs MIBR,Cloud9,MIBR,1,2,MIBR won
+VCT 2025: Americas Stage 1,Group Stage,Week 4,100 Thieves vs 2Game Esports,100 Thieves,2Game Esports,2,0,100 Thieves won
+VCT 2025: Americas Stage 1,Group Stage,Week 4,G2 Esports vs LEVIATÁN,G2 Esports,LEVIATÁN,2,1,G2 Esports won
+VCT 2025: Americas Stage 1,Group Stage,Week 4,FURIA vs Cloud9,FURIA,Cloud9,0,2,Cloud9 won
+VCT 2025: Americas Stage 1,Group Stage,Week 4,Sentinels vs LOUD,Sentinels,LOUD,2,1,Sentinels won
+VCT 2025: Americas Stage 1,Group Stage,Week 4,KRÜ Esports vs Evil Geniuses,KRÜ Esports,Evil Geniuses,0,2,Evil Geniuses won
+VCT 2025: Americas Stage 1,Group Stage,Week 4,NRG vs MIBR,Mega Minors,MIBR,0,2,MIBR won
+VCT 2025: Americas Stage 1,Group Stage,Week 5,G2 Esports vs Cloud9,G2 Esports,Cloud9,2,1,G2 Esports won
+VCT 2025: Americas Stage 1,Group Stage,Week 5,MIBR vs FURIA,MIBR,FURIA,2,1,MIBR won
+VCT 2025: Americas Stage 1,Group Stage,Week 5,Sentinels vs 2Game Esports,Sentinels,2Game Esports,2,0,Sentinels won
+VCT 2025: Americas Stage 1,Group Stage,Week 5,KRÜ Esports vs 100 Thieves,KRÜ Esports,100 Thieves,2,0,KRÜ Esports won
+VCT 2025: Americas Stage 1,Group Stage,Week 5,Evil Geniuses vs LOUD,Evil Geniuses,LOUD,2,1,Evil Geniuses won
+VCT 2025: Americas Stage 1,Group Stage,Week 5,LEVIATÁN vs NRG,LEVIATÁN,Mega Minors,0,2,NRG won
+VCT 2025: Americas Stage 1,Playoffs,Upper Round 1,MIBR vs 100 Thieves,MIBR,100 Thieves,2,0,MIBR won
+VCT 2025: Americas Stage 1,Playoffs,Upper Round 1,Sentinels vs Cloud9,Sentinels,Cloud9,2,0,Sentinels won
+VCT 2025: Americas Stage 1,Playoffs,Lower Round 1,100 Thieves vs NRG,100 Thieves,Mega Minors,2,0,100 Thieves won
+VCT 2025: Americas Stage 1,Playoffs,Lower Round 1,Cloud9 vs Evil Geniuses,Cloud9,Evil Geniuses,0,2,Evil Geniuses won
+VCT 2025: Americas Stage 1,Playoffs,Upper Semifinals,KRÜ Esports vs MIBR,KRÜ Esports,MIBR,0,2,MIBR won
+VCT 2025: Americas Stage 1,Playoffs,Upper Semifinals,G2 Esports vs Sentinels,G2 Esports,Sentinels,1,2,Sentinels won
+VCT 2025: Americas Stage 1,Playoffs,Lower Round 2,KRÜ Esports vs Evil Geniuses,KRÜ Esports,Evil Geniuses,0,2,Evil Geniuses won
+VCT 2025: Americas Stage 1,Playoffs,Lower Round 2,G2 Esports vs 100 Thieves,G2 Esports,100 Thieves,2,1,G2 Esports won
+VCT 2025: Americas Stage 1,Playoffs,Upper Final,MIBR vs Sentinels,MIBR,Sentinels,0,2,Sentinels won
+VCT 2025: Americas Stage 1,Playoffs,Lower Round 3,G2 Esports vs Evil Geniuses,G2 Esports,Evil Geniuses,2,1,G2 Esports won
+VCT 2025: Americas Stage 1,Playoffs,Lower Final,MIBR vs G2 Esports,MIBR,G2 Esports,1,3,G2 Esports won
+VCT 2025: Americas Stage 1,Playoffs,Grand Final,Sentinels vs G2 Esports,Sentinels,G2 Esports,1,3,G2 Esports won
+Valorant Masters Bangkok 2025,Swiss Stage,Round 1,EDward Gaming vs Team Liquid,EDward Gaming,Team Liquid,2,0,EDward Gaming won
+Valorant Masters Bangkok 2025,Swiss Stage,Round 1,DRX vs Sentinels,DRX,Sentinels,2,0,DRX won
+Valorant Masters Bangkok 2025,Swiss Stage,Round 1,Team Vitality vs T1,Team Vitality,T1,2,0,Team Vitality won
+Valorant Masters Bangkok 2025,Swiss Stage,Round 1,G2 Esports vs Trace Esports,G2 Esports,Trace Esports,2,0,G2 Esports won
+Valorant Masters Bangkok 2025,Swiss Stage,Round 2 (1-0),DRX vs Team Vitality,DRX,Team Vitality,1,2,Team Vitality won
+Valorant Masters Bangkok 2025,Swiss Stage,Round 2 (1-0),EDward Gaming vs G2 Esports,EDward Gaming,G2 Esports,2,1,EDward Gaming won
+Valorant Masters Bangkok 2025,Swiss Stage,Round 2 (0-1),T1 vs Trace Esports,T1,Trace Esports,2,0,T1 won
+Valorant Masters Bangkok 2025,Swiss Stage,Round 2 (0-1),Team Liquid vs Sentinels,Team Liquid,Sentinels,2,1,Team Liquid won
+Valorant Masters Bangkok 2025,Swiss Stage,Round 3,T1 vs DRX,T1,DRX,2,0,T1 won
+Valorant Masters Bangkok 2025,Swiss Stage,Round 3,G2 Esports vs Team Liquid,G2 Esports,Team Liquid,2,0,G2 Esports won
+Valorant Masters Bangkok 2025,Playoffs,Upper Semifinals,EDward Gaming vs T1,EDward Gaming,T1,2,1,EDward Gaming won
+Valorant Masters Bangkok 2025,Playoffs,Upper Semifinals,Team Vitality vs G2 Esports,Team Vitality,G2 Esports,0,2,G2 Esports won
+Valorant Masters Bangkok 2025,Playoffs,Upper Final,EDward Gaming vs G2 Esports,EDward Gaming,G2 Esports,0,2,G2 Esports won
+Valorant Masters Bangkok 2025,Playoffs,Lower Round 1,T1 vs Team Vitality,T1,Team Vitality,2,1,T1 won
+Valorant Masters Bangkok 2025,Playoffs,Lower Final,EDward Gaming vs T1,EDward Gaming,T1,1,3,T1 won
+Valorant Masters Bangkok 2025,Showmatch,Main Event,Team International vs Team Thailand,Team International,Team Thailand,9,13,Team Thailand won
+Valorant Masters Bangkok 2025,Playoffs,Grand Final,G2 Esports vs T1,G2 Esports,T1,2,3,T1 won
+VCT 2025: EMEA Kickoff,Main Event,Upper Round 1,BBL Esports vs GIANTX,BBL Esports,GIANTX,2,1,BBL Esports won
+VCT 2025: EMEA Kickoff,Main Event,Upper Round 1,Karmine Corp vs Natus Vincere,Karmine Corp,Natus Vincere,2,1,Karmine Corp won
+VCT 2025: EMEA Kickoff,Main Event,Upper Round 1,Team Liquid vs KOI,Team Liquid,KOI,2,1,Team Liquid won
+VCT 2025: EMEA Kickoff,Main Event,Upper Round 1,Apeks vs Gentle Mates,Apeks,Gentle Mates,0,2,Gentle Mates won
+VCT 2025: EMEA Kickoff,Main Event,Upper Quarterfinals,FNATIC vs BBL Esports,FNATIC,BBL Esports,1,2,BBL Esports won
+VCT 2025: EMEA Kickoff,Main Event,Upper Quarterfinals,Team Vitality vs Karmine Corp,Team Vitality,Karmine Corp,2,1,Team Vitality won
+VCT 2025: EMEA Kickoff,Main Event,Upper Quarterfinals,FUT Esports vs Team Liquid,FUT Esports,Team Liquid,2,0,FUT Esports won
+VCT 2025: EMEA Kickoff,Main Event,Upper Quarterfinals,Team Heretics vs Gentle Mates,Team Heretics,Gentle Mates,2,1,Team Heretics won
+VCT 2025: EMEA Kickoff,Main Event,Lower Round 1,Karmine Corp vs GIANTX,Karmine Corp,GIANTX,1,2,GIANTX won
+VCT 2025: EMEA Kickoff,Main Event,Lower Round 1,FNATIC vs Natus Vincere,FNATIC,Natus Vincere,2,1,FNATIC won
+VCT 2025: EMEA Kickoff,Main Event,Lower Round 1,Team Liquid vs Apeks,Team Liquid,Apeks,2,1,Team Liquid won
+VCT 2025: EMEA Kickoff,Main Event,Lower Round 1,Gentle Mates vs KOI,Gentle Mates,KOI,2,1,Gentle Mates won
+VCT 2025: EMEA Kickoff,Main Event,Upper Semifinals,BBL Esports vs Team Heretics,BBL Esports,Team Heretics,0,2,Team Heretics won
+VCT 2025: EMEA Kickoff,Main Event,Upper Semifinals,FUT Esports vs Team Vitality,FUT Esports,Team Vitality,0,2,Team Vitality won
+VCT 2025: EMEA Kickoff,Main Event,Lower Round 2,Gentle Mates vs FNATIC,Gentle Mates,FNATIC,0,2,FNATIC won
+VCT 2025: EMEA Kickoff,Main Event,Lower Round 2,GIANTX vs Team Liquid,GIANTX,Team Liquid,0,2,Team Liquid won
+VCT 2025: EMEA Kickoff,Main Event,Lower Round 3,FUT Esports vs FNATIC,FUT Esports,FNATIC,2,0,FUT Esports won
+VCT 2025: EMEA Kickoff,Main Event,Lower Round 3,BBL Esports vs Team Liquid,BBL Esports,Team Liquid,1,2,Team Liquid won
+VCT 2025: EMEA Kickoff,Main Event,Upper Final,Team Vitality vs Team Heretics,Team Vitality,Team Heretics,2,0,Team Vitality won
+VCT 2025: EMEA Kickoff,Main Event,Lower Round 4,FUT Esports vs Team Liquid,FUT Esports,Team Liquid,1,2,Team Liquid won
+VCT 2025: EMEA Kickoff,Main Event,Lower Final,Team Heretics vs Team Liquid,Team Heretics,Team Liquid,0,3,Team Liquid won
+VCT 2025: EMEA Kickoff,Main Event,Grand Final,Team Vitality vs Team Liquid,Team Vitality,Team Liquid,3,2,Team Vitality won
+VCT 2025: Pacific Kickoff,Main Event,Upper Round 1,BOOM Esports vs T1,BOOM Esports,T1,1,2,T1 won
+VCT 2025: Pacific Kickoff,Main Event,Upper Round 1,ZETA DIVISION vs Nongshim RedForce,ZETA DIVISION,Nongshim RedForce,0,2,Nongshim RedForce won
+VCT 2025: Pacific Kickoff,Main Event,Upper Round 1,Global Esports vs Team Secret,Global Esports,Team Secret,2,1,Global Esports won
+VCT 2025: Pacific Kickoff,Main Event,Upper Round 1,DetonatioN FocusMe vs Rex Regum Qeon,DetonatioN FocusMe,Rex Regum Qeon,1,2,Rex Regum Qeon won
+VCT 2025: Pacific Kickoff,Main Event,Upper Quarterfinals,DRX vs Nongshim RedForce,DRX,Nongshim RedForce,2,1,DRX won
+VCT 2025: Pacific Kickoff,Main Event,Upper Quarterfinals,Paper Rex vs T1,Paper Rex,T1,1,2,T1 won
+VCT 2025: Pacific Kickoff,Main Event,Upper Quarterfinals,TALON vs Global Esports,TALON,Global Esports,2,1,TALON won
+VCT 2025: Pacific Kickoff,Main Event,Upper Quarterfinals,Gen.G vs Rex Regum Qeon,Gen.G,Rex Regum Qeon,2,1,Gen.G won
+VCT 2025: Pacific Kickoff,Main Event,Lower Round 1,Nongshim RedForce vs BOOM Esports,Nongshim RedForce,BOOM Esports,2,1,Nongshim RedForce won
+VCT 2025: Pacific Kickoff,Main Event,Lower Round 1,Paper Rex vs ZETA DIVISION,Paper Rex,ZETA DIVISION,2,0,Paper Rex won
+VCT 2025: Pacific Kickoff,Main Event,Lower Round 1,Rex Regum Qeon vs Team Secret,Rex Regum Qeon,Team Secret,2,1,Rex Regum Qeon won
+VCT 2025: Pacific Kickoff,Main Event,Lower Round 1,Global Esports vs DetonatioN FocusMe,Global Esports,DetonatioN FocusMe,0,2,DetonatioN FocusMe won
+VCT 2025: Pacific Kickoff,Main Event,Upper Semifinals,T1 vs TALON,T1,TALON,2,1,T1 won
+VCT 2025: Pacific Kickoff,Main Event,Upper Semifinals,Gen.G vs DRX,Gen.G,DRX,0,2,DRX won
+VCT 2025: Pacific Kickoff,Main Event,Lower Round 2,Nongshim RedForce vs Rex Regum Qeon,Nongshim RedForce,Rex Regum Qeon,2,1,Nongshim RedForce won
+VCT 2025: Pacific Kickoff,Main Event,Lower Round 2,DetonatioN FocusMe vs Paper Rex,DetonatioN FocusMe,Paper Rex,2,0,DetonatioN FocusMe won
+VCT 2025: Pacific Kickoff,Main Event,Lower Round 3,TALON vs Nongshim RedForce,TALON,Nongshim RedForce,2,1,TALON won
+VCT 2025: Pacific Kickoff,Main Event,Lower Round 3,Gen.G vs DetonatioN FocusMe,Gen.G,DetonatioN FocusMe,2,0,Gen.G won
+VCT 2025: Pacific Kickoff,Main Event,Upper Final,T1 vs DRX,T1,DRX,1,2,DRX won
+VCT 2025: Pacific Kickoff,Main Event,Lower Round 4,TALON vs Gen.G,TALON,Gen.G,0,2,Gen.G won
+VCT 2025: Pacific Kickoff,Main Event,Lower Final,T1 vs Gen.G,T1,Gen.G,3,2,T1 won
+VCT 2025: Pacific Kickoff,Main Event,Grand Final,DRX vs T1,DRX,T1,3,2,DRX won
+VCT 2025: Americas Kickoff,Main Event,Upper Round 1,Evil Geniuses vs LOUD,Evil Geniuses,LOUD,0,2,LOUD won
+VCT 2025: Americas Kickoff,Main Event,Upper Round 1,MIBR vs 100 Thieves,MIBR,100 Thieves,0,2,100 Thieves won
+VCT 2025: Americas Kickoff,Main Event,Upper Round 1,2Game Esports vs FURIA,2Game Esports,FURIA,0,2,FURIA won
+VCT 2025: Americas Kickoff,Main Event,Upper Round 1,NRG vs Cloud9,Mega Minors,Cloud9,0,2,Cloud9 won
+VCT 2025: Americas Kickoff,Main Event,Upper Quarterfinals,KRÜ Esports vs LOUD,KRÜ Esports,LOUD,0,2,LOUD won
+VCT 2025: Americas Kickoff,Main Event,Upper Quarterfinals,Sentinels vs 100 Thieves,Sentinels,100 Thieves,2,1,Sentinels won
+VCT 2025: Americas Kickoff,Main Event,Upper Quarterfinals,LEVIATÁN vs FURIA,LEVIATÁN,FURIA,2,0,LEVIATÁN won
+VCT 2025: Americas Kickoff,Main Event,Upper Quarterfinals,G2 Esports vs Cloud9,G2 Esports,Cloud9,2,0,G2 Esports won
+VCT 2025: Americas Kickoff,Main Event,Lower Round 1,FURIA vs Evil Geniuses,FURIA,Evil Geniuses,0,2,Evil Geniuses won
+VCT 2025: Americas Kickoff,Main Event,Lower Round 1,Cloud9 vs MIBR,Cloud9,MIBR,1,2,MIBR won
+VCT 2025: Americas Kickoff,Main Event,Lower Round 1,KRÜ Esports vs 2Game Esports,KRÜ Esports,2Game Esports,2,0,KRÜ Esports won
+VCT 2025: Americas Kickoff,Main Event,Lower Round 1,100 Thieves vs NRG,100 Thieves,Mega Minors,1,2,NRG won
+VCT 2025: Americas Kickoff,Main Event,Upper Semifinals,LOUD vs Sentinels,LOUD,Sentinels,1,2,Sentinels won
+VCT 2025: Americas Kickoff,Main Event,Upper Semifinals,G2 Esports vs LEVIATÁN,G2 Esports,LEVIATÁN,2,0,G2 Esports won
+VCT 2025: Americas Kickoff,Main Event,Lower Round 2,Evil Geniuses vs MIBR,Evil Geniuses,MIBR,0,2,MIBR won
+VCT 2025: Americas Kickoff,Main Event,Lower Round 2,NRG vs KRÜ Esports,Mega Minors,KRÜ Esports,1,2,KRÜ Esports won
+VCT 2025: Americas Kickoff,Main Event,Lower Round 3,LEVIATÁN vs MIBR,LEVIATÁN,MIBR,1,2,MIBR won
+VCT 2025: Americas Kickoff,Main Event,Lower Round 3,LOUD vs KRÜ Esports,LOUD,KRÜ Esports,0,2,KRÜ Esports won
+VCT 2025: Americas Kickoff,Main Event,Upper Final,Sentinels vs G2 Esports,Sentinels,G2 Esports,0,2,G2 Esports won
+VCT 2025: Americas Kickoff,Main Event,Lower Round 4,MIBR vs KRÜ Esports,MIBR,KRÜ Esports,2,1,MIBR won
+VCT 2025: Americas Kickoff,Main Event,Lower Final,Sentinels vs MIBR,Sentinels,MIBR,3,1,Sentinels won
+VCT 2025: Americas Kickoff,Main Event,Grand Final,G2 Esports vs Sentinels,G2 Esports,Sentinels,3,2,G2 Esports won
+VCT 2025: China Kickoff,Main Event,Upper Round 1,TYLOO vs Titan Esports Club,TYLOO,Titan Esports Club,0,2,Titan Esports Club won
+VCT 2025: China Kickoff,Main Event,Upper Round 1,Xi Lai Gaming vs Wolves Esports,Xi Lai Gaming,Wolves Esports,2,0,Xi Lai Gaming won
+VCT 2025: China Kickoff,Main Event,Upper Round 1,JDG Esports vs Dragon Ranger Gaming,JDG Esports,Dragon Ranger Gaming,1,2,Dragon Ranger Gaming won
+VCT 2025: China Kickoff,Main Event,Upper Round 1,All Gamers vs Nova Esports,All Gamers,Nova Esports,0,2,Nova Esports won
+VCT 2025: China Kickoff,Main Event,Upper Quarterfinals,FunPlus Phoenix vs Titan Esports Club,FunPlus Phoenix,Titan Esports Club,2,1,FunPlus Phoenix won
+VCT 2025: China Kickoff,Main Event,Upper Quarterfinals,Bilibili Gaming vs Xi Lai Gaming,Bilibili Gaming,Xi Lai Gaming,2,1,Bilibili Gaming won
+VCT 2025: China Kickoff,Main Event,Upper Quarterfinals,Trace Esports vs Dragon Ranger Gaming,Trace Esports,Dragon Ranger Gaming,2,0,Trace Esports won
+VCT 2025: China Kickoff,Main Event,Upper Quarterfinals,EDward Gaming vs Nova Esports,EDward Gaming,Nova Esports,2,0,EDward Gaming won
+VCT 2025: China Kickoff,Main Event,Lower Round 1,Titan Esports Club vs JDG Esports,Titan Esports Club,JDG Esports,0,2,JDG Esports won
+VCT 2025: China Kickoff,Main Event,Lower Round 1,Xi Lai Gaming vs All Gamers,Xi Lai Gaming,All Gamers,2,1,Xi Lai Gaming won
+VCT 2025: China Kickoff,Main Event,Lower Round 1,Dragon Ranger Gaming vs TYLOO,Dragon Ranger Gaming,TYLOO,2,0,Dragon Ranger Gaming won
+VCT 2025: China Kickoff,Main Event,Lower Round 1,Nova Esports vs Wolves Esports,Nova Esports,Wolves Esports,2,1,Nova Esports won
+VCT 2025: China Kickoff,Main Event,Upper Semifinals,Bilibili Gaming vs FunPlus Phoenix,Bilibili Gaming,FunPlus Phoenix,2,0,Bilibili Gaming won
+VCT 2025: China Kickoff,Main Event,Upper Semifinals,Trace Esports vs EDward Gaming,Trace Esports,EDward Gaming,2,0,Trace Esports won
+VCT 2025: China Kickoff,Main Event,Lower Round 2,Nova Esports vs Dragon Ranger Gaming,Nova Esports,Dragon Ranger Gaming,0,2,Dragon Ranger Gaming won
+VCT 2025: China Kickoff,Main Event,Lower Round 2,JDG Esports vs Xi Lai Gaming,JDG Esports,Xi Lai Gaming,1,2,Xi Lai Gaming won
+VCT 2025: China Kickoff,Main Event,Lower Round 3,FunPlus Phoenix vs Dragon Ranger Gaming,FunPlus Phoenix,Dragon Ranger Gaming,1,2,Dragon Ranger Gaming won
+VCT 2025: China Kickoff,Main Event,Lower Round 3,EDward Gaming vs Xi Lai Gaming,EDward Gaming,Xi Lai Gaming,2,1,EDward Gaming won
+VCT 2025: China Kickoff,Main Event,Upper Final,Bilibili Gaming vs Trace Esports,Bilibili Gaming,Trace Esports,1,2,Trace Esports won
+VCT 2025: China Kickoff,Main Event,Lower Round 4,Dragon Ranger Gaming vs EDward Gaming,Dragon Ranger Gaming,EDward Gaming,0,2,EDward Gaming won
+VCT 2025: China Kickoff,Main Event,Lower Final,Bilibili Gaming vs EDward Gaming,Bilibili Gaming,EDward Gaming,0,3,EDward Gaming won
+VCT 2025: China Kickoff,Main Event,Grand Final,Trace Esports vs EDward Gaming,Trace Esports,EDward Gaming,1,3,EDward Gaming won

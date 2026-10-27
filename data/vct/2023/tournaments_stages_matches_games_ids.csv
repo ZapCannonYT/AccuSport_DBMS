@@ -1,0 +1,831 @@
+Tournament,Tournament ID,Stage,Stage ID,Match Type,Match Name,Match ID,Map,Game ID
+Valorant Champions 2023,1657,Group Stage,3145,Opening (D),Team Liquid vs Natus Vincere,247100,Fracture,137395
+Valorant Champions 2023,1657,Group Stage,3145,Opening (D),Team Liquid vs Natus Vincere,247100,Bind,137396
+Valorant Champions 2023,1657,Group Stage,3145,Opening (D),DRX vs LOUD,247101,Lotus,137398
+Valorant Champions 2023,1657,Group Stage,3145,Opening (D),DRX vs LOUD,247101,Split,137399
+Valorant Champions 2023,1657,Group Stage,3145,Opening (D),DRX vs LOUD,247101,Ascent,137400
+Valorant Champions 2023,1657,Group Stage,3145,Opening (B),FUT Esports vs T1,247087,Pearl,137368
+Valorant Champions 2023,1657,Group Stage,3145,Opening (B),FUT Esports vs T1,247087,Haven,137369
+Valorant Champions 2023,1657,Group Stage,3145,Opening (B),Evil Geniuses vs FunPlus Phoenix,247086,Ascent,137365
+Valorant Champions 2023,1657,Group Stage,3145,Opening (B),Evil Geniuses vs FunPlus Phoenix,247086,Pearl,137366
+Valorant Champions 2023,1657,Group Stage,3145,Winner's (D),Natus Vincere vs DRX,247102,Bind,137401
+Valorant Champions 2023,1657,Group Stage,3145,Winner's (D),Natus Vincere vs DRX,247102,Split,137402
+Valorant Champions 2023,1657,Group Stage,3145,Winner's (D),Natus Vincere vs DRX,247102,Lotus,137403
+Valorant Champions 2023,1657,Group Stage,3145,Opening (C),NRG Esports vs Bilibili Gaming,247094,Lotus,137383
+Valorant Champions 2023,1657,Group Stage,3145,Opening (C),NRG Esports vs Bilibili Gaming,247094,Split,137384
+Valorant Champions 2023,1657,Group Stage,3145,Opening (C),FNATIC vs ZETA DIVISION,247093,Fracture,137380
+Valorant Champions 2023,1657,Group Stage,3145,Opening (C),FNATIC vs ZETA DIVISION,247093,Haven,137381
+Valorant Champions 2023,1657,Group Stage,3145,Winner's (B),Evil Geniuses vs FUT Esports,247088,Pearl,137371
+Valorant Champions 2023,1657,Group Stage,3145,Winner's (B),Evil Geniuses vs FUT Esports,247088,Bind,137372
+Valorant Champions 2023,1657,Group Stage,3145,Opening (A),Paper Rex vs KRÜ Esports,247075,Split,137350
+Valorant Champions 2023,1657,Group Stage,3145,Opening (A),Paper Rex vs KRÜ Esports,247075,Pearl,137351
+Valorant Champions 2023,1657,Group Stage,3145,Opening (A),EDward Gaming vs Giants Gaming,247076,Split,137353
+Valorant Champions 2023,1657,Group Stage,3145,Opening (A),EDward Gaming vs Giants Gaming,247076,Bind,137354
+Valorant Champions 2023,1657,Group Stage,3145,Opening (A),EDward Gaming vs Giants Gaming,247076,Ascent,137355
+Valorant Champions 2023,1657,Group Stage,3145,Winner's (C),FNATIC vs Bilibili Gaming,247095,Haven,137386
+Valorant Champions 2023,1657,Group Stage,3145,Winner's (C),FNATIC vs Bilibili Gaming,247095,Lotus,137387
+Valorant Champions 2023,1657,Group Stage,3145,Elimination (D),Team Liquid vs LOUD,247103,Haven,137404
+Valorant Champions 2023,1657,Group Stage,3145,Elimination (D),Team Liquid vs LOUD,247103,Split,137405
+Valorant Champions 2023,1657,Group Stage,3145,Elimination (B),FunPlus Phoenix vs T1,247089,Lotus,137374
+Valorant Champions 2023,1657,Group Stage,3145,Elimination (B),FunPlus Phoenix vs T1,247089,Bind,137375
+Valorant Champions 2023,1657,Group Stage,3145,Winner's (A),Paper Rex vs EDward Gaming,247077,Fracture,137356
+Valorant Champions 2023,1657,Group Stage,3145,Winner's (A),Paper Rex vs EDward Gaming,247077,Pearl,137357
+Valorant Champions 2023,1657,Group Stage,3145,Elimination (A),KRÜ Esports vs Giants Gaming,247078,Lotus,137359
+Valorant Champions 2023,1657,Group Stage,3145,Elimination (A),KRÜ Esports vs Giants Gaming,247078,Pearl,137360
+Valorant Champions 2023,1657,Group Stage,3145,Elimination (C),ZETA DIVISION vs NRG Esports,247096,Bind,137389
+Valorant Champions 2023,1657,Group Stage,3145,Elimination (C),ZETA DIVISION vs NRG Esports,247096,Haven,137390
+Valorant Champions 2023,1657,Group Stage,3145,Decider (D),Natus Vincere vs LOUD,247104,Pearl,137407
+Valorant Champions 2023,1657,Group Stage,3145,Decider (D),Natus Vincere vs LOUD,247104,Ascent,137408
+Valorant Champions 2023,1657,Group Stage,3145,Decider (D),Natus Vincere vs LOUD,247104,Bind,137409
+Valorant Champions 2023,1657,Group Stage,3145,Decider (B),FUT Esports vs T1,247090,Bind,137377
+Valorant Champions 2023,1657,Group Stage,3145,Decider (B),FUT Esports vs T1,247090,Pearl,137378
+Valorant Champions 2023,1657,Group Stage,3145,Decider (A),EDward Gaming vs Giants Gaming,247079,Split,137362
+Valorant Champions 2023,1657,Group Stage,3145,Decider (A),EDward Gaming vs Giants Gaming,247079,Fracture,137363
+Valorant Champions 2023,1657,Group Stage,3145,Decider (C),Bilibili Gaming vs NRG Esports,247098,Bind,137392
+Valorant Champions 2023,1657,Group Stage,3145,Decider (C),Bilibili Gaming vs NRG Esports,247098,Ascent,137393
+Valorant Champions 2023,1657,Playoffs,3264,Upper Quarterfinals,FNATIC vs LOUD,248270,Ascent,137618
+Valorant Champions 2023,1657,Playoffs,3264,Upper Quarterfinals,FNATIC vs LOUD,248270,Lotus,137619
+Valorant Champions 2023,1657,Playoffs,3264,Upper Quarterfinals,Paper Rex vs FUT Esports,248271,Ascent,137621
+Valorant Champions 2023,1657,Playoffs,3264,Upper Quarterfinals,Paper Rex vs FUT Esports,248271,Pearl,137622
+Valorant Champions 2023,1657,Playoffs,3264,Upper Quarterfinals,DRX vs Bilibili Gaming,248272,Lotus,137624
+Valorant Champions 2023,1657,Playoffs,3264,Upper Quarterfinals,DRX vs Bilibili Gaming,248272,Haven,137625
+Valorant Champions 2023,1657,Playoffs,3264,Upper Quarterfinals,Evil Geniuses vs EDward Gaming,248273,Split,137627
+Valorant Champions 2023,1657,Playoffs,3264,Upper Quarterfinals,Evil Geniuses vs EDward Gaming,248273,Ascent,137628
+Valorant Champions 2023,1657,Playoffs,3264,Upper Quarterfinals,Evil Geniuses vs EDward Gaming,248273,Pearl,137629
+Valorant Champions 2023,1657,Playoffs,3264,Lower Round 1,FNATIC vs FUT Esports,248278,Split,137644
+Valorant Champions 2023,1657,Playoffs,3264,Lower Round 1,FNATIC vs FUT Esports,248278,Haven,137645
+Valorant Champions 2023,1657,Playoffs,3264,Lower Round 1,Bilibili Gaming vs EDward Gaming,248279,Bind,137647
+Valorant Champions 2023,1657,Playoffs,3264,Lower Round 1,Bilibili Gaming vs EDward Gaming,248279,Split,137648
+Valorant Champions 2023,1657,Playoffs,3264,Lower Round 1,Bilibili Gaming vs EDward Gaming,248279,Haven,137649
+Valorant Champions 2023,1657,Playoffs,3264,Upper Semifinals,LOUD vs Paper Rex,248274,Lotus,137630
+Valorant Champions 2023,1657,Playoffs,3264,Upper Semifinals,LOUD vs Paper Rex,248274,Split,137631
+Valorant Champions 2023,1657,Playoffs,3264,Upper Semifinals,LOUD vs Paper Rex,248274,Pearl,137632
+Valorant Champions 2023,1657,Playoffs,3264,Upper Semifinals,DRX vs Evil Geniuses,248275,Fracture,137633
+Valorant Champions 2023,1657,Playoffs,3264,Upper Semifinals,DRX vs Evil Geniuses,248275,Lotus,137634
+Valorant Champions 2023,1657,Playoffs,3264,Lower Round 2,LOUD vs EDward Gaming,248281,Bind,137653
+Valorant Champions 2023,1657,Playoffs,3264,Lower Round 2,LOUD vs EDward Gaming,248281,Ascent,137654
+Valorant Champions 2023,1657,Playoffs,3264,Lower Round 2,LOUD vs EDward Gaming,248281,Haven,137655
+Valorant Champions 2023,1657,Playoffs,3264,Lower Round 2,DRX vs FNATIC,248280,Bind,137650
+Valorant Champions 2023,1657,Playoffs,3264,Lower Round 2,DRX vs FNATIC,248280,Haven,137651
+Valorant Champions 2023,1657,Playoffs,3264,Lower Round 2,DRX vs FNATIC,248280,Split,137652
+Valorant Champions 2023,1657,Playoffs,3264,Upper Final,Paper Rex vs Evil Geniuses,248276,Ascent,137636
+Valorant Champions 2023,1657,Playoffs,3264,Upper Final,Paper Rex vs Evil Geniuses,248276,Bind,137637
+Valorant Champions 2023,1657,Playoffs,3264,Upper Final,Paper Rex vs Evil Geniuses,248276,Pearl,137638
+Valorant Champions 2023,1657,Playoffs,3264,Lower Round 3,FNATIC vs LOUD,248282,Split,137656
+Valorant Champions 2023,1657,Playoffs,3264,Lower Round 3,FNATIC vs LOUD,248282,Ascent,137657
+Valorant Champions 2023,1657,Playoffs,3264,Lower Round 3,FNATIC vs LOUD,248282,Haven,137658
+Valorant Champions 2023,1657,Playoffs,3264,Lower Final,Evil Geniuses vs LOUD,248283,Ascent,137659
+Valorant Champions 2023,1657,Playoffs,3264,Lower Final,Evil Geniuses vs LOUD,248283,Lotus,137660
+Valorant Champions 2023,1657,Playoffs,3264,Lower Final,Evil Geniuses vs LOUD,248283,Pearl,137661
+Valorant Champions 2023,1657,Playoffs,3264,Lower Final,Evil Geniuses vs LOUD,248283,Split,137662
+Valorant Champions 2023,1657,Playoffs,3264,Lower Final,Evil Geniuses vs LOUD,248283,Bind,137663
+Valorant Champions 2023,1657,Playoffs,3264,Grand Final,Paper Rex vs Evil Geniuses,248277,Split,137639
+Valorant Champions 2023,1657,Playoffs,3264,Grand Final,Paper Rex vs Evil Geniuses,248277,Ascent,137640
+Valorant Champions 2023,1657,Playoffs,3264,Grand Final,Paper Rex vs Evil Geniuses,248277,Bind,137641
+Valorant Champions 2023,1657,Playoffs,3264,Grand Final,Paper Rex vs Evil Geniuses,248277,Lotus,137642
+Champions Tour 2023: Americas Last Chance Qualifier,1658,Main Event,3146,Upper Round 1,MIBR vs KRÜ Esports,232729,Bind,134548
+Champions Tour 2023: Americas Last Chance Qualifier,1658,Main Event,3146,Upper Round 1,MIBR vs KRÜ Esports,232729,Lotus,134549
+Champions Tour 2023: Americas Last Chance Qualifier,1658,Main Event,3146,Upper Quarterfinals,FURIA vs KRÜ Esports,232731,Split,134554
+Champions Tour 2023: Americas Last Chance Qualifier,1658,Main Event,3146,Upper Quarterfinals,FURIA vs KRÜ Esports,232731,Ascent,134555
+Champions Tour 2023: Americas Last Chance Qualifier,1658,Main Event,3146,Upper Quarterfinals,FURIA vs KRÜ Esports,232731,Bind,134556
+Champions Tour 2023: Americas Last Chance Qualifier,1658,Main Event,3146,Upper Quarterfinals,Sentinels vs 100 Thieves,232730,Pearl,134551
+Champions Tour 2023: Americas Last Chance Qualifier,1658,Main Event,3146,Upper Quarterfinals,Sentinels vs 100 Thieves,232730,Split,134552
+Champions Tour 2023: Americas Last Chance Qualifier,1658,Main Event,3146,Upper Quarterfinals,Sentinels vs 100 Thieves,232730,Bind,134553
+Champions Tour 2023: Americas Last Chance Qualifier,1658,Main Event,3146,Upper Semifinals,Cloud9 vs Sentinels,232732,Pearl,134557
+Champions Tour 2023: Americas Last Chance Qualifier,1658,Main Event,3146,Upper Semifinals,Cloud9 vs Sentinels,232732,Fracture,134558
+Champions Tour 2023: Americas Last Chance Qualifier,1658,Main Event,3146,Upper Semifinals,Cloud9 vs Sentinels,232732,Split,134559
+Champions Tour 2023: Americas Last Chance Qualifier,1658,Main Event,3146,Upper Semifinals,LEVIATÁN vs KRÜ Esports,232733,Split,134560
+Champions Tour 2023: Americas Last Chance Qualifier,1658,Main Event,3146,Upper Semifinals,LEVIATÁN vs KRÜ Esports,232733,Lotus,134561
+Champions Tour 2023: Americas Last Chance Qualifier,1658,Main Event,3146,Upper Final,Cloud9 vs KRÜ Esports,232734,Ascent,134563
+Champions Tour 2023: Americas Last Chance Qualifier,1658,Main Event,3146,Upper Final,Cloud9 vs KRÜ Esports,232734,Pearl,134564
+Champions Tour 2023: Americas Last Chance Qualifier,1658,Main Event,3146,Upper Final,Cloud9 vs KRÜ Esports,232734,Haven,134565
+Champions Tour 2023: Americas Last Chance Qualifier,1658,Main Event,3146,Lower Round 1,Sentinels vs LEVIATÁN,232736,Fracture,134571
+Champions Tour 2023: Americas Last Chance Qualifier,1658,Main Event,3146,Lower Round 1,Sentinels vs LEVIATÁN,232736,Split,134572
+Champions Tour 2023: Americas Last Chance Qualifier,1658,Main Event,3146,Lower Final,Cloud9 vs LEVIATÁN,232737,Lotus,134574
+Champions Tour 2023: Americas Last Chance Qualifier,1658,Main Event,3146,Lower Final,Cloud9 vs LEVIATÁN,232737,Pearl,134575
+Champions Tour 2023: Americas Last Chance Qualifier,1658,Main Event,3146,Lower Final,Cloud9 vs LEVIATÁN,232737,Split,134576
+Champions Tour 2023: Americas Last Chance Qualifier,1658,Main Event,3146,Lower Final,Cloud9 vs LEVIATÁN,232737,Haven,134577
+Champions Tour 2023: Americas Last Chance Qualifier,1658,Main Event,3146,Lower Final,Cloud9 vs LEVIATÁN,232737,Bind,134578
+Champions Tour 2023: Americas Last Chance Qualifier,1658,Main Event,3146,Grand Final,KRÜ Esports vs LEVIATÁN,232735,Split,134566
+Champions Tour 2023: Americas Last Chance Qualifier,1658,Main Event,3146,Grand Final,KRÜ Esports vs LEVIATÁN,232735,Pearl,134567
+Champions Tour 2023: Americas Last Chance Qualifier,1658,Main Event,3146,Grand Final,KRÜ Esports vs LEVIATÁN,232735,Ascent,134568
+Champions Tour 2023: Americas Last Chance Qualifier,1658,Main Event,3146,Grand Final,KRÜ Esports vs LEVIATÁN,232735,Lotus,134569
+Champions Tour 2023: EMEA Last Chance Qualifier,1659,Playoffs,3147,Knockout Round,Team Heretics vs KOI,235363,Fracture,135070
+Champions Tour 2023: EMEA Last Chance Qualifier,1659,Playoffs,3147,Knockout Round,Team Heretics vs KOI,235363,Pearl,135071
+Champions Tour 2023: EMEA Last Chance Qualifier,1659,Playoffs,3147,Knockout Round,Team Heretics vs KOI,235363,Haven,135072
+Champions Tour 2023: EMEA Last Chance Qualifier,1659,Playoffs,3147,Knockout Round,BBL Esports vs Karmine Corp,235364,Haven,135073
+Champions Tour 2023: EMEA Last Chance Qualifier,1659,Playoffs,3147,Knockout Round,BBL Esports vs Karmine Corp,235364,Lotus,135074
+Champions Tour 2023: EMEA Last Chance Qualifier,1659,Playoffs,3147,Knockout Round,BBL Esports vs Karmine Corp,235364,Bind,135075
+Champions Tour 2023: EMEA Last Chance Qualifier,1659,Playoffs,3147,Upper Semifinals,Natus Vincere vs KOI,235365,Split,135076
+Champions Tour 2023: EMEA Last Chance Qualifier,1659,Playoffs,3147,Upper Semifinals,Natus Vincere vs KOI,235365,Lotus,135077
+Champions Tour 2023: EMEA Last Chance Qualifier,1659,Playoffs,3147,Upper Semifinals,Giants Gaming vs Karmine Corp,235366,Pearl,135079
+Champions Tour 2023: EMEA Last Chance Qualifier,1659,Playoffs,3147,Upper Semifinals,Giants Gaming vs Karmine Corp,235366,Split,135080
+Champions Tour 2023: EMEA Last Chance Qualifier,1659,Playoffs,3147,Upper Final,KOI vs Giants Gaming,235367,Haven,135082
+Champions Tour 2023: EMEA Last Chance Qualifier,1659,Playoffs,3147,Upper Final,KOI vs Giants Gaming,235367,Pearl,135083
+Champions Tour 2023: EMEA Last Chance Qualifier,1659,Playoffs,3147,Lower Round 1,Natus Vincere vs Karmine Corp,235371,Lotus,135096
+Champions Tour 2023: EMEA Last Chance Qualifier,1659,Playoffs,3147,Lower Round 1,Natus Vincere vs Karmine Corp,235371,Ascent,135097
+Champions Tour 2023: EMEA Last Chance Qualifier,1659,Playoffs,3147,Lower Round 1,Natus Vincere vs Karmine Corp,235371,Pearl,135098
+Champions Tour 2023: EMEA Last Chance Qualifier,1659,Playoffs,3147,Lower Final,KOI vs Natus Vincere,235372,Split,135099
+Champions Tour 2023: EMEA Last Chance Qualifier,1659,Playoffs,3147,Lower Final,KOI vs Natus Vincere,235372,Pearl,135100
+Champions Tour 2023: EMEA Last Chance Qualifier,1659,Playoffs,3147,Lower Final,KOI vs Natus Vincere,235372,Fracture,135101
+Champions Tour 2023: EMEA Last Chance Qualifier,1659,Playoffs,3147,Grand Final,Giants Gaming vs Natus Vincere,235368,Bind,135085
+Champions Tour 2023: EMEA Last Chance Qualifier,1659,Playoffs,3147,Grand Final,Giants Gaming vs Natus Vincere,235368,Lotus,135086
+Champions Tour 2023: EMEA Last Chance Qualifier,1659,Playoffs,3147,Grand Final,Giants Gaming vs Natus Vincere,235368,Haven,135087
+Champions Tour 2023: Pacific Last Chance Qualifier,1660,Main Event,3148,Upper Round 1,Talon Esports vs DetonatioN FocusMe,237266,Fracture,135648
+Champions Tour 2023: Pacific Last Chance Qualifier,1660,Main Event,3148,Upper Round 1,Talon Esports vs DetonatioN FocusMe,237266,Ascent,135649
+Champions Tour 2023: Pacific Last Chance Qualifier,1660,Main Event,3148,Upper Quarterfinals,Rex Regum Qeon vs Global Esports,237267,Split,135651
+Champions Tour 2023: Pacific Last Chance Qualifier,1660,Main Event,3148,Upper Quarterfinals,Rex Regum Qeon vs Global Esports,237267,Ascent,135652
+Champions Tour 2023: Pacific Last Chance Qualifier,1660,Main Event,3148,Upper Quarterfinals,Gen.G vs Talon Esports,237268,Pearl,135654
+Champions Tour 2023: Pacific Last Chance Qualifier,1660,Main Event,3148,Upper Quarterfinals,Gen.G vs Talon Esports,237268,Split,135655
+Champions Tour 2023: Pacific Last Chance Qualifier,1660,Main Event,3148,Upper Quarterfinals,Gen.G vs Talon Esports,237268,Haven,135656
+Champions Tour 2023: Pacific Last Chance Qualifier,1660,Main Event,3148,Upper Semifinals,ZETA DIVISION vs Rex Regum Qeon,237269,Haven,135657
+Champions Tour 2023: Pacific Last Chance Qualifier,1660,Main Event,3148,Upper Semifinals,ZETA DIVISION vs Rex Regum Qeon,237269,Split,135658
+Champions Tour 2023: Pacific Last Chance Qualifier,1660,Main Event,3148,Upper Semifinals,ZETA DIVISION vs Rex Regum Qeon,237269,Ascent,135659
+Champions Tour 2023: Pacific Last Chance Qualifier,1660,Main Event,3148,Upper Semifinals,Team Secret vs Gen.G,237270,Haven,135660
+Champions Tour 2023: Pacific Last Chance Qualifier,1660,Main Event,3148,Upper Semifinals,Team Secret vs Gen.G,237270,Ascent,135661
+Champions Tour 2023: Pacific Last Chance Qualifier,1660,Main Event,3148,Upper Final,ZETA DIVISION vs Team Secret,237271,Lotus,135663
+Champions Tour 2023: Pacific Last Chance Qualifier,1660,Main Event,3148,Upper Final,ZETA DIVISION vs Team Secret,237271,Fracture,135664
+Champions Tour 2023: Pacific Last Chance Qualifier,1660,Main Event,3148,Lower Round 1,Rex Regum Qeon vs Gen.G,237272,Haven,135666
+Champions Tour 2023: Pacific Last Chance Qualifier,1660,Main Event,3148,Lower Round 1,Rex Regum Qeon vs Gen.G,237272,Lotus,135667
+Champions Tour 2023: Pacific Last Chance Qualifier,1660,Main Event,3148,Lower Round 1,Rex Regum Qeon vs Gen.G,237272,Ascent,135668
+Champions Tour 2023: Pacific Last Chance Qualifier,1660,Main Event,3148,Lower Final,Team Secret vs Gen.G,237273,Haven,135669
+Champions Tour 2023: Pacific Last Chance Qualifier,1660,Main Event,3148,Lower Final,Team Secret vs Gen.G,237273,Pearl,135670
+Champions Tour 2023: Pacific Last Chance Qualifier,1660,Main Event,3148,Lower Final,Team Secret vs Gen.G,237273,Ascent,135671
+Champions Tour 2023: Pacific Last Chance Qualifier,1660,Main Event,3148,Lower Final,Team Secret vs Gen.G,237273,Lotus,135672
+Champions Tour 2023: Pacific Last Chance Qualifier,1660,Main Event,3148,Grand Final,ZETA DIVISION vs Team Secret,237274,Fracture,135674
+Champions Tour 2023: Pacific Last Chance Qualifier,1660,Main Event,3148,Grand Final,ZETA DIVISION vs Team Secret,237274,Ascent,135675
+Champions Tour 2023: Pacific Last Chance Qualifier,1660,Main Event,3148,Grand Final,ZETA DIVISION vs Team Secret,237274,Split,135676
+Champions Tour 2023: Pacific Last Chance Qualifier,1660,Main Event,3148,Grand Final,ZETA DIVISION vs Team Secret,237274,Lotus,135677
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 1,Weibo Gaming vs Totoro Gaming,219595,Haven,131829
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 1,Weibo Gaming vs Totoro Gaming,219595,Split,131830
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 1,Number One Player vs Douyu Gaming,219596,Lotus,131832
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 1,Number One Player vs Douyu Gaming,219596,Split,131833
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 1,Gank Gaming vs Royal Never Give Up,219594,Ascent,131826
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 1,Gank Gaming vs Royal Never Give Up,219594,Lotus,131827
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 1,Gank Gaming vs Royal Never Give Up,219594,Bind,131828
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 1,Four Angry Men vs Night Wings Gaming,219598,Bind,131838
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 1,Four Angry Men vs Night Wings Gaming,219598,Pearl,131839
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 1,Four Angry Men vs Night Wings Gaming,219598,Split,131840
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 1,Invincible Gaming vs Nova Esports,219597,Split,131835
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 1,Invincible Gaming vs Nova Esports,219597,Fracture,131836
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 1,TYLOO vs Monarch Effect,219599,Lotus,131841
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 1,TYLOO vs Monarch Effect,219599,Ascent,131842
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 1,TYLOO vs Monarch Effect,219599,Split,131843
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 1,Shenzhen NTER vs Kingzone,219601,Fracture,131847
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 1,Shenzhen NTER vs Kingzone,219601,Lotus,131848
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 1,Dragon Ranger Gaming vs Rare Atom,219600,Haven,131844
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 1,Dragon Ranger Gaming vs Rare Atom,219600,Lotus,131845
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 1,Dragon Ranger Gaming vs Rare Atom,219600,Ascent,131846
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 2,Totoro Gaming vs Shenzhen NTER,221176,Lotus,133125
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 2,Totoro Gaming vs Shenzhen NTER,221176,Ascent,133126
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 2,Dragon Ranger Gaming vs Royal Never Give Up,221177,Split,133128
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 2,Dragon Ranger Gaming vs Royal Never Give Up,221177,Haven,133129
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 2,Nova Esports vs TYLOO,221178,Split,133131
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 2,Nova Esports vs TYLOO,221178,Bind,133132
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 2,Night Wings Gaming vs Douyu Gaming,221179,Haven,133134
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 2,Night Wings Gaming vs Douyu Gaming,221179,Ascent,133135
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 2,Gank Gaming vs Invincible Gaming,221180,Lotus,133137
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 2,Gank Gaming vs Invincible Gaming,221180,Split,133138
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 2,Number One Player vs Kingzone,221181,Lotus,133140
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 2,Number One Player vs Kingzone,221181,Fracture,133141
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 2,Weibo Gaming vs Four Angry Men,221183,Bind,133146
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 2,Weibo Gaming vs Four Angry Men,221183,Haven,133147
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 2,Weibo Gaming vs Four Angry Men,221183,Split,133148
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 2,Rare Atom vs Monarch Effect,221182,Lotus,133143
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 2,Rare Atom vs Monarch Effect,221182,Ascent,133144
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 2,Rare Atom vs Monarch Effect,221182,Bind,133145
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 3,Weibo Gaming vs Shenzhen NTER,221837,Fracture,133520
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 3,Weibo Gaming vs Shenzhen NTER,221837,Haven,133521
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 3,Royal Never Give Up vs Nova Esports,221838,Ascent,133523
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 3,Royal Never Give Up vs Nova Esports,221838,Bind,133524
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 3,Royal Never Give Up vs Nova Esports,221838,Split,133525
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 3,Night Wings Gaming vs Gank Gaming,221839,Split,133526
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 3,Night Wings Gaming vs Gank Gaming,221839,Bind,133527
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 3,Number One Player vs Monarch Effect,221840,Pearl,133529
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 3,Number One Player vs Monarch Effect,221840,Lotus,133530
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 3,Number One Player vs Monarch Effect,221840,Bind,133531
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 3,Totoro Gaming vs Douyu Gaming,221841,Ascent,133532
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 3,Totoro Gaming vs Douyu Gaming,221841,Pearl,133533
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 3,Kingzone vs Four Angry Men,221842,Lotus,133535
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 3,Kingzone vs Four Angry Men,221842,Pearl,133536
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 3,Invincible Gaming vs Rare Atom,221844,Lotus,133541
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 3,Invincible Gaming vs Rare Atom,221844,Bind,133542
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 3,Dragon Ranger Gaming vs TYLOO,221843,Bind,133538
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 3,Dragon Ranger Gaming vs TYLOO,221843,Ascent,133539
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 4,Weibo Gaming vs Night Wings Gaming,222364,Haven,133694
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 4,Weibo Gaming vs Night Wings Gaming,222364,Lotus,133695
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 4,Four Angry Men vs Invincible Gaming,222367,Pearl,133703
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 4,Four Angry Men vs Invincible Gaming,222367,Bind,133704
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 4,Four Angry Men vs Invincible Gaming,222367,Lotus,133705
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 4,Douyu Gaming vs Royal Never Give Up,222365,Bind,133697
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 4,Douyu Gaming vs Royal Never Give Up,222365,Split,133698
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 4,Nova Esports vs Gank Gaming,222368,Ascent,133706
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 4,Nova Esports vs Gank Gaming,222368,Bind,133707
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 4,Nova Esports vs Gank Gaming,222368,Lotus,133708
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 4,Dragon Ranger Gaming vs Monarch Effect,222366,Ascent,133700
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 4,Dragon Ranger Gaming vs Monarch Effect,222366,Pearl,133701
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 4,Dragon Ranger Gaming vs Monarch Effect,222366,Split,133702
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 4,Shenzhen NTER vs Number One Player,222369,Lotus,133709
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 4,Shenzhen NTER vs Number One Player,222369,Split,133710
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 5,Night Wings Gaming vs Shenzhen NTER,222530,Split,133712
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 5,Night Wings Gaming vs Shenzhen NTER,222530,Haven,133713
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 5,Night Wings Gaming vs Shenzhen NTER,222530,Ascent,133714
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 5,Gank Gaming vs Four Angry Men,222531,Bind,133715
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 5,Gank Gaming vs Four Angry Men,222531,Haven,133716
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 5,Gank Gaming vs Four Angry Men,222531,Ascent,133717
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 5,Dragon Ranger Gaming vs Douyu Gaming,222532,Haven,133718
+Champions Tour 2023: Champions China Qualifier,1664,Preliminary Stage,3155,Round 5,Dragon Ranger Gaming vs Douyu Gaming,222532,Lotus,133719
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Knockout Round,Trace Esports vs Four Angry Men,235566,Haven,135323
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Knockout Round,Trace Esports vs Four Angry Men,235566,Lotus,135324
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Knockout Round,Monarch Effect vs Royal Never Give Up,235567,Bind,135326
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Knockout Round,Monarch Effect vs Royal Never Give Up,235567,Haven,135327
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Knockout Round,Monarch Effect vs Royal Never Give Up,235567,Split,135328
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Knockout Round,TYLOO vs Shenzhen NTER,235568,Pearl,135329
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Knockout Round,TYLOO vs Shenzhen NTER,235568,Lotus,135330
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Knockout Round,Weibo Gaming vs Dragon Ranger Gaming,235569,Haven,135332
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Knockout Round,Weibo Gaming vs Dragon Ranger Gaming,235569,Bind,135333
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Knockout Round,Weibo Gaming vs Dragon Ranger Gaming,235569,Split,135334
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Upper Quarterfinals,Attacking Soul Esports vs Trace Esports,235552,Lotus,135273
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Upper Quarterfinals,Attacking Soul Esports vs Trace Esports,235552,Split,135274
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Upper Quarterfinals,Attacking Soul Esports vs Trace Esports,235552,Bind,135275
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Upper Quarterfinals,Bilibili Gaming vs Monarch Effect,235553,Lotus,135276
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Upper Quarterfinals,Bilibili Gaming vs Monarch Effect,235553,Haven,135277
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Upper Quarterfinals,FunPlus Phoenix vs TYLOO,235554,Fracture,135279
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Upper Quarterfinals,FunPlus Phoenix vs TYLOO,235554,Bind,135280
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Upper Quarterfinals,EDward Gaming vs Weibo Gaming,235555,Fracture,135282
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Upper Quarterfinals,EDward Gaming vs Weibo Gaming,235555,Bind,135283
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Lower Round 1,Attacking Soul Esports vs Monarch Effect,235560,Fracture,135301
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Lower Round 1,Attacking Soul Esports vs Monarch Effect,235560,Split,135302
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Lower Round 1,FunPlus Phoenix vs Weibo Gaming,235561,Lotus,135304
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Lower Round 1,FunPlus Phoenix vs Weibo Gaming,235561,Ascent,135305
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Upper Semifinals,Trace Esports vs Bilibili Gaming,235556,Haven,135285
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Upper Semifinals,Trace Esports vs Bilibili Gaming,235556,Lotus,135286
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Upper Semifinals,Trace Esports vs Bilibili Gaming,235556,Split,135287
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Upper Semifinals,TYLOO vs EDward Gaming,235557,Split,135288
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Upper Semifinals,TYLOO vs EDward Gaming,235557,Haven,135289
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Upper Semifinals,TYLOO vs EDward Gaming,235557,Bind,135290
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Lower Round 2,Trace Esports vs FunPlus Phoenix,235562,Lotus,135307
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Lower Round 2,Trace Esports vs FunPlus Phoenix,235562,Split,135308
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Lower Round 2,Trace Esports vs FunPlus Phoenix,235562,Ascent,135309
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Lower Round 2,TYLOO vs Attacking Soul Esports,235563,Split,135310
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Lower Round 2,TYLOO vs Attacking Soul Esports,235563,Fracture,135311
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Lower Round 2,TYLOO vs Attacking Soul Esports,235563,Ascent,135312
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Upper Final,Bilibili Gaming vs EDward Gaming,235558,Pearl,135291
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Upper Final,Bilibili Gaming vs EDward Gaming,235558,Bind,135292
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Upper Final,Bilibili Gaming vs EDward Gaming,235558,Split,135293
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Lower Round 3,TYLOO vs FunPlus Phoenix,235564,Pearl,135313
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Lower Round 3,TYLOO vs FunPlus Phoenix,235564,Bind,135314
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Lower Round 3,TYLOO vs FunPlus Phoenix,235564,Ascent,135315
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Lower Round 3,TYLOO vs FunPlus Phoenix,235564,Fracture,135316
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Lower Final,Bilibili Gaming vs FunPlus Phoenix,235565,Lotus,135318
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Lower Final,Bilibili Gaming vs FunPlus Phoenix,235565,Bind,135319
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Lower Final,Bilibili Gaming vs FunPlus Phoenix,235565,Pearl,135320
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Lower Final,Bilibili Gaming vs FunPlus Phoenix,235565,Split,135321
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Lower Final,Bilibili Gaming vs FunPlus Phoenix,235565,Ascent,135322
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Grand Final,EDward Gaming vs Bilibili Gaming,235559,Split,135296
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Grand Final,EDward Gaming vs Bilibili Gaming,235559,Fracture,135297
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Grand Final,EDward Gaming vs Bilibili Gaming,235559,Bind,135298
+Champions Tour 2023: Champions China Qualifier,1664,Playoffs,3156,Grand Final,EDward Gaming vs Bilibili Gaming,235559,Haven,135299
+Champions Tour 2023: Masters Tokyo,1494,Group Stage,2857,Opening (B),FUT Esports vs Evil Geniuses,220297,Split,132557
+Champions Tour 2023: Masters Tokyo,1494,Group Stage,2857,Opening (B),FUT Esports vs Evil Geniuses,220297,Lotus,132558
+Champions Tour 2023: Masters Tokyo,1494,Group Stage,2857,Opening (B),DRX vs Attacking Soul Esports,220296,Fracture,132554
+Champions Tour 2023: Masters Tokyo,1494,Group Stage,2857,Opening (B),DRX vs Attacking Soul Esports,220296,Pearl,132555
+Champions Tour 2023: Masters Tokyo,1494,Group Stage,2857,Opening (A),EDward Gaming vs T1,220292,Fracture,132542
+Champions Tour 2023: Masters Tokyo,1494,Group Stage,2857,Opening (A),EDward Gaming vs T1,220292,Haven,132543
+Champions Tour 2023: Masters Tokyo,1494,Group Stage,2857,Opening (A),EDward Gaming vs T1,220292,Pearl,132544
+Champions Tour 2023: Masters Tokyo,1494,Group Stage,2857,Opening (A),NRG Esports vs Natus Vincere,220290,Ascent,132539
+Champions Tour 2023: Masters Tokyo,1494,Group Stage,2857,Opening (A),NRG Esports vs Natus Vincere,220290,Lotus,132540
+Champions Tour 2023: Masters Tokyo,1494,Group Stage,2857,Opening (A),NRG Esports vs Natus Vincere,220290,Split,132541
+Champions Tour 2023: Masters Tokyo,1494,Group Stage,2857,Winner's (B),DRX vs Evil Geniuses,220298,Fracture,132560
+Champions Tour 2023: Masters Tokyo,1494,Group Stage,2857,Winner's (B),DRX vs Evil Geniuses,220298,Ascent,132561
+Champions Tour 2023: Masters Tokyo,1494,Group Stage,2857,Winner's (A),NRG Esports vs T1,220293,Lotus,132545
+Champions Tour 2023: Masters Tokyo,1494,Group Stage,2857,Winner's (A),NRG Esports vs T1,220293,Bind,132546
+Champions Tour 2023: Masters Tokyo,1494,Group Stage,2857,Winner's (A),NRG Esports vs T1,220293,Pearl,132547
+Champions Tour 2023: Masters Tokyo,1494,Group Stage,2857,Elimination (B),Attacking Soul Esports vs FUT Esports,220299,Haven,132563
+Champions Tour 2023: Masters Tokyo,1494,Group Stage,2857,Elimination (B),Attacking Soul Esports vs FUT Esports,220299,Ascent,132564
+Champions Tour 2023: Masters Tokyo,1494,Group Stage,2857,Elimination (B),Attacking Soul Esports vs FUT Esports,220299,Lotus,132565
+Champions Tour 2023: Masters Tokyo,1494,Group Stage,2857,Elimination (A),Natus Vincere vs EDward Gaming,220294,Pearl,132548
+Champions Tour 2023: Masters Tokyo,1494,Group Stage,2857,Elimination (A),Natus Vincere vs EDward Gaming,220294,Bind,132549
+Champions Tour 2023: Masters Tokyo,1494,Group Stage,2857,Decider (B),DRX vs FUT Esports,220300,Bind,132566
+Champions Tour 2023: Masters Tokyo,1494,Group Stage,2857,Decider (B),DRX vs FUT Esports,220300,Fracture,132567
+Champions Tour 2023: Masters Tokyo,1494,Group Stage,2857,Decider (B),DRX vs FUT Esports,220300,Haven,132568
+Champions Tour 2023: Masters Tokyo,1494,Group Stage,2857,Decider (A),T1 vs EDward Gaming,220295,Fracture,132551
+Champions Tour 2023: Masters Tokyo,1494,Group Stage,2857,Decider (A),T1 vs EDward Gaming,220295,Haven,132552
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Upper Quarterfinals,LOUD vs Evil Geniuses,220444,Fracture,132701
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Upper Quarterfinals,LOUD vs Evil Geniuses,220444,Ascent,132702
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Upper Quarterfinals,Team Liquid vs EDward Gaming,220443,Haven,132698
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Upper Quarterfinals,Team Liquid vs EDward Gaming,220443,Split,132699
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Upper Quarterfinals,Team Liquid vs EDward Gaming,220443,Lotus,132700
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Upper Quarterfinals,FNATIC vs NRG Esports,220442,Fracture,132695
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Upper Quarterfinals,FNATIC vs NRG Esports,220442,Bind,132696
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Upper Quarterfinals,Paper Rex vs DRX,220441,Split,132692
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Upper Quarterfinals,Paper Rex vs DRX,220441,Bind,132693
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Lower Round 1,EDward Gaming vs LOUD,220450,Lotus,132721
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Lower Round 1,EDward Gaming vs LOUD,220450,Fracture,132722
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Lower Round 1,DRX vs NRG Esports,220449,Pearl,132718
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Lower Round 1,DRX vs NRG Esports,220449,Haven,132719
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Upper Semifinals,Team Liquid vs Evil Geniuses,220446,Fracture,132707
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Upper Semifinals,Team Liquid vs Evil Geniuses,220446,Haven,132708
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Upper Semifinals,Paper Rex vs FNATIC,220445,Lotus,132704
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Upper Semifinals,Paper Rex vs FNATIC,220445,Bind,132705
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Lower Round 2,Team Liquid vs NRG Esports,220451,Haven,132724
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Lower Round 2,Team Liquid vs NRG Esports,220451,Ascent,132725
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Lower Round 2,Team Liquid vs NRG Esports,220451,Split,132726
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Lower Round 2,Paper Rex vs EDward Gaming,220452,Fracture,132727
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Lower Round 2,Paper Rex vs EDward Gaming,220452,Split,132728
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Lower Round 2,Paper Rex vs EDward Gaming,220452,Lotus,132729
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Upper Final,FNATIC vs Evil Geniuses,220447,Lotus,132710
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Upper Final,FNATIC vs Evil Geniuses,220447,Fracture,132711
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Upper Final,FNATIC vs Evil Geniuses,220447,Split,132712
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Lower Round 3,NRG Esports vs Paper Rex,220453,Pearl,132730
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Lower Round 3,NRG Esports vs Paper Rex,220453,Lotus,132731
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Lower Round 3,NRG Esports vs Paper Rex,220453,Bind,132732
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Lower Final,Evil Geniuses vs Paper Rex,220454,Fracture,132733
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Lower Final,Evil Geniuses vs Paper Rex,220454,Lotus,132734
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Lower Final,Evil Geniuses vs Paper Rex,220454,Split,132735
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Lower Final,Evil Geniuses vs Paper Rex,220454,Pearl,132736
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Lower Final,Evil Geniuses vs Paper Rex,220454,Ascent,132737
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Grand Final,FNATIC vs Evil Geniuses,220448,Lotus,132713
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Grand Final,FNATIC vs Evil Geniuses,220448,Split,132714
+Champions Tour 2023: Masters Tokyo,1494,Playoffs,3154,Grand Final,FNATIC vs Evil Geniuses,220448,Bind,132715
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 1,Sentinels vs 100 Thieves,183774,Fracture,118923
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 1,Sentinels vs 100 Thieves,183774,Split,118924
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 1,Sentinels vs 100 Thieves,183774,Ascent,118925
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 1,KRÜ Esports vs FURIA,183775,Split,118926
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 1,KRÜ Esports vs FURIA,183775,Ascent,118927
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 1,LOUD vs MIBR,183776,Split,118929
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 1,LOUD vs MIBR,183776,Lotus,118930
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 1,LOUD vs MIBR,183776,Haven,118931
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 1,Evil Geniuses vs Cloud9,183777,Pearl,118932
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 1,Evil Geniuses vs Cloud9,183777,Fracture,118933
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 1,LEVIATÁN vs NRG Esports,183778,Pearl,118935
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 1,LEVIATÁN vs NRG Esports,183778,Lotus,118936
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 2,Cloud9 vs LOUD,183779,Split,118938
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 2,Cloud9 vs LOUD,183779,Ascent,118939
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 2,Cloud9 vs LOUD,183779,Pearl,118940
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 2,LEVIATÁN vs FURIA,183780,Pearl,118941
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 2,LEVIATÁN vs FURIA,183780,Icebox,118942
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 2,LEVIATÁN vs FURIA,183780,Ascent,118943
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 2,NRG Esports vs Sentinels,183781,Lotus,118944
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 2,NRG Esports vs Sentinels,183781,Icebox,118945
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 2,MIBR vs KRÜ Esports,183782,Ascent,118947
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 2,MIBR vs KRÜ Esports,183782,Lotus,118948
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 2,MIBR vs KRÜ Esports,183782,Pearl,118949
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 2,Evil Geniuses vs 100 Thieves,183783,Haven,118950
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 2,Evil Geniuses vs 100 Thieves,183783,Icebox,118951
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 3,Cloud9 vs 100 Thieves,183785,Lotus,118953
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 3,Cloud9 vs 100 Thieves,183785,Ascent,118954
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 3,NRG Esports vs MIBR,183786,Icebox,118956
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 3,NRG Esports vs MIBR,183786,Pearl,118957
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 3,NRG Esports vs MIBR,183786,Split,118958
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 3,LEVIATÁN vs Sentinels,183787,Split,118959
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 3,LEVIATÁN vs Sentinels,183787,Ascent,118960
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 3,LEVIATÁN vs Sentinels,183787,Pearl,118961
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 3,Evil Geniuses vs KRÜ Esports,183788,Pearl,118962
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 3,Evil Geniuses vs KRÜ Esports,183788,Ascent,118963
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 3,Evil Geniuses vs KRÜ Esports,183788,Fracture,118964
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 3,LOUD vs FURIA,183789,Split,118965
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 3,LOUD vs FURIA,183789,Icebox,118966
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 4,LOUD vs Sentinels,183791,Pearl,118968
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 4,LOUD vs Sentinels,183791,Haven,118969
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 4,LOUD vs Sentinels,183791,Ascent,118970
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 4,LEVIATÁN vs MIBR,183792,Pearl,118971
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 4,LEVIATÁN vs MIBR,183792,Icebox,118972
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 4,KRÜ Esports vs 100 Thieves,183793,Ascent,118974
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 4,KRÜ Esports vs 100 Thieves,183793,Split,118975
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 4,KRÜ Esports vs 100 Thieves,183793,Fracture,118976
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 4,Evil Geniuses vs FURIA,183794,Ascent,118977
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 4,Evil Geniuses vs FURIA,183794,Fracture,118978
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 4,Evil Geniuses vs FURIA,183794,Haven,118979
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 4,NRG Esports vs Cloud9,183795,Haven,118980
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 4,NRG Esports vs Cloud9,183795,Pearl,118981
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 4,NRG Esports vs Cloud9,183795,Ascent,118982
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 4,MIBR vs Sentinels,183796,Pearl,118983
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 4,MIBR vs Sentinels,183796,Fracture,118984
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 4,LEVIATÁN vs 100 Thieves,183797,Icebox,118986
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 4,LEVIATÁN vs 100 Thieves,183797,Haven,118987
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 4,LEVIATÁN vs 100 Thieves,183797,Lotus,118988
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 4,Evil Geniuses vs LOUD,183798,Split,118989
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 4,Evil Geniuses vs LOUD,183798,Haven,118990
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 4,Evil Geniuses vs LOUD,183798,Pearl,118991
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 4,Cloud9 vs FURIA,183799,Ascent,118992
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 4,Cloud9 vs FURIA,183799,Fracture,118993
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 4,NRG Esports vs KRÜ Esports,183800,Haven,118995
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 4,NRG Esports vs KRÜ Esports,183800,Ascent,118996
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 5,NRG Esports vs 100 Thieves,183801,Bind,118998
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 5,NRG Esports vs 100 Thieves,183801,Fracture,118999
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 5,MIBR vs FURIA,183802,Pearl,119001
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 5,MIBR vs FURIA,183802,Split,119002
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 5,Cloud9 vs Sentinels,183803,Lotus,119004
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 5,Cloud9 vs Sentinels,183803,Fracture,119005
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 5,LEVIATÁN vs Evil Geniuses,183804,Split,119007
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 5,LEVIATÁN vs Evil Geniuses,183804,Pearl,119008
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 5,LEVIATÁN vs Evil Geniuses,183804,Ascent,119009
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 5,LOUD vs KRÜ Esports,183805,Pearl,119010
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 5,LOUD vs KRÜ Esports,183805,Ascent,119011
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 5,LOUD vs KRÜ Esports,183805,Split,119012
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 6,Evil Geniuses vs Sentinels,183807,Fracture,119013
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 6,Evil Geniuses vs Sentinels,183807,Pearl,119014
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 6,Cloud9 vs MIBR,183808,Split,119016
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 6,Cloud9 vs MIBR,183808,Lotus,119017
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 6,LOUD vs 100 Thieves,183809,Ascent,119019
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 6,LOUD vs 100 Thieves,183809,Split,119020
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 6,LEVIATÁN vs KRÜ Esports,183810,Haven,119022
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 6,LEVIATÁN vs KRÜ Esports,183810,Split,119023
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 6,NRG Esports vs FURIA,183811,Bind,119025
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 6,NRG Esports vs FURIA,183811,Haven,119026
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 6,NRG Esports vs FURIA,183811,Pearl,119027
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 7,FURIA vs 100 Thieves,183812,Pearl,119028
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 7,FURIA vs 100 Thieves,183812,Fracture,119029
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 7,FURIA vs 100 Thieves,183812,Haven,119030
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 7,Evil Geniuses vs MIBR,183813,Lotus,119031
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 7,Evil Geniuses vs MIBR,183813,Fracture,119032
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 7,KRÜ Esports vs Sentinels,183814,Lotus,119034
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 7,KRÜ Esports vs Sentinels,183814,Bind,119035
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 7,NRG Esports vs LOUD,183815,Split,119037
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 7,NRG Esports vs LOUD,183815,Pearl,119038
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 7,LEVIATÁN vs Cloud9,183816,Lotus,119040
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 7,LEVIATÁN vs Cloud9,183816,Haven,119041
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 8,Sentinels vs FURIA,184032,Split,119231
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 8,Sentinels vs FURIA,184032,Haven,119232
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 8,Sentinels vs FURIA,184032,Bind,119233
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 8,NRG Esports vs Evil Geniuses,184033,Bind,119234
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 8,NRG Esports vs Evil Geniuses,184033,Split,119235
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 8,Cloud9 vs KRÜ Esports,184034,Lotus,119237
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 8,Cloud9 vs KRÜ Esports,184034,Ascent,119238
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 8,Cloud9 vs KRÜ Esports,184034,Split,119239
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 8,LEVIATÁN vs LOUD,184035,Haven,119240
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 8,LEVIATÁN vs LOUD,184035,Ascent,119241
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 8,MIBR vs 100 Thieves,184036,Fracture,119243
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 8,MIBR vs 100 Thieves,184036,Pearl,119244
+Champions Tour 2023: Americas League,1189,Regular Season,2315,Week 8,MIBR vs 100 Thieves,184036,Lotus,119245
+Champions Tour 2023: Americas League,1189,Playoffs,2867,Upper Round 1,LEVIATÁN vs FURIA,189050,Ascent,123159
+Champions Tour 2023: Americas League,1189,Playoffs,2867,Upper Round 1,LEVIATÁN vs FURIA,189050,Pearl,123160
+Champions Tour 2023: Americas League,1189,Playoffs,2867,Upper Round 1,LEVIATÁN vs FURIA,189050,Bind,123161
+Champions Tour 2023: Americas League,1189,Playoffs,2867,Upper Round 1,NRG Esports vs Evil Geniuses,189051,Haven,123162
+Champions Tour 2023: Americas League,1189,Playoffs,2867,Upper Round 1,NRG Esports vs Evil Geniuses,189051,Split,123163
+Champions Tour 2023: Americas League,1189,Playoffs,2867,Upper Round 1,NRG Esports vs Evil Geniuses,189051,Ascent,123164
+Champions Tour 2023: Americas League,1189,Playoffs,2867,Upper Semifinals,LOUD vs FURIA,189052,Haven,123165
+Champions Tour 2023: Americas League,1189,Playoffs,2867,Upper Semifinals,LOUD vs FURIA,189052,Ascent,123166
+Champions Tour 2023: Americas League,1189,Playoffs,2867,Upper Semifinals,Cloud9 vs Evil Geniuses,189053,Fracture,123168
+Champions Tour 2023: Americas League,1189,Playoffs,2867,Upper Semifinals,Cloud9 vs Evil Geniuses,189053,Bind,123169
+Champions Tour 2023: Americas League,1189,Playoffs,2867,Lower Round 1,FURIA vs NRG Esports,189057,Bind,123182
+Champions Tour 2023: Americas League,1189,Playoffs,2867,Lower Round 1,FURIA vs NRG Esports,189057,Haven,123183
+Champions Tour 2023: Americas League,1189,Playoffs,2867,Lower Round 1,Cloud9 vs LEVIATÁN,189056,Haven,123179
+Champions Tour 2023: Americas League,1189,Playoffs,2867,Lower Round 1,Cloud9 vs LEVIATÁN,189056,Lotus,123180
+Champions Tour 2023: Americas League,1189,Playoffs,2867,Lower Round 1,Cloud9 vs LEVIATÁN,189056,Ascent,123181
+Champions Tour 2023: Americas League,1189,Playoffs,2867,Upper Final,LOUD vs Evil Geniuses,189054,Fracture,123171
+Champions Tour 2023: Americas League,1189,Playoffs,2867,Upper Final,LOUD vs Evil Geniuses,189054,Ascent,123172
+Champions Tour 2023: Americas League,1189,Playoffs,2867,Upper Final,LOUD vs Evil Geniuses,189054,Bind,123173
+Champions Tour 2023: Americas League,1189,Playoffs,2867,Lower Round 2,Cloud9 vs NRG Esports,189058,Pearl,123185
+Champions Tour 2023: Americas League,1189,Playoffs,2867,Lower Round 2,Cloud9 vs NRG Esports,189058,Lotus,123186
+Champions Tour 2023: Americas League,1189,Playoffs,2867,Lower Round 2,Cloud9 vs NRG Esports,189058,Haven,123187
+Champions Tour 2023: Americas League,1189,Playoffs,2867,Lower Final,Evil Geniuses vs NRG Esports,189059,Haven,123188
+Champions Tour 2023: Americas League,1189,Playoffs,2867,Lower Final,Evil Geniuses vs NRG Esports,189059,Ascent,123189
+Champions Tour 2023: Americas League,1189,Playoffs,2867,Lower Final,Evil Geniuses vs NRG Esports,189059,Lotus,123190
+Champions Tour 2023: Americas League,1189,Playoffs,2867,Lower Final,Evil Geniuses vs NRG Esports,189059,Split,123191
+Champions Tour 2023: Americas League,1189,Playoffs,2867,Grand Final,LOUD vs NRG Esports,189055,Ascent,123174
+Champions Tour 2023: Americas League,1189,Playoffs,2867,Grand Final,LOUD vs NRG Esports,189055,Bind,123175
+Champions Tour 2023: Americas League,1189,Playoffs,2867,Grand Final,LOUD vs NRG Esports,189055,Fracture,123176
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 1,KOI vs Natus Vincere,173215,Ascent,117164
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 1,KOI vs Natus Vincere,173215,Lotus,117165
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 1,FNATIC vs Giants Gaming,173214,Icebox,117161
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 1,FNATIC vs Giants Gaming,173214,Split,117162
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 1,Team Heretics vs FUT Esports,173216,Pearl,117167
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 1,Team Heretics vs FUT Esports,173216,Lotus,117168
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 1,Team Liquid vs Team Vitality,173217,Haven,117170
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 1,Team Liquid vs Team Vitality,173217,Fracture,117171
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 1,Team Liquid vs Team Vitality,173217,Lotus,117172
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 1,Natus Vincere vs Giants Gaming,173218,Icebox,117173
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 1,Natus Vincere vs Giants Gaming,173218,Split,117174
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 1,Natus Vincere vs Giants Gaming,173218,Pearl,117175
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 1,Karmine Corp vs BBL Esports,173219,Icebox,117176
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 1,Karmine Corp vs BBL Esports,173219,Split,117177
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 1,Team Liquid vs FUT Esports,173220,Lotus,117179
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 1,Team Liquid vs FUT Esports,173220,Split,117180
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 1,Team Liquid vs FUT Esports,173220,Ascent,117181
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 1,KOI vs Team Vitality,173221,Split,117182
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 1,KOI vs Team Vitality,173221,Fracture,117183
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 1,FNATIC vs BBL Esports,173222,Ascent,117185
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 1,FNATIC vs BBL Esports,173222,Haven,117186
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 1,FNATIC vs BBL Esports,173222,Split,117187
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 1,Team Heretics vs Karmine Corp,173223,Icebox,117188
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 1,Team Heretics vs Karmine Corp,173223,Split,117189
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 2,Team Vitality vs FUT Esports,183944,Lotus,119187
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 2,Team Vitality vs FUT Esports,183944,Haven,119188
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 2,Natus Vincere vs BBL Esports,183945,Ascent,119190
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 2,Natus Vincere vs BBL Esports,183945,Fracture,119191
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 2,FNATIC vs Team Heretics,183946,Icebox,119193
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 2,FNATIC vs Team Heretics,183946,Ascent,119194
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 2,Team Liquid vs Karmine Corp,183947,Ascent,119196
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 2,Team Liquid vs Karmine Corp,183947,Split,119197
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 2,KOI vs Giants Gaming,183948,Lotus,119199
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 2,KOI vs Giants Gaming,183948,Ascent,119200
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 3,Natus Vincere vs Team Heretics,183949,Pearl,119202
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 3,Natus Vincere vs Team Heretics,183949,Lotus,119203
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 3,Natus Vincere vs Team Heretics,183949,Ascent,119204
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 3,KOI vs FUT Esports,183950,Icebox,126175
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 3,KOI vs FUT Esports,183950,Ascent,119206
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 3,Team Liquid vs FNATIC,183951,Lotus,119208
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 3,Team Liquid vs FNATIC,183951,Haven,119209
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 3,Giants Gaming vs BBL Esports,183952,Icebox,119211
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 3,Giants Gaming vs BBL Esports,183952,Split,119212
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 3,Team Vitality vs Karmine Corp,183953,Ascent,119214
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 3,Team Vitality vs Karmine Corp,183953,Split,119215
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 4,Team Heretics vs Team Liquid,184037,Split,119246
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 4,Team Heretics vs Team Liquid,184037,Fracture,119247
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 4,FUT Esports vs Giants Gaming,184039,Icebox,119252
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 4,FUT Esports vs Giants Gaming,184039,Split,119253
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 4,Karmine Corp vs Natus Vincere,184040,Ascent,119255
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 4,Karmine Corp vs Natus Vincere,184040,Lotus,119256
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 4,BBL Esports vs Team Vitality,184041,Ascent,119258
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 4,BBL Esports vs Team Vitality,184041,Haven,119259
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 5,Giants Gaming vs Team Liquid,184042,Ascent,119261
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 5,Giants Gaming vs Team Liquid,184042,Icebox,119262
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 5,Giants Gaming vs Team Liquid,184042,Lotus,119263
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 5,BBL Esports vs Team Heretics,184043,Haven,119264
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 5,BBL Esports vs Team Heretics,184043,Lotus,119265
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 5,BBL Esports vs Team Heretics,184043,Icebox,119266
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 5,KOI vs Karmine Corp,184044,Lotus,119267
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 5,KOI vs Karmine Corp,184044,Ascent,119268
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 5,KOI vs Karmine Corp,184044,Haven,119269
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 5,FUT Esports vs FNATIC,184045,Icebox,119270
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 5,FUT Esports vs FNATIC,184045,Lotus,119271
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 5,Team Vitality vs Natus Vincere,184046,Split,119273
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 5,Team Vitality vs Natus Vincere,184046,Fracture,119274
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 6,Team Vitality vs FNATIC,184047,Haven,119276
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 6,Team Vitality vs FNATIC,184047,Bind,119277
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 6,FUT Esports vs Karmine Corp,184048,Haven,119279
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 6,FUT Esports vs Karmine Corp,184048,Ascent,119280
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 6,KOI vs BBL Esports,184049,Pearl,119282
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 6,KOI vs BBL Esports,184049,Ascent,119283
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 6,KOI vs BBL Esports,184049,Bind,119284
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 6,Natus Vincere vs Team Liquid,184050,Fracture,119285
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 6,Natus Vincere vs Team Liquid,184050,Bind,119286
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 6,Giants Gaming vs Team Heretics,184051,Pearl,119288
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 6,Giants Gaming vs Team Heretics,184051,Lotus,119289
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 4,KOI vs FNATIC,184038,Lotus,119249
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 4,KOI vs FNATIC,184038,Ascent,119250
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 7,Giants Gaming vs Team Vitality,184052,Lotus,119291
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 7,Giants Gaming vs Team Vitality,184052,Split,119292
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 7,Giants Gaming vs Team Vitality,184052,Ascent,119293
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 7,FUT Esports vs Natus Vincere,184053,Lotus,119294
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 7,FUT Esports vs Natus Vincere,184053,Pearl,119295
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 7,Karmine Corp vs FNATIC,184054,Haven,119297
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 7,Karmine Corp vs FNATIC,184054,Lotus,119298
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 7,BBL Esports vs Team Liquid,184055,Split,119300
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 7,BBL Esports vs Team Liquid,184055,Ascent,119301
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 7,BBL Esports vs Team Liquid,184055,Bind,119302
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 7,KOI vs Team Heretics,184056,Fracture,119303
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 7,KOI vs Team Heretics,184056,Lotus,119304
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 7,KOI vs Team Heretics,184056,Ascent,119305
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 8,FNATIC vs Natus Vincere,184057,Lotus,119306
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 8,FNATIC vs Natus Vincere,184057,Split,119307
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 8,Team Heretics vs Team Vitality,184058,Haven,119309
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 8,Team Heretics vs Team Vitality,184058,Lotus,119310
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 8,Karmine Corp vs Giants Gaming,184059,Lotus,119312
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 8,Karmine Corp vs Giants Gaming,184059,Ascent,119313
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 8,KOI vs Team Liquid,184060,Fracture,119315
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 8,KOI vs Team Liquid,184060,Split,119316
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 8,KOI vs Team Liquid,184060,Lotus,119317
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 8,BBL Esports vs FUT Esports,184061,Pearl,119318
+Champions Tour 2023: EMEA League,1190,Regular Season,2314,Week 8,BBL Esports vs FUT Esports,184061,Haven,119319
+Champions Tour 2023: EMEA League,1190,Playoffs,2858,Upper Round 1,Giants Gaming vs FUT Esports,213193,Haven,130941
+Champions Tour 2023: EMEA League,1190,Playoffs,2858,Upper Round 1,Giants Gaming vs FUT Esports,213193,Ascent,130942
+Champions Tour 2023: EMEA League,1190,Playoffs,2858,Upper Round 1,Team Liquid vs Team Vitality,213194,Lotus,130944
+Champions Tour 2023: EMEA League,1190,Playoffs,2858,Upper Round 1,Team Liquid vs Team Vitality,213194,Bind,130945
+Champions Tour 2023: EMEA League,1190,Playoffs,2858,Upper Round 1,Team Liquid vs Team Vitality,213194,Ascent,130946
+Champions Tour 2023: EMEA League,1190,Playoffs,2858,Upper Semifinals,FNATIC vs FUT Esports,213195,Bind,130947
+Champions Tour 2023: EMEA League,1190,Playoffs,2858,Upper Semifinals,FNATIC vs FUT Esports,213195,Split,130948
+Champions Tour 2023: EMEA League,1190,Playoffs,2858,Upper Semifinals,FNATIC vs FUT Esports,213195,Lotus,130949
+Champions Tour 2023: EMEA League,1190,Playoffs,2858,Upper Semifinals,Natus Vincere vs Team Liquid,213196,Bind,130950
+Champions Tour 2023: EMEA League,1190,Playoffs,2858,Upper Semifinals,Natus Vincere vs Team Liquid,213196,Split,130951
+Champions Tour 2023: EMEA League,1190,Playoffs,2858,Lower Round 1,FUT Esports vs Team Vitality,213200,Split,130962
+Champions Tour 2023: EMEA League,1190,Playoffs,2858,Lower Round 1,FUT Esports vs Team Vitality,213200,Haven,130963
+Champions Tour 2023: EMEA League,1190,Playoffs,2858,Lower Round 1,FUT Esports vs Team Vitality,213200,Lotus,130964
+Champions Tour 2023: EMEA League,1190,Playoffs,2858,Lower Round 1,Natus Vincere vs Giants Gaming,213199,Pearl,130959
+Champions Tour 2023: EMEA League,1190,Playoffs,2858,Lower Round 1,Natus Vincere vs Giants Gaming,213199,Ascent,130960
+Champions Tour 2023: EMEA League,1190,Playoffs,2858,Upper Final,FNATIC vs Team Liquid,213197,Lotus,130953
+Champions Tour 2023: EMEA League,1190,Playoffs,2858,Upper Final,FNATIC vs Team Liquid,213197,Bind,130954
+Champions Tour 2023: EMEA League,1190,Playoffs,2858,Lower Round 2,Natus Vincere vs FUT Esports,213201,Lotus,130965
+Champions Tour 2023: EMEA League,1190,Playoffs,2858,Lower Round 2,Natus Vincere vs FUT Esports,213201,Fracture,130966
+Champions Tour 2023: EMEA League,1190,Playoffs,2858,Lower Final,Team Liquid vs FUT Esports,213202,Ascent,130968
+Champions Tour 2023: EMEA League,1190,Playoffs,2858,Lower Final,Team Liquid vs FUT Esports,213202,Lotus,130969
+Champions Tour 2023: EMEA League,1190,Playoffs,2858,Lower Final,Team Liquid vs FUT Esports,213202,Split,130970
+Champions Tour 2023: EMEA League,1190,Playoffs,2858,Grand Final,FNATIC vs Team Liquid,213198,Lotus,130956
+Champions Tour 2023: EMEA League,1190,Playoffs,2858,Grand Final,FNATIC vs Team Liquid,213198,Ascent,130957
+Champions Tour 2023: EMEA League,1190,Playoffs,2858,Grand Final,FNATIC vs Team Liquid,213198,Haven,130958
+Champions Tour 2023: EMEA League,1190,Playoffs,2858,Grand Final,FNATIC vs Team Liquid,213198,Fracture,131673
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 1,ZETA DIVISION vs DRX,184456,Ascent,119512
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 1,ZETA DIVISION vs DRX,184456,Pearl,119513
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 1,T1 vs Global Esports,184457,Pearl,119515
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 1,T1 vs Global Esports,184457,Haven,119516
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 1,T1 vs Global Esports,184457,Lotus,119517
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 1,Paper Rex vs DetonatioN FocusMe,184458,Pearl,119518
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 1,Paper Rex vs DetonatioN FocusMe,184458,Lotus,119519
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 1,Team Secret vs Talon Esports,184459,Ascent,119521
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 1,Team Secret vs Talon Esports,184459,Icebox,119522
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 1,Team Secret vs Talon Esports,184459,Fracture,119523
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 1,Rex Regum Qeon vs Gen.G,184460,Fracture,119524
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 1,Rex Regum Qeon vs Gen.G,184460,Lotus,119525
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 2,ZETA DIVISION vs Rex Regum Qeon,184461,Haven,119527
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 2,ZETA DIVISION vs Rex Regum Qeon,184461,Ascent,119528
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 2,ZETA DIVISION vs Rex Regum Qeon,184461,Lotus,119529
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 2,Talon Esports vs T1,184462,Ascent,119530
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 2,Talon Esports vs T1,184462,Haven,119531
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 2,Team Secret vs Paper Rex,184463,Haven,119533
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 2,Team Secret vs Paper Rex,184463,Fracture,119534
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 2,Team Secret vs Paper Rex,184463,Split,119535
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 2,Gen.G vs DetonatioN FocusMe,184465,Lotus,119536
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 2,Gen.G vs DetonatioN FocusMe,184465,Fracture,119537
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 2,Gen.G vs DetonatioN FocusMe,184465,Pearl,119538
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 2,Global Esports vs DRX,184466,Haven,119539
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 2,Global Esports vs DRX,184466,Split,119540
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 3,Rex Regum Qeon vs DetonatioN FocusMe,184467,Haven,119542
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 3,Rex Regum Qeon vs DetonatioN FocusMe,184467,Pearl,119543
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 3,T1 vs Paper Rex,184468,Pearl,119545
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 3,T1 vs Paper Rex,184468,Fracture,119546
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 3,ZETA DIVISION vs Global Esports,184469,Pearl,119548
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 3,ZETA DIVISION vs Global Esports,184469,Ascent,119549
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 3,ZETA DIVISION vs Global Esports,184469,Haven,119550
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 3,Talon Esports vs DRX,184470,Split,119551
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 3,Talon Esports vs DRX,184470,Pearl,119552
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 3,Team Secret vs Gen.G,184471,Haven,119554
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 3,Team Secret vs Gen.G,184471,Fracture,119555
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 4,Paper Rex vs DRX,184472,Ascent,119557
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 4,Paper Rex vs DRX,184472,Split,119558
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 4,Team Secret vs Rex Regum Qeon,184473,Icebox,119560
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 4,Team Secret vs Rex Regum Qeon,184473,Split,119561
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 4,T1 vs Gen.G,184474,Ascent,119563
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 4,T1 vs Gen.G,184474,Haven,119564
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 4,ZETA DIVISION vs DetonatioN FocusMe,184475,Ascent,119566
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 4,ZETA DIVISION vs DetonatioN FocusMe,184475,Haven,119567
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 4,Talon Esports vs Global Esports,184476,Split,119569
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 4,Talon Esports vs Global Esports,184476,Icebox,119570
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 5,Paper Rex vs Global Esports,184477,Icebox,119572
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 5,Paper Rex vs Global Esports,184477,Split,119573
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 5,Paper Rex vs Global Esports,184477,Pearl,119574
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 5,Gen.G vs DRX,184478,Haven,119575
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 5,Gen.G vs DRX,184478,Fracture,119576
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 5,Gen.G vs DRX,184478,Pearl,119577
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 5,T1 vs Rex Regum Qeon,184479,Haven,119578
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 5,T1 vs Rex Regum Qeon,184479,Fracture,119579
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 5,Team Secret vs DetonatioN FocusMe,184480,Ascent,119581
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 5,Team Secret vs DetonatioN FocusMe,184480,Haven,119582
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 5,ZETA DIVISION vs Talon Esports,184481,Haven,119584
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 5,ZETA DIVISION vs Talon Esports,184481,Ascent,119585
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 6,T1 vs DetonatioN FocusMe,184482,Lotus,119587
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 6,T1 vs DetonatioN FocusMe,184482,Split,119588
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 6,T1 vs DetonatioN FocusMe,184482,Fracture,119589
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 6,ZETA DIVISION vs Team Secret,184483,Split,119590
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 6,ZETA DIVISION vs Team Secret,184483,Lotus,119591
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 6,ZETA DIVISION vs Team Secret,184483,Fracture,119592
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 6,Global Esports vs Gen.G,184484,Pearl,119593
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 6,Global Esports vs Gen.G,184484,Lotus,119594
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 6,Rex Regum Qeon vs DRX,184485,Haven,119596
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 6,Rex Regum Qeon vs DRX,184485,Split,119597
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 6,Rex Regum Qeon vs DRX,184485,Pearl,119598
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 6,Talon Esports vs Paper Rex,184486,Pearl,119599
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 6,Talon Esports vs Paper Rex,184486,Split,119600
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 6,Talon Esports vs Paper Rex,184486,Fracture,119601
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 7,Talon Esports vs Gen.G,184488,Fracture,119602
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 7,Talon Esports vs Gen.G,184488,Lotus,119603
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 7,ZETA DIVISION vs Paper Rex,184489,Split,119605
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 7,ZETA DIVISION vs Paper Rex,184489,Ascent,119606
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 7,Rex Regum Qeon vs Global Esports,184490,Fracture,119608
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 7,Rex Regum Qeon vs Global Esports,184490,Pearl,119609
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 7,Team Secret vs T1,184491,Lotus,119611
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 7,Team Secret vs T1,184491,Bind,119612
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 7,DRX vs DetonatioN FocusMe,184492,Fracture,119614
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 7,DRX vs DetonatioN FocusMe,184492,Ascent,119615
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 8,Paper Rex vs Gen.G,184493,Split,119617
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 8,Paper Rex vs Gen.G,184493,Ascent,119618
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 8,ZETA DIVISION vs T1,184494,Fracture,119620
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 8,ZETA DIVISION vs T1,184494,Lotus,119621
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 8,ZETA DIVISION vs T1,184494,Bind,119622
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 8,Team Secret vs DRX,184495,Haven,119623
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 8,Team Secret vs DRX,184495,Ascent,119624
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 8,Global Esports vs DetonatioN FocusMe,184496,Lotus,119626
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 8,Global Esports vs DetonatioN FocusMe,184496,Pearl,119627
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 8,Talon Esports vs Rex Regum Qeon,184497,Split,119629
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 8,Talon Esports vs Rex Regum Qeon,184497,Ascent,119630
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 8,Talon Esports vs Rex Regum Qeon,184497,Haven,119631
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 8,ZETA DIVISION vs Gen.G,184498,Haven,119632
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 8,ZETA DIVISION vs Gen.G,184498,Ascent,119633
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 8,ZETA DIVISION vs Gen.G,184498,Fracture,119634
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 8,T1 vs DRX,184499,Bind,119635
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 8,T1 vs DRX,184499,Pearl,119636
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 8,Team Secret vs Global Esports,184500,Haven,119638
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 8,Team Secret vs Global Esports,184500,Lotus,119639
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 8,Talon Esports vs DetonatioN FocusMe,184501,Lotus,119641
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 8,Talon Esports vs DetonatioN FocusMe,184501,Bind,119642
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 8,Rex Regum Qeon vs Paper Rex,184502,Bind,119644
+Champions Tour 2023: Pacific League,1191,League Play,2316,Week 8,Rex Regum Qeon vs Paper Rex,184502,Pearl,119645
+Champions Tour 2023: Pacific League,1191,Playoffs,2872,Upper Round 1,ZETA DIVISION vs Team Secret,184513,Haven,119677
+Champions Tour 2023: Pacific League,1191,Playoffs,2872,Upper Round 1,ZETA DIVISION vs Team Secret,184513,Ascent,119678
+Champions Tour 2023: Pacific League,1191,Playoffs,2872,Upper Round 1,T1 vs Gen.G,184514,Fracture,119680
+Champions Tour 2023: Pacific League,1191,Playoffs,2872,Upper Round 1,T1 vs Gen.G,184514,Ascent,119681
+Champions Tour 2023: Pacific League,1191,Playoffs,2872,Upper Round 1,T1 vs Gen.G,184514,Lotus,119682
+Champions Tour 2023: Pacific League,1191,Playoffs,2872,Upper Semifinals,DRX vs Team Secret,184515,Haven,119683
+Champions Tour 2023: Pacific League,1191,Playoffs,2872,Upper Semifinals,DRX vs Team Secret,184515,Split,119684
+Champions Tour 2023: Pacific League,1191,Playoffs,2872,Upper Semifinals,DRX vs Team Secret,184515,Bind,119685
+Champions Tour 2023: Pacific League,1191,Playoffs,2872,Upper Semifinals,Paper Rex vs T1,184516,Lotus,119686
+Champions Tour 2023: Pacific League,1191,Playoffs,2872,Upper Semifinals,Paper Rex vs T1,184516,Fracture,119687
+Champions Tour 2023: Pacific League,1191,Playoffs,2872,Lower Round 1,Team Secret vs Gen.G,184518,Ascent,119692
+Champions Tour 2023: Pacific League,1191,Playoffs,2872,Lower Round 1,Team Secret vs Gen.G,184518,Haven,119693
+Champions Tour 2023: Pacific League,1191,Playoffs,2872,Lower Round 1,Team Secret vs Gen.G,184518,Split,119694
+Champions Tour 2023: Pacific League,1191,Playoffs,2872,Lower Round 1,T1 vs ZETA DIVISION,184517,Haven,119689
+Champions Tour 2023: Pacific League,1191,Playoffs,2872,Lower Round 1,T1 vs ZETA DIVISION,184517,Bind,119690
+Champions Tour 2023: Pacific League,1191,Playoffs,2872,Lower Round 1,T1 vs ZETA DIVISION,184517,Fracture,119691
+Champions Tour 2023: Pacific League,1191,Playoffs,2872,Upper Final,DRX vs Paper Rex,184519,Fracture,119695
+Champions Tour 2023: Pacific League,1191,Playoffs,2872,Upper Final,DRX vs Paper Rex,184519,Bind,119696
+Champions Tour 2023: Pacific League,1191,Playoffs,2872,Lower Round 2,T1 vs Gen.G,184520,Fracture,119698
+Champions Tour 2023: Pacific League,1191,Playoffs,2872,Lower Round 2,T1 vs Gen.G,184520,Ascent,119699
+Champions Tour 2023: Pacific League,1191,Playoffs,2872,Lower Final,DRX vs T1,184521,Ascent,119701
+Champions Tour 2023: Pacific League,1191,Playoffs,2872,Lower Final,DRX vs T1,184521,Fracture,119702
+Champions Tour 2023: Pacific League,1191,Playoffs,2872,Lower Final,DRX vs T1,184521,Haven,119703
+Champions Tour 2023: Pacific League,1191,Playoffs,2872,Lower Final,DRX vs T1,184521,Bind,119704
+Champions Tour 2023: Pacific League,1191,Playoffs,2872,Lower Final,DRX vs T1,184521,Pearl,119705
+Champions Tour 2023: Pacific League,1191,Playoffs,2872,Grand Final,Paper Rex vs DRX,184522,Fracture,119706
+Champions Tour 2023: Pacific League,1191,Playoffs,2872,Grand Final,Paper Rex vs DRX,184522,Ascent,119708
+Champions Tour 2023: Pacific League,1191,Playoffs,2872,Grand Final,Paper Rex vs DRX,184522,Lotus,131784
+Champions Tour 2023: Pacific League,1191,Playoffs,2872,Grand Final,Paper Rex vs DRX,184522,Pearl,119712
+Champions Tour 2023: Pacific League,1191,Playoffs,2872,Grand Final,Paper Rex vs DRX,184522,Bind,119714
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Alpha - Round of 16,KOI vs NRG Esports,167348,Icebox,113040
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Alpha - Round of 16,KOI vs NRG Esports,167348,Haven,113041
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Alpha - Round of 16,DetonatioN FocusMe vs Giants Gaming,167349,Haven,113043
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Alpha - Round of 16,DetonatioN FocusMe vs Giants Gaming,167349,Icebox,113044
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Alpha - Round of 16,FunPlus Phoenix vs Karmine Corp,167351,Lotus,113049
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Alpha - Round of 16,FunPlus Phoenix vs Karmine Corp,167351,Haven,113050
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Alpha - Round of 16,FunPlus Phoenix vs Karmine Corp,167351,Pearl,113051
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Alpha - Round of 16,BBL Esports vs DRX,167352,Pearl,113052
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Alpha - Round of 16,BBL Esports vs DRX,167352,Ascent,113053
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Alpha - Round of 16,BBL Esports vs DRX,167352,Haven,113054
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Alpha - Round of 16,Cloud9 vs Paper Rex,167353,Lotus,113055
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Alpha - Round of 16,Cloud9 vs Paper Rex,167353,Pearl,113056
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Alpha - Round of 16,Team Heretics vs Evil Geniuses,167354,Pearl,113058
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Alpha - Round of 16,Team Heretics vs Evil Geniuses,167354,Ascent,113059
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Alpha - Round of 16,MIBR vs Talon Esports,167355,Haven,113061
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Alpha - Round of 16,MIBR vs Talon Esports,167355,Fracture,113062
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Alpha - Round of 16,Gen.G vs LOUD,167350,Pearl,113046
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Alpha - Round of 16,Gen.G vs LOUD,167350,Fracture,113047
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Alpha - Quarterfinals,NRG Esports vs Giants Gaming,167356,Lotus,113064
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Alpha - Quarterfinals,NRG Esports vs Giants Gaming,167356,Haven,113065
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Alpha - Quarterfinals,NRG Esports vs Giants Gaming,167356,Icebox,113066
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Alpha - Quarterfinals,LOUD vs Karmine Corp,167357,Pearl,113067
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Alpha - Quarterfinals,LOUD vs Karmine Corp,167357,Split,113068
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Alpha - Quarterfinals,DRX vs Cloud9,167358,Pearl,113070
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Alpha - Quarterfinals,DRX vs Cloud9,167358,Haven,113071
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Alpha - Quarterfinals,DRX vs Cloud9,167358,Icebox,113072
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Alpha - Quarterfinals,Evil Geniuses vs Talon Esports,167359,Haven,113073
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Alpha - Quarterfinals,Evil Geniuses vs Talon Esports,167359,Split,113074
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Alpha - Semifinals,NRG Esports vs LOUD,167360,Split,113076
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Alpha - Semifinals,NRG Esports vs LOUD,167360,Pearl,113077
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Alpha - Semifinals,NRG Esports vs LOUD,167360,Fracture,113078
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Alpha - Semifinals,DRX vs Talon Esports,167361,Fracture,113079
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Alpha - Semifinals,DRX vs Talon Esports,167361,Ascent,113080
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Alpha - Semifinals,DRX vs Talon Esports,167361,Icebox,113081
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Omega - Round of 16,Team Liquid vs Team Secret,167362,Icebox,113082
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Omega - Round of 16,Team Liquid vs Team Secret,167362,Fracture,113083
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Omega - Round of 16,Natus Vincere vs KRÜ Esports,167363,Ascent,113085
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Omega - Round of 16,Natus Vincere vs KRÜ Esports,167363,Lotus,113086
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Omega - Round of 16,ZETA DIVISION vs LEVIATÁN,167364,Ascent,113088
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Omega - Round of 16,ZETA DIVISION vs LEVIATÁN,167364,Pearl,113089
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Omega - Round of 16,Team Vitality vs Global Esports,167365,Split,113091
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Omega - Round of 16,Team Vitality vs Global Esports,167365,Pearl,113092
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Omega - Round of 16,Team Vitality vs Global Esports,167365,Lotus,113093
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Omega - Round of 16,FUT Esports vs Rex Regum Qeon,167366,Lotus,113094
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Omega - Round of 16,FUT Esports vs Rex Regum Qeon,167366,Pearl,113095
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Omega - Round of 16,100 Thieves vs EDward Gaming,167367,Icebox,113097
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Omega - Round of 16,100 Thieves vs EDward Gaming,167367,Lotus,113098
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Omega - Round of 16,100 Thieves vs EDward Gaming,167367,Pearl,113099
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Omega - Round of 16,Sentinels vs FNATIC,167368,Haven,113100
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Omega - Round of 16,Sentinels vs FNATIC,167368,Split,113101
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Omega - Round of 16,T1 vs FURIA,167369,Pearl,113103
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Omega - Round of 16,T1 vs FURIA,167369,Icebox,113104
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Omega - Quarterfinals,Team Secret vs Natus Vincere,167370,Icebox,113106
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Omega - Quarterfinals,Team Secret vs Natus Vincere,167370,Pearl,113107
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Omega - Quarterfinals,LEVIATÁN vs Team Vitality,167371,Haven,113109
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Omega - Quarterfinals,LEVIATÁN vs Team Vitality,167371,Pearl,113110
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Omega - Quarterfinals,FUT Esports vs 100 Thieves,167372,Lotus,113112
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Omega - Quarterfinals,FUT Esports vs 100 Thieves,167372,Haven,113113
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Omega - Quarterfinals,FUT Esports vs 100 Thieves,167372,Icebox,113114
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Omega - Quarterfinals,FNATIC vs FURIA,167373,Haven,113115
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Omega - Quarterfinals,FNATIC vs FURIA,167373,Ascent,113116
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Omega - Semifinals,Natus Vincere vs LEVIATÁN,167374,Ascent,113118
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Omega - Semifinals,Natus Vincere vs LEVIATÁN,167374,Fracture,113119
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Omega - Semifinals,100 Thieves vs FNATIC,167375,Fracture,113121
+Champions Tour 2023: Lock-In Sao Paulo,1188,Bracket Stage,2317,Omega - Semifinals,100 Thieves vs FNATIC,167375,Icebox,113122
+Champions Tour 2023: Lock-In Sao Paulo,1188,Playoffs,2756,Semifinals,LOUD vs DRX,167391,Pearl,113124
+Champions Tour 2023: Lock-In Sao Paulo,1188,Playoffs,2756,Semifinals,LOUD vs DRX,167391,Icebox,113125
+Champions Tour 2023: Lock-In Sao Paulo,1188,Playoffs,2756,Semifinals,LOUD vs DRX,167391,Split,113126
+Champions Tour 2023: Lock-In Sao Paulo,1188,Playoffs,2756,Semifinals,LOUD vs DRX,167391,Fracture,113127
+Champions Tour 2023: Lock-In Sao Paulo,1188,Playoffs,2756,Semifinals,LOUD vs DRX,167391,Ascent,113128
+Champions Tour 2023: Lock-In Sao Paulo,1188,Playoffs,2756,Semifinals,Natus Vincere vs FNATIC,167392,Haven,113129
+Champions Tour 2023: Lock-In Sao Paulo,1188,Playoffs,2756,Semifinals,Natus Vincere vs FNATIC,167392,Lotus,113130
+Champions Tour 2023: Lock-In Sao Paulo,1188,Playoffs,2756,Semifinals,Natus Vincere vs FNATIC,167392,Fracture,113131
+Champions Tour 2023: Lock-In Sao Paulo,1188,Playoffs,2756,Grand Final,LOUD vs FNATIC,167393,Ascent,113134
+Champions Tour 2023: Lock-In Sao Paulo,1188,Playoffs,2756,Grand Final,LOUD vs FNATIC,167393,Fracture,113135
+Champions Tour 2023: Lock-In Sao Paulo,1188,Playoffs,2756,Grand Final,LOUD vs FNATIC,167393,Split,113136
+Champions Tour 2023: Lock-In Sao Paulo,1188,Playoffs,2756,Grand Final,LOUD vs FNATIC,167393,Lotus,113137
+Champions Tour 2023: Lock-In Sao Paulo,1188,Playoffs,2756,Grand Final,LOUD vs FNATIC,167393,Icebox,113138

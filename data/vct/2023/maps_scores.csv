@@ -1,0 +1,831 @@
+Tournament,Stage,Match Type,Match Name,Map,Team A,Team A Score,Team A Attacker Score,Team A Defender Score,Team A Overtime Score,Team B,Team B Score,Team B Attacker Score,Team B Defender Score,Team B Overtime Score,Duration
+Valorant Champions 2023,Group Stage,Opening (D),Team Liquid vs Natus Vincere,Fracture,Team Liquid,11,6,5,,Natus Vincere,13,7,6,,1:18:55
+Valorant Champions 2023,Group Stage,Opening (D),Team Liquid vs Natus Vincere,Bind,Team Liquid,15,7,5,3,Natus Vincere,17,7,5,5,1:22:57
+Valorant Champions 2023,Group Stage,Opening (D),DRX vs LOUD,Lotus,DRX,13,7,5,1,LOUD,15,7,5,3,1:17:19
+Valorant Champions 2023,Group Stage,Opening (D),DRX vs LOUD,Split,DRX,13,8,5,,LOUD,6,2,4,,47:47
+Valorant Champions 2023,Group Stage,Opening (D),DRX vs LOUD,Ascent,DRX,13,8,5,,LOUD,8,4,4,,52:46
+Valorant Champions 2023,Group Stage,Opening (B),FUT Esports vs T1,Pearl,FUT Esports,13,9,4,,T1,4,1,3,,50:32
+Valorant Champions 2023,Group Stage,Opening (B),FUT Esports vs T1,Haven,FUT Esports,13,7,6,,T1,7,2,5,,41:49
+Valorant Champions 2023,Group Stage,Opening (B),Evil Geniuses vs FunPlus Phoenix,Ascent,Evil Geniuses,13,6,7,,FunPlus Phoenix,8,2,6,,55:48
+Valorant Champions 2023,Group Stage,Opening (B),Evil Geniuses vs FunPlus Phoenix,Pearl,Evil Geniuses,13,9,4,,FunPlus Phoenix,8,5,3,,47:22
+Valorant Champions 2023,Group Stage,Winner's (D),Natus Vincere vs DRX,Bind,Natus Vincere,13,8,4,1,DRX,15,8,4,3,1:17:30
+Valorant Champions 2023,Group Stage,Winner's (D),Natus Vincere vs DRX,Split,Natus Vincere,13,6,7,,DRX,9,3,6,,51:50
+Valorant Champions 2023,Group Stage,Winner's (D),Natus Vincere vs DRX,Lotus,Natus Vincere,12,6,6,0,DRX,14,6,6,2,1:03:37
+Valorant Champions 2023,Group Stage,Opening (C),NRG Esports vs Bilibili Gaming,Lotus,NRG Esports,12,7,5,0,Bilibili Gaming,14,7,5,2,1:01:04
+Valorant Champions 2023,Group Stage,Opening (C),NRG Esports vs Bilibili Gaming,Split,NRG Esports,8,4,4,,Bilibili Gaming,13,5,8,,46:45
+Valorant Champions 2023,Group Stage,Opening (C),FNATIC vs ZETA DIVISION,Fracture,FNATIC,13,8,5,,ZETA DIVISION,5,1,4,,50:09
+Valorant Champions 2023,Group Stage,Opening (C),FNATIC vs ZETA DIVISION,Haven,FNATIC,13,7,6,,ZETA DIVISION,6,1,5,,45:05
+Valorant Champions 2023,Group Stage,Winner's (B),Evil Geniuses vs FUT Esports,Pearl,Evil Geniuses,15,9,3,3,FUT Esports,13,9,3,1,1:13:09
+Valorant Champions 2023,Group Stage,Winner's (B),Evil Geniuses vs FUT Esports,Bind,Evil Geniuses,13,6,7,,FUT Esports,9,3,6,,50:36
+Valorant Champions 2023,Group Stage,Opening (A),Paper Rex vs KRÜ Esports,Split,Paper Rex,13,8,5,,KRÜ Esports,7,3,4,,58:16
+Valorant Champions 2023,Group Stage,Opening (A),Paper Rex vs KRÜ Esports,Pearl,Paper Rex,13,8,5,,KRÜ Esports,8,4,4,,48:43
+Valorant Champions 2023,Group Stage,Opening (A),EDward Gaming vs Giants Gaming,Split,EDward Gaming,13,3,9,1,Giants Gaming,15,3,9,3,1:19:18
+Valorant Champions 2023,Group Stage,Opening (A),EDward Gaming vs Giants Gaming,Bind,EDward Gaming,13,6,7,,Giants Gaming,11,5,6,,55:05
+Valorant Champions 2023,Group Stage,Opening (A),EDward Gaming vs Giants Gaming,Ascent,EDward Gaming,13,7,6,,Giants Gaming,8,3,5,,47:40
+Valorant Champions 2023,Group Stage,Winner's (C),FNATIC vs Bilibili Gaming,Haven,FNATIC,13,10,3,,Bilibili Gaming,2,0,2,,43:06
+Valorant Champions 2023,Group Stage,Winner's (C),FNATIC vs Bilibili Gaming,Lotus,FNATIC,13,9,4,,Bilibili Gaming,8,5,3,,52:39
+Valorant Champions 2023,Group Stage,Elimination (D),Team Liquid vs LOUD,Haven,Team Liquid,2,2,0,,LOUD,13,3,10,,54:59
+Valorant Champions 2023,Group Stage,Elimination (D),Team Liquid vs LOUD,Split,Team Liquid,8,6,2,,LOUD,13,7,6,,1:01:40
+Valorant Champions 2023,Group Stage,Elimination (B),FunPlus Phoenix vs T1,Lotus,FunPlus Phoenix,10,7,3,,T1,13,8,5,,1:03:03
+Valorant Champions 2023,Group Stage,Elimination (B),FunPlus Phoenix vs T1,Bind,FunPlus Phoenix,7,3,4,,T1,13,4,9,,49:05
+Valorant Champions 2023,Group Stage,Winner's (A),Paper Rex vs EDward Gaming,Fracture,Paper Rex,13,8,5,,EDward Gaming,7,3,4,,48:45
+Valorant Champions 2023,Group Stage,Winner's (A),Paper Rex vs EDward Gaming,Pearl,Paper Rex,16,5,7,4,EDward Gaming,14,5,7,2,1:04:11
+Valorant Champions 2023,Group Stage,Elimination (A),KRÜ Esports vs Giants Gaming,Lotus,KRÜ Esports,10,7,3,,Giants Gaming,13,8,5,,1:07:37
+Valorant Champions 2023,Group Stage,Elimination (A),KRÜ Esports vs Giants Gaming,Pearl,KRÜ Esports,12,5,7,0,Giants Gaming,14,5,7,2,1:07:48
+Valorant Champions 2023,Group Stage,Elimination (C),ZETA DIVISION vs NRG Esports,Bind,ZETA DIVISION,13,7,5,1,NRG Esports,15,7,5,3,
+Valorant Champions 2023,Group Stage,Elimination (C),ZETA DIVISION vs NRG Esports,Haven,ZETA DIVISION,1,1,0,,NRG Esports,13,2,11,,34:49
+Valorant Champions 2023,Group Stage,Decider (D),Natus Vincere vs LOUD,Pearl,Natus Vincere,13,8,5,,LOUD,11,7,4,,1:16:45
+Valorant Champions 2023,Group Stage,Decider (D),Natus Vincere vs LOUD,Ascent,Natus Vincere,11,6,5,,LOUD,13,7,6,,58:56
+Valorant Champions 2023,Group Stage,Decider (D),Natus Vincere vs LOUD,Bind,Natus Vincere,11,5,6,,LOUD,13,6,7,,59:34
+Valorant Champions 2023,Group Stage,Decider (B),FUT Esports vs T1,Bind,FUT Esports,13,10,3,,T1,10,8,2,,51:48
+Valorant Champions 2023,Group Stage,Decider (B),FUT Esports vs T1,Pearl,FUT Esports,14,7,5,2,T1,12,7,5,0,1:01:07
+Valorant Champions 2023,Group Stage,Decider (A),EDward Gaming vs Giants Gaming,Split,EDward Gaming,13,9,4,,Giants Gaming,6,3,3,,59:38
+Valorant Champions 2023,Group Stage,Decider (A),EDward Gaming vs Giants Gaming,Fracture,EDward Gaming,13,8,5,,Giants Gaming,7,3,4,,47:05
+Valorant Champions 2023,Group Stage,Decider (C),Bilibili Gaming vs NRG Esports,Bind,Bilibili Gaming,13,5,8,,NRG Esports,10,3,7,,1:04:04
+Valorant Champions 2023,Group Stage,Decider (C),Bilibili Gaming vs NRG Esports,Ascent,Bilibili Gaming,13,8,5,,NRG Esports,5,1,4,,40:36
+Valorant Champions 2023,Playoffs,Upper Quarterfinals,FNATIC vs LOUD,Ascent,FNATIC,11,6,5,,LOUD,13,7,6,,1:09:19
+Valorant Champions 2023,Playoffs,Upper Quarterfinals,FNATIC vs LOUD,Lotus,FNATIC,6,4,2,,LOUD,13,5,8,,44:40
+Valorant Champions 2023,Playoffs,Upper Quarterfinals,Paper Rex vs FUT Esports,Ascent,Paper Rex,13,4,9,,FUT Esports,10,2,8,,54:58
+Valorant Champions 2023,Playoffs,Upper Quarterfinals,Paper Rex vs FUT Esports,Pearl,Paper Rex,13,11,2,,FUT Esports,4,3,1,,38:42
+Valorant Champions 2023,Playoffs,Upper Quarterfinals,DRX vs Bilibili Gaming,Lotus,DRX,13,2,11,,Bilibili Gaming,10,0,10,,1:04:41
+Valorant Champions 2023,Playoffs,Upper Quarterfinals,DRX vs Bilibili Gaming,Haven,DRX,13,7,6,,Bilibili Gaming,9,4,5,,48:59
+Valorant Champions 2023,Playoffs,Upper Quarterfinals,Evil Geniuses vs EDward Gaming,Split,Evil Geniuses,12,4,8,0,EDward Gaming,14,4,8,2,1:13:52
+Valorant Champions 2023,Playoffs,Upper Quarterfinals,Evil Geniuses vs EDward Gaming,Ascent,Evil Geniuses,13,8,5,,EDward Gaming,5,1,4,,42:56
+Valorant Champions 2023,Playoffs,Upper Quarterfinals,Evil Geniuses vs EDward Gaming,Pearl,Evil Geniuses,13,8,5,,EDward Gaming,5,1,4,,41:13
+Valorant Champions 2023,Playoffs,Lower Round 1,FNATIC vs FUT Esports,Split,FNATIC,13,10,3,,FUT Esports,5,3,2,,55:48
+Valorant Champions 2023,Playoffs,Lower Round 1,FNATIC vs FUT Esports,Haven,FNATIC,13,5,8,,FUT Esports,9,2,7,,47:46
+Valorant Champions 2023,Playoffs,Lower Round 1,Bilibili Gaming vs EDward Gaming,Bind,Bilibili Gaming,4,2,2,,EDward Gaming,13,3,10,,46:24
+Valorant Champions 2023,Playoffs,Lower Round 1,Bilibili Gaming vs EDward Gaming,Split,Bilibili Gaming,15,8,4,3,EDward Gaming,13,8,4,1,1:03:07
+Valorant Champions 2023,Playoffs,Lower Round 1,Bilibili Gaming vs EDward Gaming,Haven,Bilibili Gaming,10,6,4,,EDward Gaming,13,7,6,,48:16
+Valorant Champions 2023,Playoffs,Upper Semifinals,LOUD vs Paper Rex,Lotus,LOUD,13,7,5,1,Paper Rex,15,7,5,3,1:17:41
+Valorant Champions 2023,Playoffs,Upper Semifinals,LOUD vs Paper Rex,Split,LOUD,13,10,3,,Paper Rex,2,0,2,,33:43
+Valorant Champions 2023,Playoffs,Upper Semifinals,LOUD vs Paper Rex,Pearl,LOUD,10,5,5,,Paper Rex,13,6,7,,54:17
+Valorant Champions 2023,Playoffs,Upper Semifinals,DRX vs Evil Geniuses,Fracture,DRX,9,4,5,,Evil Geniuses,13,5,8,,1:02:57
+Valorant Champions 2023,Playoffs,Upper Semifinals,DRX vs Evil Geniuses,Lotus,DRX,4,2,2,,Evil Geniuses,13,3,10,,36:28
+Valorant Champions 2023,Playoffs,Lower Round 2,LOUD vs EDward Gaming,Bind,LOUD,11,6,5,,EDward Gaming,13,7,6,,1:13:21
+Valorant Champions 2023,Playoffs,Lower Round 2,LOUD vs EDward Gaming,Ascent,LOUD,13,8,5,,EDward Gaming,5,1,4,,40:33
+Valorant Champions 2023,Playoffs,Lower Round 2,LOUD vs EDward Gaming,Haven,LOUD,13,6,7,,EDward Gaming,11,5,6,,49:54
+Valorant Champions 2023,Playoffs,Lower Round 2,DRX vs FNATIC,Bind,DRX,13,11,2,,FNATIC,1,0,1,,43:48
+Valorant Champions 2023,Playoffs,Lower Round 2,DRX vs FNATIC,Haven,DRX,9,6,3,,FNATIC,13,7,6,,52:41
+Valorant Champions 2023,Playoffs,Lower Round 2,DRX vs FNATIC,Split,DRX,6,5,1,,FNATIC,13,6,7,,45:26
+Valorant Champions 2023,Playoffs,Upper Final,Paper Rex vs Evil Geniuses,Ascent,Paper Rex,10,7,3,,Evil Geniuses,13,8,5,,1:11:31
+Valorant Champions 2023,Playoffs,Upper Final,Paper Rex vs Evil Geniuses,Bind,Paper Rex,13,5,8,,Evil Geniuses,9,2,7,,48:25
+Valorant Champions 2023,Playoffs,Upper Final,Paper Rex vs Evil Geniuses,Pearl,Paper Rex,15,6,6,3,Evil Geniuses,13,6,6,1,1:06:45
+Valorant Champions 2023,Playoffs,Lower Round 3,FNATIC vs LOUD,Split,FNATIC,4,4,0,,LOUD,13,5,8,,1:13:00
+Valorant Champions 2023,Playoffs,Lower Round 3,FNATIC vs LOUD,Ascent,FNATIC,13,5,8,,LOUD,9,2,7,,57:42
+Valorant Champions 2023,Playoffs,Lower Round 3,FNATIC vs LOUD,Haven,FNATIC,7,4,3,,LOUD,13,5,8,,48:59
+Valorant Champions 2023,Playoffs,Lower Final,Evil Geniuses vs LOUD,Ascent,Evil Geniuses,14,7,5,2,LOUD,12,7,5,0,1:24:07
+Valorant Champions 2023,Playoffs,Lower Final,Evil Geniuses vs LOUD,Lotus,Evil Geniuses,13,10,3,,LOUD,4,2,2,,44:07
+Valorant Champions 2023,Playoffs,Lower Final,Evil Geniuses vs LOUD,Pearl,Evil Geniuses,8,3,5,,LOUD,13,4,9,,51:03
+Valorant Champions 2023,Playoffs,Lower Final,Evil Geniuses vs LOUD,Split,Evil Geniuses,7,3,4,,LOUD,13,4,9,,49:19
+Valorant Champions 2023,Playoffs,Lower Final,Evil Geniuses vs LOUD,Bind,Evil Geniuses,13,7,6,,LOUD,8,3,5,,49:42
+Valorant Champions 2023,Playoffs,Grand Final,Paper Rex vs Evil Geniuses,Split,Paper Rex,10,8,2,,Evil Geniuses,13,9,4,,54:56
+Valorant Champions 2023,Playoffs,Grand Final,Paper Rex vs Evil Geniuses,Ascent,Paper Rex,13,7,6,,Evil Geniuses,11,6,5,,56:54
+Valorant Champions 2023,Playoffs,Grand Final,Paper Rex vs Evil Geniuses,Bind,Paper Rex,5,3,2,,Evil Geniuses,13,4,9,,41:55
+Valorant Champions 2023,Playoffs,Grand Final,Paper Rex vs Evil Geniuses,Lotus,Paper Rex,10,7,3,,Evil Geniuses,13,8,5,,52:22
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Round 1,MIBR vs KRÜ Esports,Bind,MIBR,7,3,4,,KRÜ Esports,13,4,9,,1:02:20
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Round 1,MIBR vs KRÜ Esports,Lotus,MIBR,8,3,5,,KRÜ Esports,13,4,9,,54:27
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Quarterfinals,FURIA vs KRÜ Esports,Split,FURIA,14,7,5,2,KRÜ Esports,12,7,5,0,1:20:36
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Quarterfinals,FURIA vs KRÜ Esports,Ascent,FURIA,4,3,1,,KRÜ Esports,13,4,9,,39:27
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Quarterfinals,FURIA vs KRÜ Esports,Bind,FURIA,11,7,4,,KRÜ Esports,13,8,5,,1:02:00
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Quarterfinals,Sentinels vs 100 Thieves,Pearl,Sentinels,12,9,3,0,100 Thieves,14,9,3,2,1:10:41
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Quarterfinals,Sentinels vs 100 Thieves,Split,Sentinels,13,5,8,,100 Thieves,7,0,7,,48:52
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Quarterfinals,Sentinels vs 100 Thieves,Bind,Sentinels,13,10,3,,100 Thieves,7,5,2,,51:59
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Semifinals,Cloud9 vs Sentinels,Pearl,Cloud9,13,8,5,,Sentinels,8,4,4,,1:03:43
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Semifinals,Cloud9 vs Sentinels,Fracture,Cloud9,5,3,2,,Sentinels,13,4,9,,38:40
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Semifinals,Cloud9 vs Sentinels,Split,Cloud9,13,8,5,,Sentinels,8,4,4,,49:49
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Semifinals,LEVIATÁN vs KRÜ Esports,Split,LEVIATÁN,5,3,2,,KRÜ Esports,13,4,9,,54:06
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Semifinals,LEVIATÁN vs KRÜ Esports,Lotus,LEVIATÁN,7,5,2,,KRÜ Esports,13,6,7,,51:32
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Final,Cloud9 vs KRÜ Esports,Ascent,Cloud9,13,8,5,,KRÜ Esports,4,0,4,,52:21
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Final,Cloud9 vs KRÜ Esports,Pearl,Cloud9,4,0,4,,KRÜ Esports,13,1,12,,41:06
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Final,Cloud9 vs KRÜ Esports,Haven,Cloud9,6,4,2,,KRÜ Esports,13,5,8,,42:06
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Lower Round 1,Sentinels vs LEVIATÁN,Fracture,Sentinels,8,6,2,,LEVIATÁN,13,7,6,,1:06:47
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Lower Round 1,Sentinels vs LEVIATÁN,Split,Sentinels,4,4,0,,LEVIATÁN,13,5,8,,39:41
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Lower Final,Cloud9 vs LEVIATÁN,Lotus,Cloud9,13,8,5,,LEVIATÁN,7,3,4,,59:44
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Lower Final,Cloud9 vs LEVIATÁN,Pearl,Cloud9,13,6,7,,LEVIATÁN,9,3,6,,53:50
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Lower Final,Cloud9 vs LEVIATÁN,Split,Cloud9,11,6,5,,LEVIATÁN,13,7,6,,54:59
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Lower Final,Cloud9 vs LEVIATÁN,Haven,Cloud9,10,9,1,,LEVIATÁN,13,10,3,,51:32
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Lower Final,Cloud9 vs LEVIATÁN,Bind,Cloud9,7,5,2,,LEVIATÁN,13,6,7,,45:35
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Grand Final,KRÜ Esports vs LEVIATÁN,Split,KRÜ Esports,13,9,4,,LEVIATÁN,5,2,3,,58:41
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Grand Final,KRÜ Esports vs LEVIATÁN,Pearl,KRÜ Esports,8,7,1,,LEVIATÁN,13,8,5,,51:25
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Grand Final,KRÜ Esports vs LEVIATÁN,Ascent,KRÜ Esports,13,7,6,,LEVIATÁN,6,1,5,,47:32
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Grand Final,KRÜ Esports vs LEVIATÁN,Lotus,KRÜ Esports,13,6,7,,LEVIATÁN,10,4,6,,55:42
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Knockout Round,Team Heretics vs KOI,Fracture,Team Heretics,8,7,1,,KOI,13,8,5,,1:00:23
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Knockout Round,Team Heretics vs KOI,Pearl,Team Heretics,13,4,9,,KOI,10,2,8,,59:07
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Knockout Round,Team Heretics vs KOI,Haven,Team Heretics,6,4,2,,KOI,13,5,8,,52:34
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Knockout Round,BBL Esports vs Karmine Corp,Haven,BBL Esports,14,4,8,2,Karmine Corp,12,4,8,0,1:08:26
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Knockout Round,BBL Esports vs Karmine Corp,Lotus,BBL Esports,9,5,4,,Karmine Corp,13,6,7,,51:09
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Knockout Round,BBL Esports vs Karmine Corp,Bind,BBL Esports,12,5,7,0,Karmine Corp,14,5,7,2,59:34
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Upper Semifinals,Natus Vincere vs KOI,Split,Natus Vincere,6,6,0,,KOI,13,7,6,,1:11:12
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Upper Semifinals,Natus Vincere vs KOI,Lotus,Natus Vincere,3,3,0,,KOI,13,4,9,,39:23
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Upper Semifinals,Giants Gaming vs Karmine Corp,Pearl,Giants Gaming,13,9,4,,Karmine Corp,11,8,3,,1:17:35
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Upper Semifinals,Giants Gaming vs Karmine Corp,Split,Giants Gaming,13,10,3,,Karmine Corp,5,3,2,,47:05
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Upper Final,KOI vs Giants Gaming,Haven,KOI,12,5,7,0,Giants Gaming,14,5,7,2,1:19:18
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Upper Final,KOI vs Giants Gaming,Pearl,KOI,5,5,0,,Giants Gaming,13,6,7,,45:15
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Lower Round 1,Natus Vincere vs Karmine Corp,Lotus,Natus Vincere,13,7,6,,Karmine Corp,6,1,5,,1:01:11
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Lower Round 1,Natus Vincere vs Karmine Corp,Ascent,Natus Vincere,7,5,2,,Karmine Corp,13,6,7,,50:13
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Lower Round 1,Natus Vincere vs Karmine Corp,Pearl,Natus Vincere,13,8,5,,Karmine Corp,7,3,4,,54:23
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Lower Final,KOI vs Natus Vincere,Split,KOI,12,7,5,0,Natus Vincere,14,7,5,2,1:19:13
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Lower Final,KOI vs Natus Vincere,Pearl,KOI,10,2,8,,Natus Vincere,13,3,10,,1:10:35
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Lower Final,KOI vs Natus Vincere,Fracture,KOI,9,7,2,,Natus Vincere,13,8,5,,55:02
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Grand Final,Giants Gaming vs Natus Vincere,Bind,Giants Gaming,13,6,7,,Natus Vincere,11,5,6,,1:19:21
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Grand Final,Giants Gaming vs Natus Vincere,Lotus,Giants Gaming,13,7,6,,Natus Vincere,7,2,5,,46:38
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Grand Final,Giants Gaming vs Natus Vincere,Haven,Giants Gaming,13,7,6,,Natus Vincere,9,4,5,,48:12
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Upper Round 1,Talon Esports vs DetonatioN FocusMe,Fracture,Talon Esports,13,7,6,,DetonatioN FocusMe,7,2,5,,1:00:08
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Upper Round 1,Talon Esports vs DetonatioN FocusMe,Ascent,Talon Esports,13,7,6,,DetonatioN FocusMe,8,3,5,,53:31
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Upper Quarterfinals,Rex Regum Qeon vs Global Esports,Split,Rex Regum Qeon,13,7,6,,Global Esports,10,5,5,,1:07:50
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Upper Quarterfinals,Rex Regum Qeon vs Global Esports,Ascent,Rex Regum Qeon,13,6,7,,Global Esports,10,4,6,,1:30:15
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Upper Quarterfinals,Gen.G vs Talon Esports,Pearl,Gen.G,11,9,2,,Talon Esports,13,10,3,,1:02:57
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Upper Quarterfinals,Gen.G vs Talon Esports,Split,Gen.G,13,7,6,,Talon Esports,10,5,5,,57:09
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Upper Quarterfinals,Gen.G vs Talon Esports,Haven,Gen.G,15,4,8,3,Talon Esports,13,4,8,1,1:08:29
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Upper Semifinals,ZETA DIVISION vs Rex Regum Qeon,Haven,ZETA DIVISION,2,2,0,,Rex Regum Qeon,13,3,10,,46:32
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Upper Semifinals,ZETA DIVISION vs Rex Regum Qeon,Split,ZETA DIVISION,13,7,6,,Rex Regum Qeon,8,3,5,,49:56
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Upper Semifinals,ZETA DIVISION vs Rex Regum Qeon,Ascent,ZETA DIVISION,21,8,4,9,Rex Regum Qeon,19,8,4,7,1:37:29
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Upper Semifinals,Team Secret vs Gen.G,Haven,Team Secret,13,9,4,,Gen.G,6,3,3,,43:38
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Upper Semifinals,Team Secret vs Gen.G,Ascent,Team Secret,13,8,5,,Gen.G,8,4,4,,50:53
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Upper Final,ZETA DIVISION vs Team Secret,Lotus,ZETA DIVISION,13,9,4,,Team Secret,9,6,3,,1:05:02
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Upper Final,ZETA DIVISION vs Team Secret,Fracture,ZETA DIVISION,13,6,7,,Team Secret,7,1,6,,41:14
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Lower Round 1,Rex Regum Qeon vs Gen.G,Haven,Rex Regum Qeon,6,4,2,,Gen.G,13,5,8,,48:24
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Lower Round 1,Rex Regum Qeon vs Gen.G,Lotus,Rex Regum Qeon,13,10,3,,Gen.G,2,0,2,,35:32
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Lower Round 1,Rex Regum Qeon vs Gen.G,Ascent,Rex Regum Qeon,7,3,4,,Gen.G,13,4,9,,47:47
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Lower Final,Team Secret vs Gen.G,Haven,Team Secret,10,3,7,,Gen.G,13,4,9,,1:02:01
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Lower Final,Team Secret vs Gen.G,Pearl,Team Secret,13,5,8,,Gen.G,11,4,7,,57:22
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Lower Final,Team Secret vs Gen.G,Ascent,Team Secret,13,10,3,,Gen.G,2,0,2,,35:26
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Lower Final,Team Secret vs Gen.G,Lotus,Team Secret,13,10,3,,Gen.G,6,4,2,,51:55
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Grand Final,ZETA DIVISION vs Team Secret,Fracture,ZETA DIVISION,14,7,5,2,Team Secret,12,7,5,0,1:15:11
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Grand Final,ZETA DIVISION vs Team Secret,Ascent,ZETA DIVISION,9,6,3,,Team Secret,13,7,6,,53:28
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Grand Final,ZETA DIVISION vs Team Secret,Split,ZETA DIVISION,13,10,3,,Team Secret,7,5,2,,49:56
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Grand Final,ZETA DIVISION vs Team Secret,Lotus,ZETA DIVISION,13,7,6,,Team Secret,6,1,5,,49:02
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,Weibo Gaming vs Totoro Gaming,Haven,Weibo Gaming,13,4,8,1,Totoro Gaming,15,4,8,3,1:00:30
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,Weibo Gaming vs Totoro Gaming,Split,Weibo Gaming,11,3,8,,Totoro Gaming,13,4,9,,54:30
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,Number One Player vs Douyu Gaming,Lotus,Number One Player,4,3,1,,Douyu Gaming,13,4,9,,32:15
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,Number One Player vs Douyu Gaming,Split,Number One Player,12,3,9,0,Douyu Gaming,14,3,9,2,56:26
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,Gank Gaming vs Royal Never Give Up,Ascent,Gank Gaming,6,6,0,,Royal Never Give Up,13,7,6,,42:54
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,Gank Gaming vs Royal Never Give Up,Lotus,Gank Gaming,13,8,5,,Royal Never Give Up,10,6,4,,53:54
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,Gank Gaming vs Royal Never Give Up,Bind,Gank Gaming,11,6,5,,Royal Never Give Up,13,7,6,,49:56
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,Four Angry Men vs Night Wings Gaming,Bind,Four Angry Men,15,5,7,3,Night Wings Gaming,13,5,7,1,59:17
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,Four Angry Men vs Night Wings Gaming,Pearl,Four Angry Men,13,9,3,1,Night Wings Gaming,15,9,3,3,58:31
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,Four Angry Men vs Night Wings Gaming,Split,Four Angry Men,11,5,6,,Night Wings Gaming,13,6,7,,45:37
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,Invincible Gaming vs Nova Esports,Split,Invincible Gaming,5,2,3,,Nova Esports,13,3,10,,39:10
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,Invincible Gaming vs Nova Esports,Fracture,Invincible Gaming,4,2,2,,Nova Esports,13,3,10,,34:00
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,TYLOO vs Monarch Effect,Lotus,TYLOO,16,7,5,4,Monarch Effect,14,7,5,2,1:05:42
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,TYLOO vs Monarch Effect,Ascent,TYLOO,8,3,5,,Monarch Effect,13,4,9,,47:59
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,TYLOO vs Monarch Effect,Split,TYLOO,13,3,10,,Monarch Effect,11,2,9,,51:45
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,Shenzhen NTER vs Kingzone,Fracture,Shenzhen NTER,13,10,3,,Kingzone,3,1,2,,28:30
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,Shenzhen NTER vs Kingzone,Lotus,Shenzhen NTER,13,11,2,,Kingzone,1,0,1,,24:52
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,Dragon Ranger Gaming vs Rare Atom,Haven,Dragon Ranger Gaming,13,7,6,,Rare Atom,7,2,5,,39:16
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,Dragon Ranger Gaming vs Rare Atom,Lotus,Dragon Ranger Gaming,12,4,8,0,Rare Atom,14,4,8,2,57:33
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,Dragon Ranger Gaming vs Rare Atom,Ascent,Dragon Ranger Gaming,13,7,6,,Rare Atom,11,6,5,,53:50
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 2,Totoro Gaming vs Shenzhen NTER,Lotus,Totoro Gaming,13,9,4,,Shenzhen NTER,4,1,3,,41:25
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 2,Totoro Gaming vs Shenzhen NTER,Ascent,Totoro Gaming,21,3,9,9,Shenzhen NTER,19,3,9,7,1:26:06
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 2,Dragon Ranger Gaming vs Royal Never Give Up,Split,Dragon Ranger Gaming,13,8,5,,Royal Never Give Up,11,7,4,,1:00:19
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 2,Dragon Ranger Gaming vs Royal Never Give Up,Haven,Dragon Ranger Gaming,13,7,6,,Royal Never Give Up,8,3,5,,41:13
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 2,Nova Esports vs TYLOO,Split,Nova Esports,7,6,1,,TYLOO,13,7,6,,44:27
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 2,Nova Esports vs TYLOO,Bind,Nova Esports,5,3,2,,TYLOO,13,4,9,,38:26
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 2,Night Wings Gaming vs Douyu Gaming,Haven,Night Wings Gaming,10,8,2,,Douyu Gaming,13,9,4,,45:11
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 2,Night Wings Gaming vs Douyu Gaming,Ascent,Night Wings Gaming,5,5,0,,Douyu Gaming,13,6,7,,31:32
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 2,Gank Gaming vs Invincible Gaming,Lotus,Gank Gaming,16,7,5,4,Invincible Gaming,14,7,5,2,1:11:07
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 2,Gank Gaming vs Invincible Gaming,Split,Gank Gaming,13,10,3,,Invincible Gaming,4,2,2,,33:42
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 2,Number One Player vs Kingzone,Lotus,Number One Player,13,7,6,,Kingzone,7,2,5,,37:17
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 2,Number One Player vs Kingzone,Fracture,Number One Player,14,3,9,2,Kingzone,12,3,9,0,49:20
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 2,Weibo Gaming vs Four Angry Men,Bind,Weibo Gaming,11,2,9,,Four Angry Men,13,3,10,,53:39
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 2,Weibo Gaming vs Four Angry Men,Haven,Weibo Gaming,13,8,5,,Four Angry Men,4,0,4,,34:57
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 2,Weibo Gaming vs Four Angry Men,Split,Weibo Gaming,13,6,7,,Four Angry Men,7,1,6,,43:54
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 2,Rare Atom vs Monarch Effect,Lotus,Rare Atom,14,6,6,2,Monarch Effect,12,6,6,0,59:41
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 2,Rare Atom vs Monarch Effect,Ascent,Rare Atom,8,5,3,,Monarch Effect,13,6,7,,43:56
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 2,Rare Atom vs Monarch Effect,Bind,Rare Atom,11,5,6,,Monarch Effect,13,6,7,,53:17
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 3,Weibo Gaming vs Shenzhen NTER,Fracture,Weibo Gaming,13,9,4,,Shenzhen NTER,10,7,3,,50:07
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 3,Weibo Gaming vs Shenzhen NTER,Haven,Weibo Gaming,13,5,8,,Shenzhen NTER,11,4,7,,51:04
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 3,Royal Never Give Up vs Nova Esports,Ascent,Royal Never Give Up,11,4,7,,Nova Esports,13,5,8,,53:06
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 3,Royal Never Give Up vs Nova Esports,Bind,Royal Never Give Up,13,10,3,,Nova Esports,4,2,2,,35:37
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 3,Royal Never Give Up vs Nova Esports,Split,Royal Never Give Up,13,4,9,,Nova Esports,11,3,8,,50:22
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 3,Night Wings Gaming vs Gank Gaming,Split,Night Wings Gaming,13,8,5,,Gank Gaming,11,7,4,,55:11
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 3,Night Wings Gaming vs Gank Gaming,Bind,Night Wings Gaming,14,5,7,2,Gank Gaming,12,5,7,0,1:00:13
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 3,Number One Player vs Monarch Effect,Pearl,Number One Player,15,8,4,3,Monarch Effect,13,8,4,1,1:00:00
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 3,Number One Player vs Monarch Effect,Lotus,Number One Player,10,7,3,,Monarch Effect,13,8,5,,43:12
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 3,Number One Player vs Monarch Effect,Bind,Number One Player,13,6,6,1,Monarch Effect,15,6,6,3,57:38
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 3,Totoro Gaming vs Douyu Gaming,Ascent,Totoro Gaming,13,10,3,,Douyu Gaming,4,2,2,,32:59
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 3,Totoro Gaming vs Douyu Gaming,Pearl,Totoro Gaming,13,5,8,,Douyu Gaming,10,3,7,,48:24
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 3,Kingzone vs Four Angry Men,Lotus,Kingzone,4,3,1,,Four Angry Men,13,4,9,,35:56
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 3,Kingzone vs Four Angry Men,Pearl,Kingzone,4,4,0,,Four Angry Men,13,5,8,,36:56
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 3,Invincible Gaming vs Rare Atom,Lotus,Invincible Gaming,13,6,7,,Rare Atom,11,5,6,,54:07
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 3,Invincible Gaming vs Rare Atom,Bind,Invincible Gaming,13,10,3,,Rare Atom,2,0,2,,27:47
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 3,Dragon Ranger Gaming vs TYLOO,Bind,Dragon Ranger Gaming,7,4,3,,TYLOO,13,5,8,,43:23
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 3,Dragon Ranger Gaming vs TYLOO,Ascent,Dragon Ranger Gaming,9,6,3,,TYLOO,13,7,6,,44:26
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 4,Weibo Gaming vs Night Wings Gaming,Haven,Weibo Gaming,13,10,3,,Night Wings Gaming,5,3,2,,35:46
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 4,Weibo Gaming vs Night Wings Gaming,Lotus,Weibo Gaming,13,10,3,,Night Wings Gaming,9,7,2,,43:34
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 4,Four Angry Men vs Invincible Gaming,Pearl,Four Angry Men,13,8,5,,Invincible Gaming,5,1,4,,36:59
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 4,Four Angry Men vs Invincible Gaming,Bind,Four Angry Men,9,7,2,,Invincible Gaming,13,8,5,,42:24
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 4,Four Angry Men vs Invincible Gaming,Lotus,Four Angry Men,13,10,3,,Invincible Gaming,2,0,2,,30:14
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 4,Douyu Gaming vs Royal Never Give Up,Bind,Douyu Gaming,12,2,10,0,Royal Never Give Up,14,2,10,2,56:22
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 4,Douyu Gaming vs Royal Never Give Up,Split,Douyu Gaming,11,8,3,,Royal Never Give Up,13,9,4,,52:32
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 4,Nova Esports vs Gank Gaming,Ascent,Nova Esports,13,10,3,,Gank Gaming,2,0,2,,33:18
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 4,Nova Esports vs Gank Gaming,Bind,Nova Esports,11,6,5,,Gank Gaming,13,7,6,,52:32
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 4,Nova Esports vs Gank Gaming,Lotus,Nova Esports,9,6,3,,Gank Gaming,13,7,6,,51:28
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 4,Dragon Ranger Gaming vs Monarch Effect,Ascent,Dragon Ranger Gaming,8,4,4,,Monarch Effect,13,5,8,,47:09
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 4,Dragon Ranger Gaming vs Monarch Effect,Pearl,Dragon Ranger Gaming,13,7,6,,Monarch Effect,7,2,5,,39:47
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 4,Dragon Ranger Gaming vs Monarch Effect,Split,Dragon Ranger Gaming,9,5,4,,Monarch Effect,13,6,7,,51:56
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 4,Shenzhen NTER vs Number One Player,Lotus,Shenzhen NTER,13,9,4,,Number One Player,7,4,3,,42:22
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 4,Shenzhen NTER vs Number One Player,Split,Shenzhen NTER,13,8,5,,Number One Player,10,6,4,,33:24
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 5,Night Wings Gaming vs Shenzhen NTER,Split,Night Wings Gaming,8,5,3,,Shenzhen NTER,13,6,7,,46:44
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 5,Night Wings Gaming vs Shenzhen NTER,Haven,Night Wings Gaming,13,8,5,,Shenzhen NTER,9,5,4,,39:32
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 5,Night Wings Gaming vs Shenzhen NTER,Ascent,Night Wings Gaming,13,6,6,1,Shenzhen NTER,15,6,6,3,58:28
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 5,Gank Gaming vs Four Angry Men,Bind,Gank Gaming,13,5,8,,Four Angry Men,11,4,7,,50:28
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 5,Gank Gaming vs Four Angry Men,Haven,Gank Gaming,1,1,0,,Four Angry Men,13,2,11,,30:21
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 5,Gank Gaming vs Four Angry Men,Ascent,Gank Gaming,16,4,8,4,Four Angry Men,18,4,8,6,1:08:07
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 5,Dragon Ranger Gaming vs Douyu Gaming,Haven,Dragon Ranger Gaming,13,7,6,,Douyu Gaming,11,6,5,,47:37
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 5,Dragon Ranger Gaming vs Douyu Gaming,Lotus,Dragon Ranger Gaming,13,9,4,,Douyu Gaming,5,2,3,,33:12
+Champions Tour 2023: Champions China Qualifier,Playoffs,Knockout Round,Trace Esports vs Four Angry Men,Haven,Trace Esports,13,10,3,,Four Angry Men,9,7,2,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Knockout Round,Trace Esports vs Four Angry Men,Lotus,Trace Esports,18,6,6,6,Four Angry Men,16,6,6,4,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Knockout Round,Monarch Effect vs Royal Never Give Up,Bind,Monarch Effect,13,8,5,,Royal Never Give Up,11,7,4,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Knockout Round,Monarch Effect vs Royal Never Give Up,Haven,Monarch Effect,6,2,4,,Royal Never Give Up,13,3,10,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Knockout Round,Monarch Effect vs Royal Never Give Up,Split,Monarch Effect,13,10,3,,Royal Never Give Up,2,0,2,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Knockout Round,TYLOO vs Shenzhen NTER,Pearl,TYLOO,13,9,4,,Shenzhen NTER,4,1,3,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Knockout Round,TYLOO vs Shenzhen NTER,Lotus,TYLOO,13,4,9,,Shenzhen NTER,9,1,8,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Knockout Round,Weibo Gaming vs Dragon Ranger Gaming,Haven,Weibo Gaming,10,6,4,,Dragon Ranger Gaming,13,7,6,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Knockout Round,Weibo Gaming vs Dragon Ranger Gaming,Bind,Weibo Gaming,13,6,7,,Dragon Ranger Gaming,9,3,6,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Knockout Round,Weibo Gaming vs Dragon Ranger Gaming,Split,Weibo Gaming,13,8,5,,Dragon Ranger Gaming,5,1,4,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Quarterfinals,Attacking Soul Esports vs Trace Esports,Lotus,Attacking Soul Esports,13,6,7,,Trace Esports,10,4,6,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Quarterfinals,Attacking Soul Esports vs Trace Esports,Split,Attacking Soul Esports,5,4,1,,Trace Esports,13,5,8,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Quarterfinals,Attacking Soul Esports vs Trace Esports,Bind,Attacking Soul Esports,11,2,9,,Trace Esports,13,3,10,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Quarterfinals,Bilibili Gaming vs Monarch Effect,Lotus,Bilibili Gaming,13,3,10,,Monarch Effect,10,1,9,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Quarterfinals,Bilibili Gaming vs Monarch Effect,Haven,Bilibili Gaming,13,9,4,,Monarch Effect,7,4,3,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Quarterfinals,FunPlus Phoenix vs TYLOO,Fracture,FunPlus Phoenix,9,5,4,,TYLOO,13,6,7,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Quarterfinals,FunPlus Phoenix vs TYLOO,Bind,FunPlus Phoenix,10,4,6,,TYLOO,13,5,8,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Quarterfinals,EDward Gaming vs Weibo Gaming,Fracture,EDward Gaming,13,8,5,,Weibo Gaming,6,2,4,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Quarterfinals,EDward Gaming vs Weibo Gaming,Bind,EDward Gaming,13,9,4,,Weibo Gaming,7,4,3,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Round 1,Attacking Soul Esports vs Monarch Effect,Fracture,Attacking Soul Esports,13,8,5,,Monarch Effect,5,1,4,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Round 1,Attacking Soul Esports vs Monarch Effect,Split,Attacking Soul Esports,13,9,4,,Monarch Effect,5,2,3,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Round 1,FunPlus Phoenix vs Weibo Gaming,Lotus,FunPlus Phoenix,13,9,4,,Weibo Gaming,5,2,3,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Round 1,FunPlus Phoenix vs Weibo Gaming,Ascent,FunPlus Phoenix,13,5,8,,Weibo Gaming,9,2,7,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Semifinals,Trace Esports vs Bilibili Gaming,Haven,Trace Esports,10,6,4,,Bilibili Gaming,13,7,6,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Semifinals,Trace Esports vs Bilibili Gaming,Lotus,Trace Esports,5,1,4,,Bilibili Gaming,13,2,11,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Semifinals,Trace Esports vs Bilibili Gaming,Split,Trace Esports,2,2,0,,Bilibili Gaming,13,3,10,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Semifinals,TYLOO vs EDward Gaming,Split,TYLOO,6,4,2,,EDward Gaming,13,5,8,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Semifinals,TYLOO vs EDward Gaming,Haven,TYLOO,2,2,0,,EDward Gaming,13,3,10,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Semifinals,TYLOO vs EDward Gaming,Bind,TYLOO,2,2,0,,EDward Gaming,13,3,10,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Round 2,Trace Esports vs FunPlus Phoenix,Lotus,Trace Esports,9,5,4,,FunPlus Phoenix,13,6,7,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Round 2,Trace Esports vs FunPlus Phoenix,Split,Trace Esports,13,8,5,,FunPlus Phoenix,6,2,4,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Round 2,Trace Esports vs FunPlus Phoenix,Ascent,Trace Esports,8,5,3,,FunPlus Phoenix,13,6,7,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Round 2,TYLOO vs Attacking Soul Esports,Split,TYLOO,3,2,1,,Attacking Soul Esports,13,3,10,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Round 2,TYLOO vs Attacking Soul Esports,Fracture,TYLOO,13,7,6,,Attacking Soul Esports,10,5,5,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Round 2,TYLOO vs Attacking Soul Esports,Ascent,TYLOO,14,7,5,2,Attacking Soul Esports,12,7,5,0,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Final,Bilibili Gaming vs EDward Gaming,Pearl,Bilibili Gaming,3,3,0,,EDward Gaming,13,4,9,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Final,Bilibili Gaming vs EDward Gaming,Bind,Bilibili Gaming,10,6,4,,EDward Gaming,13,7,6,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Final,Bilibili Gaming vs EDward Gaming,Split,Bilibili Gaming,4,4,0,,EDward Gaming,13,5,8,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Round 3,TYLOO vs FunPlus Phoenix,Pearl,TYLOO,8,4,4,,FunPlus Phoenix,13,5,8,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Round 3,TYLOO vs FunPlus Phoenix,Bind,TYLOO,13,8,5,,FunPlus Phoenix,7,3,4,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Round 3,TYLOO vs FunPlus Phoenix,Ascent,TYLOO,11,4,7,,FunPlus Phoenix,13,5,8,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Round 3,TYLOO vs FunPlus Phoenix,Fracture,TYLOO,10,6,4,,FunPlus Phoenix,13,7,6,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Final,Bilibili Gaming vs FunPlus Phoenix,Lotus,Bilibili Gaming,11,4,7,,FunPlus Phoenix,13,5,8,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Final,Bilibili Gaming vs FunPlus Phoenix,Bind,Bilibili Gaming,13,8,5,,FunPlus Phoenix,9,5,4,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Final,Bilibili Gaming vs FunPlus Phoenix,Pearl,Bilibili Gaming,9,4,5,,FunPlus Phoenix,13,5,8,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Final,Bilibili Gaming vs FunPlus Phoenix,Split,Bilibili Gaming,13,9,4,,FunPlus Phoenix,6,3,3,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Final,Bilibili Gaming vs FunPlus Phoenix,Ascent,Bilibili Gaming,13,10,3,,FunPlus Phoenix,5,3,2,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Grand Final,EDward Gaming vs Bilibili Gaming,Split,EDward Gaming,13,9,4,,Bilibili Gaming,6,3,3,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Grand Final,EDward Gaming vs Bilibili Gaming,Fracture,EDward Gaming,13,8,5,,Bilibili Gaming,4,0,4,,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Grand Final,EDward Gaming vs Bilibili Gaming,Bind,EDward Gaming,12,8,4,0,Bilibili Gaming,14,8,4,2,
+Champions Tour 2023: Champions China Qualifier,Playoffs,Grand Final,EDward Gaming vs Bilibili Gaming,Haven,EDward Gaming,14,4,8,2,Bilibili Gaming,12,4,8,0,
+Champions Tour 2023: Masters Tokyo,Group Stage,Opening (B),FUT Esports vs Evil Geniuses,Split,FUT Esports,5,5,0,,Evil Geniuses,13,6,7,,57:00
+Champions Tour 2023: Masters Tokyo,Group Stage,Opening (B),FUT Esports vs Evil Geniuses,Lotus,FUT Esports,12,6,6,0,Evil Geniuses,14,6,6,2,1:00:24
+Champions Tour 2023: Masters Tokyo,Group Stage,Opening (B),DRX vs Attacking Soul Esports,Fracture,DRX,13,7,6,,Attacking Soul Esports,10,5,5,,59:50
+Champions Tour 2023: Masters Tokyo,Group Stage,Opening (B),DRX vs Attacking Soul Esports,Pearl,DRX,13,8,5,,Attacking Soul Esports,7,3,4,,48:18
+Champions Tour 2023: Masters Tokyo,Group Stage,Opening (A),EDward Gaming vs T1,Fracture,EDward Gaming,10,6,4,,T1,13,7,6,,59:59
+Champions Tour 2023: Masters Tokyo,Group Stage,Opening (A),EDward Gaming vs T1,Haven,EDward Gaming,13,6,7,,T1,7,1,6,,41:39
+Champions Tour 2023: Masters Tokyo,Group Stage,Opening (A),EDward Gaming vs T1,Pearl,EDward Gaming,12,6,6,0,T1,14,6,6,2,59:54
+Champions Tour 2023: Masters Tokyo,Group Stage,Opening (A),NRG Esports vs Natus Vincere,Ascent,NRG Esports,13,6,7,,Natus Vincere,8,2,6,,1:03:04
+Champions Tour 2023: Masters Tokyo,Group Stage,Opening (A),NRG Esports vs Natus Vincere,Lotus,NRG Esports,12,8,4,0,Natus Vincere,14,8,4,2,1:02:13
+Champions Tour 2023: Masters Tokyo,Group Stage,Opening (A),NRG Esports vs Natus Vincere,Split,NRG Esports,13,10,3,,Natus Vincere,6,4,2,,47:19
+Champions Tour 2023: Masters Tokyo,Group Stage,Winner's (B),DRX vs Evil Geniuses,Fracture,DRX,5,4,1,,Evil Geniuses,13,5,8,,51:43
+Champions Tour 2023: Masters Tokyo,Group Stage,Winner's (B),DRX vs Evil Geniuses,Ascent,DRX,9,5,4,,Evil Geniuses,13,6,7,,55:18
+Champions Tour 2023: Masters Tokyo,Group Stage,Winner's (A),NRG Esports vs T1,Lotus,NRG Esports,11,6,5,,T1,13,7,6,,1:10:03
+Champions Tour 2023: Masters Tokyo,Group Stage,Winner's (A),NRG Esports vs T1,Bind,NRG Esports,13,6,7,,T1,7,1,6,,49:20
+Champions Tour 2023: Masters Tokyo,Group Stage,Winner's (A),NRG Esports vs T1,Pearl,NRG Esports,13,7,6,,T1,11,6,5,,55:41
+Champions Tour 2023: Masters Tokyo,Group Stage,Elimination (B),Attacking Soul Esports vs FUT Esports,Haven,Attacking Soul Esports,13,9,4,,FUT Esports,8,5,3,,56:12
+Champions Tour 2023: Masters Tokyo,Group Stage,Elimination (B),Attacking Soul Esports vs FUT Esports,Ascent,Attacking Soul Esports,5,5,0,,FUT Esports,13,6,7,,39:12
+Champions Tour 2023: Masters Tokyo,Group Stage,Elimination (B),Attacking Soul Esports vs FUT Esports,Lotus,Attacking Soul Esports,6,4,2,,FUT Esports,13,5,8,,42:27
+Champions Tour 2023: Masters Tokyo,Group Stage,Elimination (A),Natus Vincere vs EDward Gaming,Pearl,Natus Vincere,15,5,7,3,EDward Gaming,17,5,7,5,1:32:42
+Champions Tour 2023: Masters Tokyo,Group Stage,Elimination (A),Natus Vincere vs EDward Gaming,Bind,Natus Vincere,12,6,6,0,EDward Gaming,14,6,6,2,1:01:27
+Champions Tour 2023: Masters Tokyo,Group Stage,Decider (B),DRX vs FUT Esports,Bind,DRX,9,3,6,,FUT Esports,13,4,9,,1:03:49
+Champions Tour 2023: Masters Tokyo,Group Stage,Decider (B),DRX vs FUT Esports,Fracture,DRX,13,6,7,,FUT Esports,8,2,6,,49:00
+Champions Tour 2023: Masters Tokyo,Group Stage,Decider (B),DRX vs FUT Esports,Haven,DRX,13,11,2,,FUT Esports,4,3,1,,36:15
+Champions Tour 2023: Masters Tokyo,Group Stage,Decider (A),T1 vs EDward Gaming,Fracture,T1,4,4,0,,EDward Gaming,13,5,8,,48:53
+Champions Tour 2023: Masters Tokyo,Group Stage,Decider (A),T1 vs EDward Gaming,Haven,T1,6,2,4,,EDward Gaming,13,3,10,,44:24
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Quarterfinals,LOUD vs Evil Geniuses,Fracture,LOUD,7,3,4,,Evil Geniuses,13,4,9,,52:43
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Quarterfinals,LOUD vs Evil Geniuses,Ascent,LOUD,5,5,0,,Evil Geniuses,13,6,7,,48:02
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Quarterfinals,Team Liquid vs EDward Gaming,Haven,Team Liquid,13,6,7,,EDward Gaming,9,3,6,,1:01:45
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Quarterfinals,Team Liquid vs EDward Gaming,Split,Team Liquid,8,6,2,,EDward Gaming,13,7,6,,51:48
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Quarterfinals,Team Liquid vs EDward Gaming,Lotus,Team Liquid,13,5,8,,EDward Gaming,11,4,7,,58:09
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Quarterfinals,FNATIC vs NRG Esports,Fracture,FNATIC,13,6,7,,NRG Esports,9,3,6,,1:04:59
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Quarterfinals,FNATIC vs NRG Esports,Bind,FNATIC,13,10,3,,NRG Esports,4,2,2,,44:22
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Quarterfinals,Paper Rex vs DRX,Split,Paper Rex,13,9,4,,DRX,10,7,3,,1:02:11
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Quarterfinals,Paper Rex vs DRX,Bind,Paper Rex,13,8,5,,DRX,10,6,4,,49:51
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Round 1,EDward Gaming vs LOUD,Lotus,EDward Gaming,13,8,5,,LOUD,6,2,4,,57:50
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Round 1,EDward Gaming vs LOUD,Fracture,EDward Gaming,13,5,8,,LOUD,10,3,7,,51:24
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Round 1,DRX vs NRG Esports,Pearl,DRX,11,8,3,,NRG Esports,13,9,4,,1:08:18
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Round 1,DRX vs NRG Esports,Haven,DRX,5,4,1,,NRG Esports,13,5,8,,42:25
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Semifinals,Team Liquid vs Evil Geniuses,Fracture,Team Liquid,2,1,1,,Evil Geniuses,13,2,11,,42:10
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Semifinals,Team Liquid vs Evil Geniuses,Haven,Team Liquid,9,5,4,,Evil Geniuses,13,6,7,,48:18
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Semifinals,Paper Rex vs FNATIC,Lotus,Paper Rex,5,0,5,,FNATIC,13,1,12,,51:14
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Semifinals,Paper Rex vs FNATIC,Bind,Paper Rex,7,3,4,,FNATIC,13,4,9,,42:58
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Round 2,Team Liquid vs NRG Esports,Haven,Team Liquid,12,8,4,0,NRG Esports,14,8,4,2,1:11:07
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Round 2,Team Liquid vs NRG Esports,Ascent,Team Liquid,13,7,6,,NRG Esports,8,3,5,,55:51
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Round 2,Team Liquid vs NRG Esports,Split,Team Liquid,5,4,1,,NRG Esports,13,5,8,,44:01
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Round 2,Paper Rex vs EDward Gaming,Fracture,Paper Rex,14,4,8,2,EDward Gaming,12,4,8,0,1:03:40
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Round 2,Paper Rex vs EDward Gaming,Split,Paper Rex,9,6,3,,EDward Gaming,13,7,6,,49:36
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Round 2,Paper Rex vs EDward Gaming,Lotus,Paper Rex,13,8,5,,EDward Gaming,8,4,4,,48:13
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Final,FNATIC vs Evil Geniuses,Lotus,FNATIC,13,10,3,,Evil Geniuses,3,1,2,,50:58
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Final,FNATIC vs Evil Geniuses,Fracture,FNATIC,9,3,6,,Evil Geniuses,13,4,9,,50:13
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Final,FNATIC vs Evil Geniuses,Split,FNATIC,13,6,7,,Evil Geniuses,11,5,6,,57:58
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Round 3,NRG Esports vs Paper Rex,Pearl,NRG Esports,13,7,5,1,Paper Rex,15,7,5,3,1:14:29
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Round 3,NRG Esports vs Paper Rex,Lotus,NRG Esports,13,10,3,,Paper Rex,6,4,2,,43:29
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Round 3,NRG Esports vs Paper Rex,Bind,NRG Esports,11,7,4,,Paper Rex,13,8,5,,50:46
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Final,Evil Geniuses vs Paper Rex,Fracture,Evil Geniuses,13,9,4,,Paper Rex,7,4,3,,58:08
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Final,Evil Geniuses vs Paper Rex,Lotus,Evil Geniuses,12,5,7,0,Paper Rex,14,5,7,2,56:36
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Final,Evil Geniuses vs Paper Rex,Split,Evil Geniuses,10,8,2,,Paper Rex,13,9,4,,48:09
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Final,Evil Geniuses vs Paper Rex,Pearl,Evil Geniuses,13,7,6,,Paper Rex,6,1,5,,48:09
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Final,Evil Geniuses vs Paper Rex,Ascent,Evil Geniuses,13,8,5,,Paper Rex,8,4,4,,46:54
+Champions Tour 2023: Masters Tokyo,Playoffs,Grand Final,FNATIC vs Evil Geniuses,Lotus,FNATIC,13,6,7,,Evil Geniuses,8,2,6,,1:09:53
+Champions Tour 2023: Masters Tokyo,Playoffs,Grand Final,FNATIC vs Evil Geniuses,Split,FNATIC,13,8,5,,Evil Geniuses,11,7,4,,1:00:36
+Champions Tour 2023: Masters Tokyo,Playoffs,Grand Final,FNATIC vs Evil Geniuses,Bind,FNATIC,14,4,8,2,Evil Geniuses,12,4,8,0,1:03:02
+Champions Tour 2023: Americas League,Regular Season,Week 1,Sentinels vs 100 Thieves,Fracture,Sentinels,13,7,6,,100 Thieves,11,6,5,,1:07:36
+Champions Tour 2023: Americas League,Regular Season,Week 1,Sentinels vs 100 Thieves,Split,Sentinels,12,7,5,0,100 Thieves,14,7,5,2,1:04:26
+Champions Tour 2023: Americas League,Regular Season,Week 1,Sentinels vs 100 Thieves,Ascent,Sentinels,14,4,8,2,100 Thieves,12,4,8,0,1:04:22
+Champions Tour 2023: Americas League,Regular Season,Week 1,KRÜ Esports vs FURIA,Split,KRÜ Esports,11,6,5,,FURIA,13,7,6,,1:14:47
+Champions Tour 2023: Americas League,Regular Season,Week 1,KRÜ Esports vs FURIA,Ascent,KRÜ Esports,5,5,0,,FURIA,13,6,7,,45:50
+Champions Tour 2023: Americas League,Regular Season,Week 1,LOUD vs MIBR,Split,LOUD,13,8,5,,MIBR,5,1,4,,54:28
+Champions Tour 2023: Americas League,Regular Season,Week 1,LOUD vs MIBR,Lotus,LOUD,11,5,6,,MIBR,13,6,7,,56:44
+Champions Tour 2023: Americas League,Regular Season,Week 1,LOUD vs MIBR,Haven,LOUD,13,8,5,,MIBR,11,7,4,,54:42
+Champions Tour 2023: Americas League,Regular Season,Week 1,Evil Geniuses vs Cloud9,Pearl,Evil Geniuses,11,9,2,,Cloud9,13,10,3,,1:25:06
+Champions Tour 2023: Americas League,Regular Season,Week 1,Evil Geniuses vs Cloud9,Fracture,Evil Geniuses,9,4,5,,Cloud9,13,5,8,,49:34
+Champions Tour 2023: Americas League,Regular Season,Week 1,LEVIATÁN vs NRG Esports,Pearl,LEVIATÁN,13,6,7,,NRG Esports,11,5,6,,1:08:04
+Champions Tour 2023: Americas League,Regular Season,Week 1,LEVIATÁN vs NRG Esports,Lotus,LEVIATÁN,13,8,5,,NRG Esports,4,0,4,,39:08
+Champions Tour 2023: Americas League,Regular Season,Week 2,Cloud9 vs LOUD,Split,Cloud9,13,8,5,,LOUD,7,3,4,,1:03:31
+Champions Tour 2023: Americas League,Regular Season,Week 2,Cloud9 vs LOUD,Ascent,Cloud9,8,3,5,,LOUD,13,4,9,,55:14
+Champions Tour 2023: Americas League,Regular Season,Week 2,Cloud9 vs LOUD,Pearl,Cloud9,7,4,3,,LOUD,13,5,8,,44:49
+Champions Tour 2023: Americas League,Regular Season,Week 2,LEVIATÁN vs FURIA,Pearl,LEVIATÁN,13,3,10,,FURIA,11,2,9,,1:08:28
+Champions Tour 2023: Americas League,Regular Season,Week 2,LEVIATÁN vs FURIA,Icebox,LEVIATÁN,5,2,3,,FURIA,13,3,10,,47:44
+Champions Tour 2023: Americas League,Regular Season,Week 2,LEVIATÁN vs FURIA,Ascent,LEVIATÁN,10,9,1,,FURIA,13,10,3,,55:08
+Champions Tour 2023: Americas League,Regular Season,Week 2,NRG Esports vs Sentinels,Lotus,NRG Esports,13,9,4,,Sentinels,10,7,3,,1:14:23
+Champions Tour 2023: Americas League,Regular Season,Week 2,NRG Esports vs Sentinels,Icebox,NRG Esports,13,10,3,,Sentinels,2,0,2,,39:16
+Champions Tour 2023: Americas League,Regular Season,Week 2,MIBR vs KRÜ Esports,Ascent,MIBR,9,7,2,,KRÜ Esports,13,8,5,,1:07:33
+Champions Tour 2023: Americas League,Regular Season,Week 2,MIBR vs KRÜ Esports,Lotus,MIBR,13,4,9,,KRÜ Esports,11,3,8,,1:04:15
+Champions Tour 2023: Americas League,Regular Season,Week 2,MIBR vs KRÜ Esports,Pearl,MIBR,14,7,5,2,KRÜ Esports,12,7,5,0,1:05:47
+Champions Tour 2023: Americas League,Regular Season,Week 2,Evil Geniuses vs 100 Thieves,Haven,Evil Geniuses,9,6,3,,100 Thieves,13,7,6,,1:00:31
+Champions Tour 2023: Americas League,Regular Season,Week 2,Evil Geniuses vs 100 Thieves,Icebox,Evil Geniuses,5,3,2,,100 Thieves,13,4,9,,44:48
+Champions Tour 2023: Americas League,Regular Season,Week 3,Cloud9 vs 100 Thieves,Lotus,Cloud9,13,8,5,,100 Thieves,7,3,4,,1:14:34
+Champions Tour 2023: Americas League,Regular Season,Week 3,Cloud9 vs 100 Thieves,Ascent,Cloud9,14,8,4,2,100 Thieves,12,8,4,0,58:32
+Champions Tour 2023: Americas League,Regular Season,Week 3,NRG Esports vs MIBR,Icebox,NRG Esports,10,6,4,,MIBR,13,7,6,,1:05:01
+Champions Tour 2023: Americas League,Regular Season,Week 3,NRG Esports vs MIBR,Pearl,NRG Esports,16,8,4,4,MIBR,14,8,4,2,1:25:52
+Champions Tour 2023: Americas League,Regular Season,Week 3,NRG Esports vs MIBR,Split,NRG Esports,14,8,4,2,MIBR,16,8,4,4,1:15:14
+Champions Tour 2023: Americas League,Regular Season,Week 3,LEVIATÁN vs Sentinels,Split,LEVIATÁN,14,5,7,2,Sentinels,12,5,7,0,1:20:27
+Champions Tour 2023: Americas League,Regular Season,Week 3,LEVIATÁN vs Sentinels,Ascent,LEVIATÁN,11,5,6,,Sentinels,13,6,7,,59:35
+Champions Tour 2023: Americas League,Regular Season,Week 3,LEVIATÁN vs Sentinels,Pearl,LEVIATÁN,13,10,3,,Sentinels,4,2,2,,41:18
+Champions Tour 2023: Americas League,Regular Season,Week 3,Evil Geniuses vs KRÜ Esports,Pearl,Evil Geniuses,13,3,10,,KRÜ Esports,11,2,9,,1:09:27
+Champions Tour 2023: Americas League,Regular Season,Week 3,Evil Geniuses vs KRÜ Esports,Ascent,Evil Geniuses,11,8,3,,KRÜ Esports,13,9,4,,59:10
+Champions Tour 2023: Americas League,Regular Season,Week 3,Evil Geniuses vs KRÜ Esports,Fracture,Evil Geniuses,13,7,6,,KRÜ Esports,7,2,5,,49:24
+Champions Tour 2023: Americas League,Regular Season,Week 3,LOUD vs FURIA,Split,LOUD,13,6,7,,FURIA,9,3,6,,1:05:41
+Champions Tour 2023: Americas League,Regular Season,Week 3,LOUD vs FURIA,Icebox,LOUD,13,8,5,,FURIA,4,0,4,,38:59
+Champions Tour 2023: Americas League,Regular Season,Week 4,LOUD vs Sentinels,Pearl,LOUD,6,5,1,,Sentinels,13,6,7,,1:00:48
+Champions Tour 2023: Americas League,Regular Season,Week 4,LOUD vs Sentinels,Haven,LOUD,13,7,6,,Sentinels,11,6,5,,1:27:26
+Champions Tour 2023: Americas League,Regular Season,Week 4,LOUD vs Sentinels,Ascent,LOUD,13,9,4,,Sentinels,8,5,3,,48:47
+Champions Tour 2023: Americas League,Regular Season,Week 4,LEVIATÁN vs MIBR,Pearl,LEVIATÁN,13,10,3,,MIBR,4,2,2,,52:41
+Champions Tour 2023: Americas League,Regular Season,Week 4,LEVIATÁN vs MIBR,Icebox,LEVIATÁN,13,10,3,,MIBR,3,1,2,,39:39
+Champions Tour 2023: Americas League,Regular Season,Week 4,KRÜ Esports vs 100 Thieves,Ascent,KRÜ Esports,13,9,4,,100 Thieves,4,1,3,,51:39
+Champions Tour 2023: Americas League,Regular Season,Week 4,KRÜ Esports vs 100 Thieves,Split,KRÜ Esports,11,8,3,,100 Thieves,13,9,4,,58:58
+Champions Tour 2023: Americas League,Regular Season,Week 4,KRÜ Esports vs 100 Thieves,Fracture,KRÜ Esports,5,4,1,,100 Thieves,13,5,8,,41:31
+Champions Tour 2023: Americas League,Regular Season,Week 4,Evil Geniuses vs FURIA,Ascent,Evil Geniuses,13,7,5,1,FURIA,15,7,5,3,1:17:24
+Champions Tour 2023: Americas League,Regular Season,Week 4,Evil Geniuses vs FURIA,Fracture,Evil Geniuses,13,8,5,,FURIA,7,3,4,,45:30
+Champions Tour 2023: Americas League,Regular Season,Week 4,Evil Geniuses vs FURIA,Haven,Evil Geniuses,10,7,3,,FURIA,13,8,5,,51:47
+Champions Tour 2023: Americas League,Regular Season,Week 4,NRG Esports vs Cloud9,Haven,NRG Esports,13,9,4,,Cloud9,8,5,3,,
+Champions Tour 2023: Americas League,Regular Season,Week 4,NRG Esports vs Cloud9,Pearl,NRG Esports,9,7,2,,Cloud9,13,8,5,,56:40
+Champions Tour 2023: Americas League,Regular Season,Week 4,NRG Esports vs Cloud9,Ascent,NRG Esports,7,4,3,,Cloud9,13,5,8,,45:09
+Champions Tour 2023: Americas League,Regular Season,Week 4,MIBR vs Sentinels,Pearl,MIBR,5,3,2,,Sentinels,13,4,9,,58:45
+Champions Tour 2023: Americas League,Regular Season,Week 4,MIBR vs Sentinels,Fracture,MIBR,6,3,3,,Sentinels,13,4,9,,48:56
+Champions Tour 2023: Americas League,Regular Season,Week 4,LEVIATÁN vs 100 Thieves,Icebox,LEVIATÁN,15,7,5,3,100 Thieves,13,7,5,1,1:15:24
+Champions Tour 2023: Americas League,Regular Season,Week 4,LEVIATÁN vs 100 Thieves,Haven,LEVIATÁN,11,6,5,,100 Thieves,13,7,6,,51:20
+Champions Tour 2023: Americas League,Regular Season,Week 4,LEVIATÁN vs 100 Thieves,Lotus,LEVIATÁN,11,7,4,,100 Thieves,13,8,5,,1:01:09
+Champions Tour 2023: Americas League,Regular Season,Week 4,Evil Geniuses vs LOUD,Split,Evil Geniuses,13,9,4,,LOUD,3,0,3,,49:09
+Champions Tour 2023: Americas League,Regular Season,Week 4,Evil Geniuses vs LOUD,Haven,Evil Geniuses,10,4,6,,LOUD,13,5,8,,52:19
+Champions Tour 2023: Americas League,Regular Season,Week 4,Evil Geniuses vs LOUD,Pearl,Evil Geniuses,0,0,0,,LOUD,13,1,12,,31:46
+Champions Tour 2023: Americas League,Regular Season,Week 4,Cloud9 vs FURIA,Ascent,Cloud9,13,8,5,,FURIA,8,4,4,,1:02:00
+Champions Tour 2023: Americas League,Regular Season,Week 4,Cloud9 vs FURIA,Fracture,Cloud9,13,6,7,,FURIA,9,3,6,,54:37
+Champions Tour 2023: Americas League,Regular Season,Week 4,NRG Esports vs KRÜ Esports,Haven,NRG Esports,13,8,5,,KRÜ Esports,10,6,4,,1:06:02
+Champions Tour 2023: Americas League,Regular Season,Week 4,NRG Esports vs KRÜ Esports,Ascent,NRG Esports,13,9,4,,KRÜ Esports,4,1,3,,41:10
+Champions Tour 2023: Americas League,Regular Season,Week 5,NRG Esports vs 100 Thieves,Bind,NRG Esports,13,7,6,,100 Thieves,7,2,5,,1:02:41
+Champions Tour 2023: Americas League,Regular Season,Week 5,NRG Esports vs 100 Thieves,Fracture,NRG Esports,13,11,2,,100 Thieves,3,2,1,,37:05
+Champions Tour 2023: Americas League,Regular Season,Week 5,MIBR vs FURIA,Pearl,MIBR,11,8,3,,FURIA,13,9,4,,1:12:43
+Champions Tour 2023: Americas League,Regular Season,Week 5,MIBR vs FURIA,Split,MIBR,7,2,5,,FURIA,13,3,10,,49:37
+Champions Tour 2023: Americas League,Regular Season,Week 5,Cloud9 vs Sentinels,Lotus,Cloud9,13,9,4,,Sentinels,4,1,3,,54:05
+Champions Tour 2023: Americas League,Regular Season,Week 5,Cloud9 vs Sentinels,Fracture,Cloud9,13,11,2,,Sentinels,6,5,1,,44:26
+Champions Tour 2023: Americas League,Regular Season,Week 5,LEVIATÁN vs Evil Geniuses,Split,LEVIATÁN,10,8,2,,Evil Geniuses,13,9,4,,1:10:35
+Champions Tour 2023: Americas League,Regular Season,Week 5,LEVIATÁN vs Evil Geniuses,Pearl,LEVIATÁN,13,6,7,,Evil Geniuses,10,4,6,,54:42
+Champions Tour 2023: Americas League,Regular Season,Week 5,LEVIATÁN vs Evil Geniuses,Ascent,LEVIATÁN,10,3,7,,Evil Geniuses,13,4,9,,50:12
+Champions Tour 2023: Americas League,Regular Season,Week 5,LOUD vs KRÜ Esports,Pearl,LOUD,10,8,2,,KRÜ Esports,13,9,4,,1:04:57
+Champions Tour 2023: Americas League,Regular Season,Week 5,LOUD vs KRÜ Esports,Ascent,LOUD,13,4,9,,KRÜ Esports,11,3,8,,54:16
+Champions Tour 2023: Americas League,Regular Season,Week 5,LOUD vs KRÜ Esports,Split,LOUD,13,8,5,,KRÜ Esports,10,6,4,,51:01
+Champions Tour 2023: Americas League,Regular Season,Week 6,Evil Geniuses vs Sentinels,Fracture,Evil Geniuses,13,9,4,,Sentinels,6,3,3,,52:51
+Champions Tour 2023: Americas League,Regular Season,Week 6,Evil Geniuses vs Sentinels,Pearl,Evil Geniuses,13,10,3,,Sentinels,5,3,2,,44:50
+Champions Tour 2023: Americas League,Regular Season,Week 6,Cloud9 vs MIBR,Split,Cloud9,13,7,6,,MIBR,5,0,5,,56:29
+Champions Tour 2023: Americas League,Regular Season,Week 6,Cloud9 vs MIBR,Lotus,Cloud9,13,8,5,,MIBR,4,0,4,,39:36
+Champions Tour 2023: Americas League,Regular Season,Week 6,LOUD vs 100 Thieves,Ascent,LOUD,13,8,5,,100 Thieves,5,1,4,,50:21
+Champions Tour 2023: Americas League,Regular Season,Week 6,LOUD vs 100 Thieves,Split,LOUD,15,6,6,3,100 Thieves,13,6,6,1,1:06:55
+Champions Tour 2023: Americas League,Regular Season,Week 6,LEVIATÁN vs KRÜ Esports,Haven,LEVIATÁN,13,11,2,,KRÜ Esports,4,3,1,,48:53
+Champions Tour 2023: Americas League,Regular Season,Week 6,LEVIATÁN vs KRÜ Esports,Split,LEVIATÁN,13,9,4,,KRÜ Esports,4,1,3,,38:10
+Champions Tour 2023: Americas League,Regular Season,Week 6,NRG Esports vs FURIA,Bind,NRG Esports,13,3,10,,FURIA,11,2,9,,1:10:28
+Champions Tour 2023: Americas League,Regular Season,Week 6,NRG Esports vs FURIA,Haven,NRG Esports,11,6,5,,FURIA,13,7,6,,55:49
+Champions Tour 2023: Americas League,Regular Season,Week 6,NRG Esports vs FURIA,Pearl,NRG Esports,13,8,5,,FURIA,6,2,4,,45:22
+Champions Tour 2023: Americas League,Regular Season,Week 7,FURIA vs 100 Thieves,Pearl,FURIA,13,7,6,,100 Thieves,10,5,5,,1:12:14
+Champions Tour 2023: Americas League,Regular Season,Week 7,FURIA vs 100 Thieves,Fracture,FURIA,7,2,5,,100 Thieves,13,3,10,,48:04
+Champions Tour 2023: Americas League,Regular Season,Week 7,FURIA vs 100 Thieves,Haven,FURIA,11,6,5,,100 Thieves,13,7,6,,52:58
+Champions Tour 2023: Americas League,Regular Season,Week 7,Evil Geniuses vs MIBR,Lotus,Evil Geniuses,13,10,3,,MIBR,2,0,2,,42:30
+Champions Tour 2023: Americas League,Regular Season,Week 7,Evil Geniuses vs MIBR,Fracture,Evil Geniuses,13,8,5,,MIBR,5,1,4,,43:19
+Champions Tour 2023: Americas League,Regular Season,Week 7,KRÜ Esports vs Sentinels,Lotus,KRÜ Esports,12,6,6,0,Sentinels,14,6,6,2,1:17:09
+Champions Tour 2023: Americas League,Regular Season,Week 7,KRÜ Esports vs Sentinels,Bind,KRÜ Esports,10,4,6,,Sentinels,13,5,8,,53:29
+Champions Tour 2023: Americas League,Regular Season,Week 7,NRG Esports vs LOUD,Split,NRG Esports,13,9,4,,LOUD,5,2,3,,53:54
+Champions Tour 2023: Americas League,Regular Season,Week 7,NRG Esports vs LOUD,Pearl,NRG Esports,13,6,7,,LOUD,9,3,6,,54:37
+Champions Tour 2023: Americas League,Regular Season,Week 7,LEVIATÁN vs Cloud9,Lotus,LEVIATÁN,7,3,4,,Cloud9,13,4,9,,57:53
+Champions Tour 2023: Americas League,Regular Season,Week 7,LEVIATÁN vs Cloud9,Haven,LEVIATÁN,4,2,2,,Cloud9,13,3,10,,40:08
+Champions Tour 2023: Americas League,Regular Season,Week 8,Sentinels vs FURIA,Split,Sentinels,13,9,4,,FURIA,7,4,3,,1:03:53
+Champions Tour 2023: Americas League,Regular Season,Week 8,Sentinels vs FURIA,Haven,Sentinels,5,4,1,,FURIA,13,5,8,,43:10
+Champions Tour 2023: Americas League,Regular Season,Week 8,Sentinels vs FURIA,Bind,Sentinels,19,6,6,7,FURIA,17,6,6,5,1:21:26
+Champions Tour 2023: Americas League,Regular Season,Week 8,NRG Esports vs Evil Geniuses,Bind,NRG Esports,13,4,9,,Evil Geniuses,9,1,8,,1:01:05
+Champions Tour 2023: Americas League,Regular Season,Week 8,NRG Esports vs Evil Geniuses,Split,NRG Esports,13,7,6,,Evil Geniuses,7,2,5,,55:38
+Champions Tour 2023: Americas League,Regular Season,Week 8,Cloud9 vs KRÜ Esports,Lotus,Cloud9,15,3,9,3,KRÜ Esports,13,3,9,1,1:16:07
+Champions Tour 2023: Americas League,Regular Season,Week 8,Cloud9 vs KRÜ Esports,Ascent,Cloud9,6,6,0,,KRÜ Esports,13,7,6,,41:18
+Champions Tour 2023: Americas League,Regular Season,Week 8,Cloud9 vs KRÜ Esports,Split,Cloud9,13,8,5,,KRÜ Esports,9,5,4,,52:02
+Champions Tour 2023: Americas League,Regular Season,Week 8,LEVIATÁN vs LOUD,Haven,LEVIATÁN,7,4,3,,LOUD,13,5,8,,1:37:16
+Champions Tour 2023: Americas League,Regular Season,Week 8,LEVIATÁN vs LOUD,Ascent,LEVIATÁN,5,3,2,,LOUD,13,4,9,,36:03
+Champions Tour 2023: Americas League,Regular Season,Week 8,MIBR vs 100 Thieves,Fracture,MIBR,13,8,5,,100 Thieves,6,2,4,,52:42
+Champions Tour 2023: Americas League,Regular Season,Week 8,MIBR vs 100 Thieves,Pearl,MIBR,12,8,4,0,100 Thieves,14,8,4,2,1:02:41
+Champions Tour 2023: Americas League,Regular Season,Week 8,MIBR vs 100 Thieves,Lotus,MIBR,13,7,6,,100 Thieves,7,2,5,,46:45
+Champions Tour 2023: Americas League,Playoffs,Upper Round 1,LEVIATÁN vs FURIA,Ascent,LEVIATÁN,5,4,1,,FURIA,13,5,8,,52:59
+Champions Tour 2023: Americas League,Playoffs,Upper Round 1,LEVIATÁN vs FURIA,Pearl,LEVIATÁN,20,4,8,8,FURIA,18,4,8,6,1:27:50
+Champions Tour 2023: Americas League,Playoffs,Upper Round 1,LEVIATÁN vs FURIA,Bind,LEVIATÁN,6,5,1,,FURIA,13,6,7,,43:30
+Champions Tour 2023: Americas League,Playoffs,Upper Round 1,NRG Esports vs Evil Geniuses,Haven,NRG Esports,13,6,7,,Evil Geniuses,11,5,6,,1:13:56
+Champions Tour 2023: Americas League,Playoffs,Upper Round 1,NRG Esports vs Evil Geniuses,Split,NRG Esports,13,4,8,1,Evil Geniuses,15,4,8,3,1:07:07
+Champions Tour 2023: Americas League,Playoffs,Upper Round 1,NRG Esports vs Evil Geniuses,Ascent,NRG Esports,7,5,2,,Evil Geniuses,13,6,7,,46:59
+Champions Tour 2023: Americas League,Playoffs,Upper Semifinals,LOUD vs FURIA,Haven,LOUD,13,9,4,,FURIA,4,1,3,,51:50
+Champions Tour 2023: Americas League,Playoffs,Upper Semifinals,LOUD vs FURIA,Ascent,LOUD,13,9,4,,FURIA,5,2,3,,43:18
+Champions Tour 2023: Americas League,Playoffs,Upper Semifinals,Cloud9 vs Evil Geniuses,Fracture,Cloud9,5,4,1,,Evil Geniuses,13,5,8,,51:55
+Champions Tour 2023: Americas League,Playoffs,Upper Semifinals,Cloud9 vs Evil Geniuses,Bind,Cloud9,2,2,0,,Evil Geniuses,13,3,10,,32:25
+Champions Tour 2023: Americas League,Playoffs,Lower Round 1,FURIA vs NRG Esports,Bind,FURIA,9,2,7,,NRG Esports,13,3,10,,1:06:40
+Champions Tour 2023: Americas League,Playoffs,Lower Round 1,FURIA vs NRG Esports,Haven,FURIA,10,7,3,,NRG Esports,13,8,5,,54:52
+Champions Tour 2023: Americas League,Playoffs,Lower Round 1,Cloud9 vs LEVIATÁN,Haven,Cloud9,13,9,4,,LEVIATÁN,8,5,3,,57:03
+Champions Tour 2023: Americas League,Playoffs,Lower Round 1,Cloud9 vs LEVIATÁN,Lotus,Cloud9,10,6,4,,LEVIATÁN,13,7,6,,57:19
+Champions Tour 2023: Americas League,Playoffs,Lower Round 1,Cloud9 vs LEVIATÁN,Ascent,Cloud9,13,8,5,,LEVIATÁN,4,0,4,,41:06
+Champions Tour 2023: Americas League,Playoffs,Upper Final,LOUD vs Evil Geniuses,Fracture,LOUD,13,7,6,,Evil Geniuses,9,4,5,,1:01:55
+Champions Tour 2023: Americas League,Playoffs,Upper Final,LOUD vs Evil Geniuses,Ascent,LOUD,11,7,4,,Evil Geniuses,13,8,5,,57:17
+Champions Tour 2023: Americas League,Playoffs,Upper Final,LOUD vs Evil Geniuses,Bind,LOUD,13,10,3,,Evil Geniuses,3,1,2,,39:53
+Champions Tour 2023: Americas League,Playoffs,Lower Round 2,Cloud9 vs NRG Esports,Pearl,Cloud9,13,5,8,,NRG Esports,10,3,7,,1:03:19
+Champions Tour 2023: Americas League,Playoffs,Lower Round 2,Cloud9 vs NRG Esports,Lotus,Cloud9,9,5,4,,NRG Esports,13,6,7,,54:24
+Champions Tour 2023: Americas League,Playoffs,Lower Round 2,Cloud9 vs NRG Esports,Haven,Cloud9,12,6,6,0,NRG Esports,14,6,6,2,57:07
+Champions Tour 2023: Americas League,Playoffs,Lower Final,Evil Geniuses vs NRG Esports,Haven,Evil Geniuses,13,7,6,,NRG Esports,11,6,5,,1:15:50
+Champions Tour 2023: Americas League,Playoffs,Lower Final,Evil Geniuses vs NRG Esports,Ascent,Evil Geniuses,8,3,5,,NRG Esports,13,4,9,,55:07
+Champions Tour 2023: Americas League,Playoffs,Lower Final,Evil Geniuses vs NRG Esports,Lotus,Evil Geniuses,10,7,3,,NRG Esports,13,8,5,,58:37
+Champions Tour 2023: Americas League,Playoffs,Lower Final,Evil Geniuses vs NRG Esports,Split,Evil Geniuses,4,1,3,,NRG Esports,13,2,11,,41:53
+Champions Tour 2023: Americas League,Playoffs,Grand Final,LOUD vs NRG Esports,Ascent,LOUD,13,5,8,,NRG Esports,9,2,7,,1:02:29
+Champions Tour 2023: Americas League,Playoffs,Grand Final,LOUD vs NRG Esports,Bind,LOUD,13,6,7,,NRG Esports,11,5,6,,1:00:51
+Champions Tour 2023: Americas League,Playoffs,Grand Final,LOUD vs NRG Esports,Fracture,LOUD,13,5,8,,NRG Esports,11,4,7,,56:14
+Champions Tour 2023: EMEA League,Regular Season,Week 1,KOI vs Natus Vincere,Ascent,KOI,13,8,5,,Natus Vincere,7,3,4,,1:04:25
+Champions Tour 2023: EMEA League,Regular Season,Week 1,KOI vs Natus Vincere,Lotus,KOI,20,3,9,8,Natus Vincere,18,3,9,6,1:27:57
+Champions Tour 2023: EMEA League,Regular Season,Week 1,FNATIC vs Giants Gaming,Icebox,FNATIC,13,10,3,,Giants Gaming,3,1,2,,1:00:25
+Champions Tour 2023: EMEA League,Regular Season,Week 1,FNATIC vs Giants Gaming,Split,FNATIC,13,6,7,,Giants Gaming,11,5,6,,55:06
+Champions Tour 2023: EMEA League,Regular Season,Week 1,Team Heretics vs FUT Esports,Pearl,Team Heretics,4,2,2,,FUT Esports,13,3,10,,51:48
+Champions Tour 2023: EMEA League,Regular Season,Week 1,Team Heretics vs FUT Esports,Lotus,Team Heretics,9,8,1,,FUT Esports,13,9,4,,51:01
+Champions Tour 2023: EMEA League,Regular Season,Week 1,Team Liquid vs Team Vitality,Haven,Team Liquid,6,3,3,,Team Vitality,13,4,9,,1:00:16
+Champions Tour 2023: EMEA League,Regular Season,Week 1,Team Liquid vs Team Vitality,Fracture,Team Liquid,13,10,3,,Team Vitality,2,0,2,,34:46
+Champions Tour 2023: EMEA League,Regular Season,Week 1,Team Liquid vs Team Vitality,Lotus,Team Liquid,10,7,3,,Team Vitality,13,8,5,,55:26
+Champions Tour 2023: EMEA League,Regular Season,Week 1,Natus Vincere vs Giants Gaming,Icebox,Natus Vincere,15,6,6,3,Giants Gaming,17,6,6,5,1:35:35
+Champions Tour 2023: EMEA League,Regular Season,Week 1,Natus Vincere vs Giants Gaming,Split,Natus Vincere,15,7,5,3,Giants Gaming,13,7,5,1,1:11:30
+Champions Tour 2023: EMEA League,Regular Season,Week 1,Natus Vincere vs Giants Gaming,Pearl,Natus Vincere,13,7,6,,Giants Gaming,7,2,5,,51:34
+Champions Tour 2023: EMEA League,Regular Season,Week 1,Karmine Corp vs BBL Esports,Icebox,Karmine Corp,19,6,6,7,BBL Esports,17,6,6,5,1:44:51
+Champions Tour 2023: EMEA League,Regular Season,Week 1,Karmine Corp vs BBL Esports,Split,Karmine Corp,13,9,4,,BBL Esports,11,8,3,,1:18:49
+Champions Tour 2023: EMEA League,Regular Season,Week 1,Team Liquid vs FUT Esports,Lotus,Team Liquid,10,5,5,,FUT Esports,13,6,7,,1:10:35
+Champions Tour 2023: EMEA League,Regular Season,Week 1,Team Liquid vs FUT Esports,Split,Team Liquid,13,7,6,,FUT Esports,6,1,5,,43:22
+Champions Tour 2023: EMEA League,Regular Season,Week 1,Team Liquid vs FUT Esports,Ascent,Team Liquid,13,6,7,,FUT Esports,6,0,6,,40:58
+Champions Tour 2023: EMEA League,Regular Season,Week 1,KOI vs Team Vitality,Split,KOI,9,7,2,,Team Vitality,13,8,5,,1:17:31
+Champions Tour 2023: EMEA League,Regular Season,Week 1,KOI vs Team Vitality,Fracture,KOI,13,4,8,1,Team Vitality,15,4,8,3,1:01:00
+Champions Tour 2023: EMEA League,Regular Season,Week 1,FNATIC vs BBL Esports,Ascent,FNATIC,6,3,3,,BBL Esports,13,4,9,,55:17
+Champions Tour 2023: EMEA League,Regular Season,Week 1,FNATIC vs BBL Esports,Haven,FNATIC,13,8,5,,BBL Esports,9,5,4,,54:02
+Champions Tour 2023: EMEA League,Regular Season,Week 1,FNATIC vs BBL Esports,Split,FNATIC,13,6,7,,BBL Esports,11,5,6,,1:05:41
+Champions Tour 2023: EMEA League,Regular Season,Week 1,Team Heretics vs Karmine Corp,Icebox,Team Heretics,13,9,4,,Karmine Corp,5,2,3,,1:00:01
+Champions Tour 2023: EMEA League,Regular Season,Week 1,Team Heretics vs Karmine Corp,Split,Team Heretics,13,10,3,,Karmine Corp,2,0,2,,38:12
+Champions Tour 2023: EMEA League,Regular Season,Week 2,Team Vitality vs FUT Esports,Lotus,Team Vitality,4,3,1,,FUT Esports,13,4,9,,40:02
+Champions Tour 2023: EMEA League,Regular Season,Week 2,Team Vitality vs FUT Esports,Haven,Team Vitality,10,5,5,,FUT Esports,13,6,7,,54:36
+Champions Tour 2023: EMEA League,Regular Season,Week 2,Natus Vincere vs BBL Esports,Ascent,Natus Vincere,13,6,7,,BBL Esports,10,4,6,,1:16:27
+Champions Tour 2023: EMEA League,Regular Season,Week 2,Natus Vincere vs BBL Esports,Fracture,Natus Vincere,13,6,7,,BBL Esports,8,2,6,,50:08
+Champions Tour 2023: EMEA League,Regular Season,Week 2,FNATIC vs Team Heretics,Icebox,FNATIC,13,9,4,,Team Heretics,3,0,3,,53:35
+Champions Tour 2023: EMEA League,Regular Season,Week 2,FNATIC vs Team Heretics,Ascent,FNATIC,13,7,6,,Team Heretics,6,1,5,,51:04
+Champions Tour 2023: EMEA League,Regular Season,Week 2,Team Liquid vs Karmine Corp,Ascent,Team Liquid,13,8,5,,Karmine Corp,5,1,4,,1:04:01
+Champions Tour 2023: EMEA League,Regular Season,Week 2,Team Liquid vs Karmine Corp,Split,Team Liquid,13,12,1,,Karmine Corp,2,2,0,,39:09
+Champions Tour 2023: EMEA League,Regular Season,Week 2,KOI vs Giants Gaming,Lotus,KOI,1,1,0,,Giants Gaming,13,2,11,,55:50
+Champions Tour 2023: EMEA League,Regular Season,Week 2,KOI vs Giants Gaming,Ascent,KOI,11,4,7,,Giants Gaming,13,5,8,,1:01:17
+Champions Tour 2023: EMEA League,Regular Season,Week 3,Natus Vincere vs Team Heretics,Pearl,Natus Vincere,13,9,4,,Team Heretics,3,0,3,,37:40
+Champions Tour 2023: EMEA League,Regular Season,Week 3,Natus Vincere vs Team Heretics,Lotus,Natus Vincere,9,2,7,,Team Heretics,13,3,10,,57:43
+Champions Tour 2023: EMEA League,Regular Season,Week 3,Natus Vincere vs Team Heretics,Ascent,Natus Vincere,13,11,2,,Team Heretics,2,1,1,,36:45
+Champions Tour 2023: EMEA League,Regular Season,Week 3,KOI vs FUT Esports,Ascent,KOI,9,6,3,,FUT Esports,13,7,6,,50:32
+Champions Tour 2023: EMEA League,Regular Season,Week 3,KOI vs FUT Esports,Icebox,KOI,6,5,1,,FUT Esports,13,6,7,,
+Champions Tour 2023: EMEA League,Regular Season,Week 3,Team Liquid vs FNATIC,Lotus,Team Liquid,6,1,5,,FNATIC,13,2,11,,1:12:16
+Champions Tour 2023: EMEA League,Regular Season,Week 3,Team Liquid vs FNATIC,Haven,Team Liquid,6,6,0,,FNATIC,13,7,6,,48:46
+Champions Tour 2023: EMEA League,Regular Season,Week 3,Giants Gaming vs BBL Esports,Icebox,Giants Gaming,13,7,6,,BBL Esports,10,5,5,,1:09:41
+Champions Tour 2023: EMEA League,Regular Season,Week 3,Giants Gaming vs BBL Esports,Split,Giants Gaming,13,9,4,,BBL Esports,3,0,3,,37:20
+Champions Tour 2023: EMEA League,Regular Season,Week 3,Team Vitality vs Karmine Corp,Ascent,Team Vitality,13,10,3,,Karmine Corp,2,0,2,,47:34
+Champions Tour 2023: EMEA League,Regular Season,Week 3,Team Vitality vs Karmine Corp,Split,Team Vitality,13,11,2,,Karmine Corp,6,5,1,,45:45
+Champions Tour 2023: EMEA League,Regular Season,Week 4,Team Heretics vs Team Liquid,Split,Team Heretics,8,2,6,,Team Liquid,13,3,10,,1:07:55
+Champions Tour 2023: EMEA League,Regular Season,Week 4,Team Heretics vs Team Liquid,Fracture,Team Heretics,15,5,7,3,Team Liquid,17,5,7,5,1:15:41
+Champions Tour 2023: EMEA League,Regular Season,Week 4,FUT Esports vs Giants Gaming,Icebox,FUT Esports,5,2,3,,Giants Gaming,13,3,10,,54:31
+Champions Tour 2023: EMEA League,Regular Season,Week 4,FUT Esports vs Giants Gaming,Split,FUT Esports,11,4,7,,Giants Gaming,13,5,8,,1:00:00
+Champions Tour 2023: EMEA League,Regular Season,Week 4,Karmine Corp vs Natus Vincere,Ascent,Karmine Corp,11,6,5,,Natus Vincere,13,7,6,,1:14:46
+Champions Tour 2023: EMEA League,Regular Season,Week 4,Karmine Corp vs Natus Vincere,Lotus,Karmine Corp,7,7,0,,Natus Vincere,13,8,5,,57:11
+Champions Tour 2023: EMEA League,Regular Season,Week 4,BBL Esports vs Team Vitality,Ascent,BBL Esports,13,5,8,,Team Vitality,8,1,7,,55:29
+Champions Tour 2023: EMEA League,Regular Season,Week 4,BBL Esports vs Team Vitality,Haven,BBL Esports,13,9,4,,Team Vitality,9,6,3,,50:02
+Champions Tour 2023: EMEA League,Regular Season,Week 5,Giants Gaming vs Team Liquid,Ascent,Giants Gaming,13,7,6,,Team Liquid,11,6,5,,1:12:48
+Champions Tour 2023: EMEA League,Regular Season,Week 5,Giants Gaming vs Team Liquid,Icebox,Giants Gaming,11,5,6,,Team Liquid,13,6,7,,59:52
+Champions Tour 2023: EMEA League,Regular Season,Week 5,Giants Gaming vs Team Liquid,Lotus,Giants Gaming,10,5,5,,Team Liquid,13,6,7,,56:03
+Champions Tour 2023: EMEA League,Regular Season,Week 5,BBL Esports vs Team Heretics,Haven,BBL Esports,14,7,5,2,Team Heretics,12,7,5,0,1:33:12
+Champions Tour 2023: EMEA League,Regular Season,Week 5,BBL Esports vs Team Heretics,Lotus,BBL Esports,10,6,4,,Team Heretics,13,7,6,,1:10:45
+Champions Tour 2023: EMEA League,Regular Season,Week 5,BBL Esports vs Team Heretics,Icebox,BBL Esports,13,11,2,,Team Heretics,2,1,1,,37:39
+Champions Tour 2023: EMEA League,Regular Season,Week 5,KOI vs Karmine Corp,Lotus,KOI,6,1,5,,Karmine Corp,13,2,11,,1:10:00
+Champions Tour 2023: EMEA League,Regular Season,Week 5,KOI vs Karmine Corp,Ascent,KOI,13,6,7,,Karmine Corp,8,2,6,,1:00:42
+Champions Tour 2023: EMEA League,Regular Season,Week 5,KOI vs Karmine Corp,Haven,KOI,11,7,4,,Karmine Corp,13,8,5,,59:34
+Champions Tour 2023: EMEA League,Regular Season,Week 5,FUT Esports vs FNATIC,Icebox,FUT Esports,5,5,0,,FNATIC,13,6,7,,57:48
+Champions Tour 2023: EMEA League,Regular Season,Week 5,FUT Esports vs FNATIC,Lotus,FUT Esports,5,4,1,,FNATIC,13,5,8,,43:45
+Champions Tour 2023: EMEA League,Regular Season,Week 5,Team Vitality vs Natus Vincere,Split,Team Vitality,10,3,7,,Natus Vincere,13,4,9,,1:06:52
+Champions Tour 2023: EMEA League,Regular Season,Week 5,Team Vitality vs Natus Vincere,Fracture,Team Vitality,10,5,5,,Natus Vincere,13,6,7,,56:06
+Champions Tour 2023: EMEA League,Regular Season,Week 6,Team Vitality vs FNATIC,Haven,Team Vitality,12,7,5,0,FNATIC,14,7,5,2,1:09:14
+Champions Tour 2023: EMEA League,Regular Season,Week 6,Team Vitality vs FNATIC,Bind,Team Vitality,8,6,2,,FNATIC,13,7,6,,50:32
+Champions Tour 2023: EMEA League,Regular Season,Week 6,FUT Esports vs Karmine Corp,Haven,FUT Esports,13,7,6,,Karmine Corp,8,3,5,,57:35
+Champions Tour 2023: EMEA League,Regular Season,Week 6,FUT Esports vs Karmine Corp,Ascent,FUT Esports,13,8,5,,Karmine Corp,5,1,4,,48:38
+Champions Tour 2023: EMEA League,Regular Season,Week 6,KOI vs BBL Esports,Pearl,KOI,13,9,4,,BBL Esports,3,0,3,,1:06:02
+Champions Tour 2023: EMEA League,Regular Season,Week 6,KOI vs BBL Esports,Ascent,KOI,4,3,1,,BBL Esports,13,4,9,,42:03
+Champions Tour 2023: EMEA League,Regular Season,Week 6,KOI vs BBL Esports,Bind,KOI,5,5,0,,BBL Esports,13,6,7,,44:02
+Champions Tour 2023: EMEA League,Regular Season,Week 6,Natus Vincere vs Team Liquid,Fracture,Natus Vincere,13,6,7,,Team Liquid,11,5,6,,1:07:23
+Champions Tour 2023: EMEA League,Regular Season,Week 6,Natus Vincere vs Team Liquid,Bind,Natus Vincere,13,5,8,,Team Liquid,11,4,7,,1:02:47
+Champions Tour 2023: EMEA League,Regular Season,Week 6,Giants Gaming vs Team Heretics,Pearl,Giants Gaming,9,3,6,,Team Heretics,13,4,9,,1:15:24
+Champions Tour 2023: EMEA League,Regular Season,Week 6,Giants Gaming vs Team Heretics,Lotus,Giants Gaming,14,7,5,2,Team Heretics,16,7,5,4,1:13:28
+Champions Tour 2023: EMEA League,Regular Season,Week 4,KOI vs FNATIC,Lotus,KOI,4,2,2,,FNATIC,13,3,10,,1:21:01
+Champions Tour 2023: EMEA League,Regular Season,Week 4,KOI vs FNATIC,Ascent,KOI,9,8,1,,FNATIC,13,9,4,,53:53
+Champions Tour 2023: EMEA League,Regular Season,Week 7,Giants Gaming vs Team Vitality,Lotus,Giants Gaming,13,8,5,,Team Vitality,6,2,4,,55:49
+Champions Tour 2023: EMEA League,Regular Season,Week 7,Giants Gaming vs Team Vitality,Split,Giants Gaming,10,5,5,,Team Vitality,13,6,7,,55:01
+Champions Tour 2023: EMEA League,Regular Season,Week 7,Giants Gaming vs Team Vitality,Ascent,Giants Gaming,13,7,6,,Team Vitality,10,5,5,,55:17
+Champions Tour 2023: EMEA League,Regular Season,Week 7,FUT Esports vs Natus Vincere,Lotus,FUT Esports,9,3,6,,Natus Vincere,13,4,9,,1:07:26
+Champions Tour 2023: EMEA League,Regular Season,Week 7,FUT Esports vs Natus Vincere,Pearl,FUT Esports,11,3,8,,Natus Vincere,13,4,9,,
+Champions Tour 2023: EMEA League,Regular Season,Week 7,Karmine Corp vs FNATIC,Haven,Karmine Corp,2,2,0,,FNATIC,13,3,10,,44:51
+Champions Tour 2023: EMEA League,Regular Season,Week 7,Karmine Corp vs FNATIC,Lotus,Karmine Corp,10,6,4,,FNATIC,13,7,6,,1:05:30
+Champions Tour 2023: EMEA League,Regular Season,Week 7,BBL Esports vs Team Liquid,Split,BBL Esports,11,3,8,,Team Liquid,13,4,9,,
+Champions Tour 2023: EMEA League,Regular Season,Week 7,BBL Esports vs Team Liquid,Ascent,BBL Esports,13,8,5,,Team Liquid,7,3,4,,46:27
+Champions Tour 2023: EMEA League,Regular Season,Week 7,BBL Esports vs Team Liquid,Bind,BBL Esports,7,5,2,,Team Liquid,13,6,7,,42:14
+Champions Tour 2023: EMEA League,Regular Season,Week 7,KOI vs Team Heretics,Fracture,KOI,13,9,4,,Team Heretics,7,4,3,,1:09:57
+Champions Tour 2023: EMEA League,Regular Season,Week 7,KOI vs Team Heretics,Lotus,KOI,9,7,2,,Team Heretics,13,8,5,,58:31
+Champions Tour 2023: EMEA League,Regular Season,Week 7,KOI vs Team Heretics,Ascent,KOI,13,5,8,,Team Heretics,11,4,7,,1:06:43
+Champions Tour 2023: EMEA League,Regular Season,Week 8,FNATIC vs Natus Vincere,Lotus,FNATIC,13,6,7,,Natus Vincere,9,3,6,,1:30:41
+Champions Tour 2023: EMEA League,Regular Season,Week 8,FNATIC vs Natus Vincere,Split,FNATIC,13,8,5,,Natus Vincere,8,4,4,,49:41
+Champions Tour 2023: EMEA League,Regular Season,Week 8,Team Heretics vs Team Vitality,Haven,Team Heretics,10,8,2,,Team Vitality,13,9,4,,1:13:56
+Champions Tour 2023: EMEA League,Regular Season,Week 8,Team Heretics vs Team Vitality,Lotus,Team Heretics,13,4,8,1,Team Vitality,15,4,8,3,1:09:11
+Champions Tour 2023: EMEA League,Regular Season,Week 8,Karmine Corp vs Giants Gaming,Lotus,Karmine Corp,14,9,3,2,Giants Gaming,16,9,3,4,1:29:12
+Champions Tour 2023: EMEA League,Regular Season,Week 8,Karmine Corp vs Giants Gaming,Ascent,Karmine Corp,5,4,1,,Giants Gaming,13,5,8,,41:33
+Champions Tour 2023: EMEA League,Regular Season,Week 8,KOI vs Team Liquid,Fracture,KOI,7,5,2,,Team Liquid,13,6,7,,1:03:59
+Champions Tour 2023: EMEA League,Regular Season,Week 8,KOI vs Team Liquid,Split,KOI,13,5,8,,Team Liquid,11,4,7,,58:09
+Champions Tour 2023: EMEA League,Regular Season,Week 8,KOI vs Team Liquid,Lotus,KOI,8,5,3,,Team Liquid,13,6,7,,44:41
+Champions Tour 2023: EMEA League,Regular Season,Week 8,BBL Esports vs FUT Esports,Pearl,BBL Esports,5,5,0,,FUT Esports,13,6,7,,1:03:12
+Champions Tour 2023: EMEA League,Regular Season,Week 8,BBL Esports vs FUT Esports,Haven,BBL Esports,7,2,5,,FUT Esports,13,3,10,,46:04
+Champions Tour 2023: EMEA League,Playoffs,Upper Round 1,Giants Gaming vs FUT Esports,Haven,Giants Gaming,5,3,2,,FUT Esports,13,4,9,,1:01:20
+Champions Tour 2023: EMEA League,Playoffs,Upper Round 1,Giants Gaming vs FUT Esports,Ascent,Giants Gaming,12,3,9,0,FUT Esports,14,3,9,2,55:47
+Champions Tour 2023: EMEA League,Playoffs,Upper Round 1,Team Liquid vs Team Vitality,Lotus,Team Liquid,6,3,3,,Team Vitality,13,4,9,,56:09
+Champions Tour 2023: EMEA League,Playoffs,Upper Round 1,Team Liquid vs Team Vitality,Bind,Team Liquid,13,8,5,,Team Vitality,11,7,4,,55:21
+Champions Tour 2023: EMEA League,Playoffs,Upper Round 1,Team Liquid vs Team Vitality,Ascent,Team Liquid,13,6,7,,Team Vitality,11,5,6,,58:02
+Champions Tour 2023: EMEA League,Playoffs,Upper Semifinals,FNATIC vs FUT Esports,Bind,FNATIC,9,8,1,,FUT Esports,13,9,4,,1:14:00
+Champions Tour 2023: EMEA League,Playoffs,Upper Semifinals,FNATIC vs FUT Esports,Split,FNATIC,13,10,3,,FUT Esports,2,0,2,,34:29
+Champions Tour 2023: EMEA League,Playoffs,Upper Semifinals,FNATIC vs FUT Esports,Lotus,FNATIC,13,11,2,,FUT Esports,1,0,1,,36:28
+Champions Tour 2023: EMEA League,Playoffs,Upper Semifinals,Natus Vincere vs Team Liquid,Bind,Natus Vincere,11,8,3,,Team Liquid,13,9,4,,56:35
+Champions Tour 2023: EMEA League,Playoffs,Upper Semifinals,Natus Vincere vs Team Liquid,Split,Natus Vincere,10,8,2,,Team Liquid,13,9,4,,1:07:49
+Champions Tour 2023: EMEA League,Playoffs,Lower Round 1,FUT Esports vs Team Vitality,Split,FUT Esports,13,4,9,,Team Vitality,9,1,8,,58:26
+Champions Tour 2023: EMEA League,Playoffs,Lower Round 1,FUT Esports vs Team Vitality,Haven,FUT Esports,9,4,5,,Team Vitality,13,5,8,,48:32
+Champions Tour 2023: EMEA League,Playoffs,Lower Round 1,FUT Esports vs Team Vitality,Lotus,FUT Esports,13,9,4,,Team Vitality,6,3,3,,45:22
+Champions Tour 2023: EMEA League,Playoffs,Lower Round 1,Natus Vincere vs Giants Gaming,Pearl,Natus Vincere,13,6,7,,Giants Gaming,9,3,6,,53:41
+Champions Tour 2023: EMEA League,Playoffs,Lower Round 1,Natus Vincere vs Giants Gaming,Ascent,Natus Vincere,13,8,5,,Giants Gaming,9,5,4,,56:26
+Champions Tour 2023: EMEA League,Playoffs,Upper Final,FNATIC vs Team Liquid,Lotus,FNATIC,14,7,5,2,Team Liquid,12,7,5,0,1:22:02
+Champions Tour 2023: EMEA League,Playoffs,Upper Final,FNATIC vs Team Liquid,Bind,FNATIC,13,6,7,,Team Liquid,6,0,6,,47:12
+Champions Tour 2023: EMEA League,Playoffs,Lower Round 2,Natus Vincere vs FUT Esports,Lotus,Natus Vincere,8,2,6,,FUT Esports,13,3,10,,1:05:44
+Champions Tour 2023: EMEA League,Playoffs,Lower Round 2,Natus Vincere vs FUT Esports,Fracture,Natus Vincere,7,4,3,,FUT Esports,13,5,8,,46:27
+Champions Tour 2023: EMEA League,Playoffs,Lower Final,Team Liquid vs FUT Esports,Ascent,Team Liquid,13,9,4,,FUT Esports,5,2,3,,1:00:04
+Champions Tour 2023: EMEA League,Playoffs,Lower Final,Team Liquid vs FUT Esports,Lotus,Team Liquid,17,2,10,5,FUT Esports,15,2,10,3,1:19:16
+Champions Tour 2023: EMEA League,Playoffs,Lower Final,Team Liquid vs FUT Esports,Split,Team Liquid,13,7,6,,FUT Esports,5,0,5,,41:10
+Champions Tour 2023: EMEA League,Playoffs,Grand Final,FNATIC vs Team Liquid,Lotus,FNATIC,13,8,5,,Team Liquid,11,7,4,,1:29:11
+Champions Tour 2023: EMEA League,Playoffs,Grand Final,FNATIC vs Team Liquid,Ascent,FNATIC,12,4,8,0,Team Liquid,14,4,8,2,1:02:10
+Champions Tour 2023: EMEA League,Playoffs,Grand Final,FNATIC vs Team Liquid,Haven,FNATIC,6,4,2,,Team Liquid,13,5,8,,48:00
+Champions Tour 2023: EMEA League,Playoffs,Grand Final,FNATIC vs Team Liquid,Fracture,FNATIC,11,4,7,,Team Liquid,13,5,8,,53:41
+Champions Tour 2023: Pacific League,League Play,Week 1,ZETA DIVISION vs DRX,Ascent,ZETA DIVISION,5,4,1,,DRX,13,5,8,,1:09:35
+Champions Tour 2023: Pacific League,League Play,Week 1,ZETA DIVISION vs DRX,Pearl,ZETA DIVISION,5,1,4,,DRX,13,2,11,,47:41
+Champions Tour 2023: Pacific League,League Play,Week 1,T1 vs Global Esports,Pearl,T1,13,9,4,,Global Esports,8,5,3,,1:20:17
+Champions Tour 2023: Pacific League,League Play,Week 1,T1 vs Global Esports,Haven,T1,4,2,2,,Global Esports,13,3,10,,40:44
+Champions Tour 2023: Pacific League,League Play,Week 1,T1 vs Global Esports,Lotus,T1,13,8,5,,Global Esports,7,3,4,,47:04
+Champions Tour 2023: Pacific League,League Play,Week 1,Paper Rex vs DetonatioN FocusMe,Pearl,Paper Rex,13,9,4,,DetonatioN FocusMe,5,2,3,,1:02:23
+Champions Tour 2023: Pacific League,League Play,Week 1,Paper Rex vs DetonatioN FocusMe,Lotus,Paper Rex,13,7,6,,DetonatioN FocusMe,11,6,5,,56:00
+Champions Tour 2023: Pacific League,League Play,Week 1,Team Secret vs Talon Esports,Ascent,Team Secret,13,8,5,,Talon Esports,5,1,4,,56:11
+Champions Tour 2023: Pacific League,League Play,Week 1,Team Secret vs Talon Esports,Icebox,Team Secret,8,3,5,,Talon Esports,13,4,9,,46:47
+Champions Tour 2023: Pacific League,League Play,Week 1,Team Secret vs Talon Esports,Fracture,Team Secret,13,10,3,,Talon Esports,3,1,2,,35:52
+Champions Tour 2023: Pacific League,League Play,Week 1,Rex Regum Qeon vs Gen.G,Fracture,Rex Regum Qeon,9,4,5,,Gen.G,13,5,8,,1:12:25
+Champions Tour 2023: Pacific League,League Play,Week 1,Rex Regum Qeon vs Gen.G,Lotus,Rex Regum Qeon,6,4,2,,Gen.G,13,5,8,,39:05
+Champions Tour 2023: Pacific League,League Play,Week 2,ZETA DIVISION vs Rex Regum Qeon,Haven,ZETA DIVISION,10,3,7,,Rex Regum Qeon,13,4,9,,1:06:39
+Champions Tour 2023: Pacific League,League Play,Week 2,ZETA DIVISION vs Rex Regum Qeon,Ascent,ZETA DIVISION,13,6,7,,Rex Regum Qeon,10,4,6,,58:14
+Champions Tour 2023: Pacific League,League Play,Week 2,ZETA DIVISION vs Rex Regum Qeon,Lotus,ZETA DIVISION,13,7,6,,Rex Regum Qeon,5,0,5,,43:45
+Champions Tour 2023: Pacific League,League Play,Week 2,Talon Esports vs T1,Ascent,Talon Esports,8,4,4,,T1,13,5,8,,57:56
+Champions Tour 2023: Pacific League,League Play,Week 2,Talon Esports vs T1,Haven,Talon Esports,6,3,3,,T1,13,4,9,,41:33
+Champions Tour 2023: Pacific League,League Play,Week 2,Team Secret vs Paper Rex,Haven,Team Secret,11,6,5,,Paper Rex,13,7,6,,1:01:36
+Champions Tour 2023: Pacific League,League Play,Week 2,Team Secret vs Paper Rex,Fracture,Team Secret,13,8,5,,Paper Rex,11,7,4,,57:55
+Champions Tour 2023: Pacific League,League Play,Week 2,Team Secret vs Paper Rex,Split,Team Secret,13,5,8,,Paper Rex,10,3,7,,55:12
+Champions Tour 2023: Pacific League,League Play,Week 2,Gen.G vs DetonatioN FocusMe,Lotus,Gen.G,13,5,8,,DetonatioN FocusMe,8,1,7,,57:19
+Champions Tour 2023: Pacific League,League Play,Week 2,Gen.G vs DetonatioN FocusMe,Fracture,Gen.G,4,4,0,,DetonatioN FocusMe,13,5,8,,45:21
+Champions Tour 2023: Pacific League,League Play,Week 2,Gen.G vs DetonatioN FocusMe,Pearl,Gen.G,13,5,8,,DetonatioN FocusMe,8,1,7,,51:23
+Champions Tour 2023: Pacific League,League Play,Week 2,Global Esports vs DRX,Haven,Global Esports,11,5,6,,DRX,13,6,7,,1:11:31
+Champions Tour 2023: Pacific League,League Play,Week 2,Global Esports vs DRX,Split,Global Esports,15,6,6,3,DRX,17,6,6,5,1:23:20
+Champions Tour 2023: Pacific League,League Play,Week 3,Rex Regum Qeon vs DetonatioN FocusMe,Haven,Rex Regum Qeon,13,10,3,,DetonatioN FocusMe,4,2,2,,49:43
+Champions Tour 2023: Pacific League,League Play,Week 3,Rex Regum Qeon vs DetonatioN FocusMe,Pearl,Rex Regum Qeon,13,9,4,,DetonatioN FocusMe,7,4,3,,49:25
+Champions Tour 2023: Pacific League,League Play,Week 3,T1 vs Paper Rex,Pearl,T1,3,1,2,,Paper Rex,13,2,11,,45:21
+Champions Tour 2023: Pacific League,League Play,Week 3,T1 vs Paper Rex,Fracture,T1,6,5,1,,Paper Rex,13,6,7,,42:34
+Champions Tour 2023: Pacific League,League Play,Week 3,ZETA DIVISION vs Global Esports,Pearl,ZETA DIVISION,9,3,6,,Global Esports,13,4,9,,1:09:53
+Champions Tour 2023: Pacific League,League Play,Week 3,ZETA DIVISION vs Global Esports,Ascent,ZETA DIVISION,14,5,7,2,Global Esports,12,5,7,0,1:03:28
+Champions Tour 2023: Pacific League,League Play,Week 3,ZETA DIVISION vs Global Esports,Haven,ZETA DIVISION,13,8,5,,Global Esports,8,4,4,,48:00
+Champions Tour 2023: Pacific League,League Play,Week 3,Talon Esports vs DRX,Split,Talon Esports,3,1,2,,DRX,13,2,11,,38:57
+Champions Tour 2023: Pacific League,League Play,Week 3,Talon Esports vs DRX,Pearl,Talon Esports,10,5,5,,DRX,13,6,7,,49:19
+Champions Tour 2023: Pacific League,League Play,Week 3,Team Secret vs Gen.G,Haven,Team Secret,8,5,3,,Gen.G,13,6,7,,1:03:34
+Champions Tour 2023: Pacific League,League Play,Week 3,Team Secret vs Gen.G,Fracture,Team Secret,11,6,5,,Gen.G,13,7,6,,54:53
+Champions Tour 2023: Pacific League,League Play,Week 4,Paper Rex vs DRX,Ascent,Paper Rex,5,3,2,,DRX,13,4,9,,51:25
+Champions Tour 2023: Pacific League,League Play,Week 4,Paper Rex vs DRX,Split,Paper Rex,10,5,5,,DRX,13,6,7,,57:07
+Champions Tour 2023: Pacific League,League Play,Week 4,Team Secret vs Rex Regum Qeon,Icebox,Team Secret,10,5,5,,Rex Regum Qeon,13,6,7,,56:54
+Champions Tour 2023: Pacific League,League Play,Week 4,Team Secret vs Rex Regum Qeon,Split,Team Secret,7,2,5,,Rex Regum Qeon,13,3,10,,47:01
+Champions Tour 2023: Pacific League,League Play,Week 4,T1 vs Gen.G,Ascent,T1,5,3,2,,Gen.G,13,4,9,,57:31
+Champions Tour 2023: Pacific League,League Play,Week 4,T1 vs Gen.G,Haven,T1,5,5,0,,Gen.G,13,6,7,,43:59
+Champions Tour 2023: Pacific League,League Play,Week 4,ZETA DIVISION vs DetonatioN FocusMe,Ascent,ZETA DIVISION,13,10,3,,DetonatioN FocusMe,9,7,2,,1:00:56
+Champions Tour 2023: Pacific League,League Play,Week 4,ZETA DIVISION vs DetonatioN FocusMe,Haven,ZETA DIVISION,13,9,4,,DetonatioN FocusMe,5,2,3,,43:17
+Champions Tour 2023: Pacific League,League Play,Week 4,Talon Esports vs Global Esports,Split,Talon Esports,6,3,3,,Global Esports,13,4,9,,58:56
+Champions Tour 2023: Pacific League,League Play,Week 4,Talon Esports vs Global Esports,Icebox,Talon Esports,11,6,5,,Global Esports,13,7,6,,56:37
+Champions Tour 2023: Pacific League,League Play,Week 5,Paper Rex vs Global Esports,Icebox,Paper Rex,7,6,1,,Global Esports,13,7,6,,57:55
+Champions Tour 2023: Pacific League,League Play,Week 5,Paper Rex vs Global Esports,Split,Paper Rex,13,9,4,,Global Esports,6,3,3,,45:19
+Champions Tour 2023: Pacific League,League Play,Week 5,Paper Rex vs Global Esports,Pearl,Paper Rex,13,8,5,,Global Esports,7,3,4,,45:51
+Champions Tour 2023: Pacific League,League Play,Week 5,Gen.G vs DRX,Haven,Gen.G,7,1,6,,DRX,13,2,11,,52:09
+Champions Tour 2023: Pacific League,League Play,Week 5,Gen.G vs DRX,Fracture,Gen.G,13,6,7,,DRX,10,4,6,,52:23
+Champions Tour 2023: Pacific League,League Play,Week 5,Gen.G vs DRX,Pearl,Gen.G,4,3,1,,DRX,13,4,9,,43:48
+Champions Tour 2023: Pacific League,League Play,Week 5,T1 vs Rex Regum Qeon,Haven,T1,13,7,6,,Rex Regum Qeon,9,4,5,,1:09:19
+Champions Tour 2023: Pacific League,League Play,Week 5,T1 vs Rex Regum Qeon,Fracture,T1,13,9,4,,Rex Regum Qeon,4,1,3,,35:39
+Champions Tour 2023: Pacific League,League Play,Week 5,Team Secret vs DetonatioN FocusMe,Ascent,Team Secret,13,6,7,,DetonatioN FocusMe,11,5,6,,55:23
+Champions Tour 2023: Pacific League,League Play,Week 5,Team Secret vs DetonatioN FocusMe,Haven,Team Secret,13,9,4,,DetonatioN FocusMe,8,5,3,,50:02
+Champions Tour 2023: Pacific League,League Play,Week 5,ZETA DIVISION vs Talon Esports,Haven,ZETA DIVISION,8,4,4,,Talon Esports,13,5,8,,1:00:46
+Champions Tour 2023: Pacific League,League Play,Week 5,ZETA DIVISION vs Talon Esports,Ascent,ZETA DIVISION,14,6,6,2,Talon Esports,16,6,6,4,1:14:59
+Champions Tour 2023: Pacific League,League Play,Week 6,T1 vs DetonatioN FocusMe,Lotus,T1,13,7,6,,DetonatioN FocusMe,9,4,5,,1:09:01
+Champions Tour 2023: Pacific League,League Play,Week 6,T1 vs DetonatioN FocusMe,Split,T1,9,5,4,,DetonatioN FocusMe,13,6,7,,57:49
+Champions Tour 2023: Pacific League,League Play,Week 6,T1 vs DetonatioN FocusMe,Fracture,T1,13,6,7,,DetonatioN FocusMe,10,4,6,,56:48
+Champions Tour 2023: Pacific League,League Play,Week 6,ZETA DIVISION vs Team Secret,Split,ZETA DIVISION,13,8,5,,Team Secret,9,5,4,,1:05:11
+Champions Tour 2023: Pacific League,League Play,Week 6,ZETA DIVISION vs Team Secret,Lotus,ZETA DIVISION,10,6,4,,Team Secret,13,7,6,,1:00:01
+Champions Tour 2023: Pacific League,League Play,Week 6,ZETA DIVISION vs Team Secret,Fracture,ZETA DIVISION,13,7,6,,Team Secret,9,4,5,,50:13
+Champions Tour 2023: Pacific League,League Play,Week 6,Global Esports vs Gen.G,Pearl,Global Esports,13,5,8,,Gen.G,8,1,7,,56:36
+Champions Tour 2023: Pacific League,League Play,Week 6,Global Esports vs Gen.G,Lotus,Global Esports,13,7,6,,Gen.G,8,3,5,,47:49
+Champions Tour 2023: Pacific League,League Play,Week 6,Rex Regum Qeon vs DRX,Haven,Rex Regum Qeon,13,6,7,,DRX,8,2,6,,53:34
+Champions Tour 2023: Pacific League,League Play,Week 6,Rex Regum Qeon vs DRX,Split,Rex Regum Qeon,10,6,4,,DRX,13,7,6,,54:47
+Champions Tour 2023: Pacific League,League Play,Week 6,Rex Regum Qeon vs DRX,Pearl,Rex Regum Qeon,2,2,0,,DRX,13,3,10,,38:45
+Champions Tour 2023: Pacific League,League Play,Week 6,Talon Esports vs Paper Rex,Pearl,Talon Esports,13,4,9,,Paper Rex,11,3,8,,1:16:07
+Champions Tour 2023: Pacific League,League Play,Week 6,Talon Esports vs Paper Rex,Split,Talon Esports,4,3,1,,Paper Rex,13,4,9,,37:31
+Champions Tour 2023: Pacific League,League Play,Week 6,Talon Esports vs Paper Rex,Fracture,Talon Esports,10,6,4,,Paper Rex,13,7,6,,51:11
+Champions Tour 2023: Pacific League,League Play,Week 7,Talon Esports vs Gen.G,Fracture,Talon Esports,13,7,6,,Gen.G,8,3,5,,1:04:44
+Champions Tour 2023: Pacific League,League Play,Week 7,Talon Esports vs Gen.G,Lotus,Talon Esports,13,7,6,,Gen.G,7,2,5,,49:09
+Champions Tour 2023: Pacific League,League Play,Week 7,ZETA DIVISION vs Paper Rex,Split,ZETA DIVISION,6,5,1,,Paper Rex,13,6,7,,51:20
+Champions Tour 2023: Pacific League,League Play,Week 7,ZETA DIVISION vs Paper Rex,Ascent,ZETA DIVISION,10,4,6,,Paper Rex,13,5,8,,52:40
+Champions Tour 2023: Pacific League,League Play,Week 7,Rex Regum Qeon vs Global Esports,Fracture,Rex Regum Qeon,13,6,7,,Global Esports,10,4,6,,1:08:34
+Champions Tour 2023: Pacific League,League Play,Week 7,Rex Regum Qeon vs Global Esports,Pearl,Rex Regum Qeon,13,8,5,,Global Esports,11,7,4,,56:52
+Champions Tour 2023: Pacific League,League Play,Week 7,Team Secret vs T1,Lotus,Team Secret,4,2,2,,T1,13,3,10,,46:21
+Champions Tour 2023: Pacific League,League Play,Week 7,Team Secret vs T1,Bind,Team Secret,8,5,3,,T1,13,6,7,,51:51
+Champions Tour 2023: Pacific League,League Play,Week 7,DRX vs DetonatioN FocusMe,Fracture,DRX,13,5,8,,DetonatioN FocusMe,8,1,7,,1:03:37
+Champions Tour 2023: Pacific League,League Play,Week 7,DRX vs DetonatioN FocusMe,Ascent,DRX,13,9,4,,DetonatioN FocusMe,4,1,3,,42:29
+Champions Tour 2023: Pacific League,League Play,Week 8,Paper Rex vs Gen.G,Split,Paper Rex,13,9,4,,Gen.G,7,4,3,,48:45
+Champions Tour 2023: Pacific League,League Play,Week 8,Paper Rex vs Gen.G,Ascent,Paper Rex,13,10,3,,Gen.G,2,0,2,,32:58
+Champions Tour 2023: Pacific League,League Play,Week 8,ZETA DIVISION vs T1,Fracture,ZETA DIVISION,11,6,5,,T1,13,7,6,,57:43
+Champions Tour 2023: Pacific League,League Play,Week 8,ZETA DIVISION vs T1,Lotus,ZETA DIVISION,13,3,10,,T1,10,1,9,,59:57
+Champions Tour 2023: Pacific League,League Play,Week 8,ZETA DIVISION vs T1,Bind,ZETA DIVISION,3,3,0,,T1,13,4,9,,40:43
+Champions Tour 2023: Pacific League,League Play,Week 8,Team Secret vs DRX,Haven,Team Secret,13,8,5,,DRX,8,4,4,,1:01:37
+Champions Tour 2023: Pacific League,League Play,Week 8,Team Secret vs DRX,Ascent,Team Secret,13,3,10,,DRX,11,2,9,,57:29
+Champions Tour 2023: Pacific League,League Play,Week 8,Global Esports vs DetonatioN FocusMe,Lotus,Global Esports,13,8,5,,DetonatioN FocusMe,7,3,4,,55:32
+Champions Tour 2023: Pacific League,League Play,Week 8,Global Esports vs DetonatioN FocusMe,Pearl,Global Esports,13,11,2,,DetonatioN FocusMe,6,5,1,,51:41
+Champions Tour 2023: Pacific League,League Play,Week 8,Talon Esports vs Rex Regum Qeon,Split,Talon Esports,13,9,4,,Rex Regum Qeon,3,0,3,,52:25
+Champions Tour 2023: Pacific League,League Play,Week 8,Talon Esports vs Rex Regum Qeon,Ascent,Talon Esports,4,3,1,,Rex Regum Qeon,13,4,9,,40:34
+Champions Tour 2023: Pacific League,League Play,Week 8,Talon Esports vs Rex Regum Qeon,Haven,Talon Esports,7,4,3,,Rex Regum Qeon,13,5,8,,44:36
+Champions Tour 2023: Pacific League,League Play,Week 8,ZETA DIVISION vs Gen.G,Haven,ZETA DIVISION,13,8,5,,Gen.G,8,4,4,,54:29
+Champions Tour 2023: Pacific League,League Play,Week 8,ZETA DIVISION vs Gen.G,Ascent,ZETA DIVISION,4,3,1,,Gen.G,13,4,9,,40:31
+Champions Tour 2023: Pacific League,League Play,Week 8,ZETA DIVISION vs Gen.G,Fracture,ZETA DIVISION,13,8,5,,Gen.G,4,0,4,,42:29
+Champions Tour 2023: Pacific League,League Play,Week 8,T1 vs DRX,Bind,T1,10,3,7,,DRX,13,4,9,,1:19:56
+Champions Tour 2023: Pacific League,League Play,Week 8,T1 vs DRX,Pearl,T1,9,3,6,,DRX,13,4,9,,58:06
+Champions Tour 2023: Pacific League,League Play,Week 8,Team Secret vs Global Esports,Haven,Team Secret,13,6,7,,Global Esports,9,3,6,,1:00:21
+Champions Tour 2023: Pacific League,League Play,Week 8,Team Secret vs Global Esports,Lotus,Team Secret,13,7,6,,Global Esports,10,5,5,,54:56
+Champions Tour 2023: Pacific League,League Play,Week 8,Talon Esports vs DetonatioN FocusMe,Lotus,Talon Esports,13,6,7,,DetonatioN FocusMe,11,5,6,,1:10:57
+Champions Tour 2023: Pacific League,League Play,Week 8,Talon Esports vs DetonatioN FocusMe,Bind,Talon Esports,13,10,3,,DetonatioN FocusMe,4,2,2,,40:33
+Champions Tour 2023: Pacific League,League Play,Week 8,Rex Regum Qeon vs Paper Rex,Bind,Rex Regum Qeon,9,5,4,,Paper Rex,13,6,7,,59:51
+Champions Tour 2023: Pacific League,League Play,Week 8,Rex Regum Qeon vs Paper Rex,Pearl,Rex Regum Qeon,11,4,7,,Paper Rex,13,5,8,,57:23
+Champions Tour 2023: Pacific League,Playoffs,Upper Round 1,ZETA DIVISION vs Team Secret,Haven,ZETA DIVISION,13,3,9,1,Team Secret,15,3,9,3,
+Champions Tour 2023: Pacific League,Playoffs,Upper Round 1,ZETA DIVISION vs Team Secret,Ascent,ZETA DIVISION,12,5,7,0,Team Secret,14,5,7,2,
+Champions Tour 2023: Pacific League,Playoffs,Upper Round 1,T1 vs Gen.G,Fracture,T1,13,7,6,,Gen.G,8,3,5,,53:00
+Champions Tour 2023: Pacific League,Playoffs,Upper Round 1,T1 vs Gen.G,Ascent,T1,11,8,3,,Gen.G,13,9,4,,54:32
+Champions Tour 2023: Pacific League,Playoffs,Upper Round 1,T1 vs Gen.G,Lotus,T1,13,6,7,,Gen.G,7,1,6,,47:54
+Champions Tour 2023: Pacific League,Playoffs,Upper Semifinals,DRX vs Team Secret,Haven,DRX,9,4,5,,Team Secret,13,5,8,,1:06:10
+Champions Tour 2023: Pacific League,Playoffs,Upper Semifinals,DRX vs Team Secret,Split,DRX,13,10,3,,Team Secret,5,3,2,,43:48
+Champions Tour 2023: Pacific League,Playoffs,Upper Semifinals,DRX vs Team Secret,Bind,DRX,13,10,3,,Team Secret,4,2,2,,40:04
+Champions Tour 2023: Pacific League,Playoffs,Upper Semifinals,Paper Rex vs T1,Lotus,Paper Rex,13,6,7,,T1,10,4,6,,1:09:31
+Champions Tour 2023: Pacific League,Playoffs,Upper Semifinals,Paper Rex vs T1,Fracture,Paper Rex,13,8,5,,T1,10,6,4,,48:03
+Champions Tour 2023: Pacific League,Playoffs,Lower Round 1,Team Secret vs Gen.G,Ascent,Team Secret,13,6,7,,Gen.G,8,2,6,,1:05:01
+Champions Tour 2023: Pacific League,Playoffs,Lower Round 1,Team Secret vs Gen.G,Haven,Team Secret,8,2,6,,Gen.G,13,3,10,,50:17
+Champions Tour 2023: Pacific League,Playoffs,Lower Round 1,Team Secret vs Gen.G,Split,Team Secret,12,7,5,0,Gen.G,14,7,5,2,1:02:21
+Champions Tour 2023: Pacific League,Playoffs,Lower Round 1,T1 vs ZETA DIVISION,Haven,T1,13,8,5,,ZETA DIVISION,10,6,4,,56:05
+Champions Tour 2023: Pacific League,Playoffs,Lower Round 1,T1 vs ZETA DIVISION,Bind,T1,12,5,7,0,ZETA DIVISION,14,5,7,2,59:50
+Champions Tour 2023: Pacific League,Playoffs,Lower Round 1,T1 vs ZETA DIVISION,Fracture,T1,13,5,8,,ZETA DIVISION,10,3,7,,55:10
+Champions Tour 2023: Pacific League,Playoffs,Upper Final,DRX vs Paper Rex,Fracture,DRX,5,5,0,,Paper Rex,13,6,7,,51:35
+Champions Tour 2023: Pacific League,Playoffs,Upper Final,DRX vs Paper Rex,Bind,DRX,6,4,2,,Paper Rex,13,5,8,,46:32
+Champions Tour 2023: Pacific League,Playoffs,Lower Round 2,T1 vs Gen.G,Fracture,T1,13,5,8,,Gen.G,10,3,7,,59:32
+Champions Tour 2023: Pacific League,Playoffs,Lower Round 2,T1 vs Gen.G,Ascent,T1,13,7,6,,Gen.G,10,5,5,,56:07
+Champions Tour 2023: Pacific League,Playoffs,Lower Final,DRX vs T1,Ascent,DRX,11,9,2,,T1,13,10,3,,1:18:05
+Champions Tour 2023: Pacific League,Playoffs,Lower Final,DRX vs T1,Fracture,DRX,13,4,9,,T1,11,3,8,,54:44
+Champions Tour 2023: Pacific League,Playoffs,Lower Final,DRX vs T1,Haven,DRX,13,9,4,,T1,11,8,3,,56:27
+Champions Tour 2023: Pacific League,Playoffs,Lower Final,DRX vs T1,Bind,DRX,6,4,2,,T1,13,5,8,,49:13
+Champions Tour 2023: Pacific League,Playoffs,Lower Final,DRX vs T1,Pearl,DRX,13,8,5,,T1,9,5,4,,56:41
+Champions Tour 2023: Pacific League,Playoffs,Grand Final,Paper Rex vs DRX,Fracture,Paper Rex,6,3,3,,DRX,13,4,9,,1:03:44
+Champions Tour 2023: Pacific League,Playoffs,Grand Final,Paper Rex vs DRX,Ascent,Paper Rex,14,6,6,2,DRX,16,6,6,4,1:09:21
+Champions Tour 2023: Pacific League,Playoffs,Grand Final,Paper Rex vs DRX,Pearl,Paper Rex,13,8,5,,DRX,8,4,4,,51:33
+Champions Tour 2023: Pacific League,Playoffs,Grand Final,Paper Rex vs DRX,Bind,Paper Rex,13,9,4,,DRX,6,3,3,,41:04
+Champions Tour 2023: Pacific League,Playoffs,Grand Final,Paper Rex vs DRX,Lotus,Paper Rex,13,9,4,,DRX,3,0,3,,36:49
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Round of 16,KOI vs NRG Esports,Icebox,KOI,11,9,2,,NRG Esports,13,10,3,,1:12:59
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Round of 16,KOI vs NRG Esports,Haven,KOI,9,4,5,,NRG Esports,13,5,8,,53:43
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Round of 16,DetonatioN FocusMe vs Giants Gaming,Haven,DetonatioN FocusMe,4,4,0,,Giants Gaming,13,5,8,,50:48
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Round of 16,DetonatioN FocusMe vs Giants Gaming,Icebox,DetonatioN FocusMe,7,4,3,,Giants Gaming,13,5,8,,51:43
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Round of 16,FunPlus Phoenix vs Karmine Corp,Lotus,FunPlus Phoenix,6,4,2,,Karmine Corp,13,5,8,,55:34
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Round of 16,FunPlus Phoenix vs Karmine Corp,Haven,FunPlus Phoenix,13,6,7,,Karmine Corp,8,2,6,,52:27
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Round of 16,FunPlus Phoenix vs Karmine Corp,Pearl,FunPlus Phoenix,6,5,1,,Karmine Corp,13,6,7,,46:52
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Round of 16,BBL Esports vs DRX,Pearl,BBL Esports,3,3,0,,DRX,13,4,9,,55:04
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Round of 16,BBL Esports vs DRX,Ascent,BBL Esports,13,4,9,,DRX,11,3,8,,51:09
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Round of 16,BBL Esports vs DRX,Haven,BBL Esports,7,1,6,,DRX,13,2,11,,42:03
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Round of 16,Cloud9 vs Paper Rex,Lotus,Cloud9,13,7,6,,Paper Rex,8,3,5,,52:12
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Round of 16,Cloud9 vs Paper Rex,Pearl,Cloud9,13,10,3,,Paper Rex,4,2,2,,39:51
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Round of 16,Team Heretics vs Evil Geniuses,Pearl,Team Heretics,8,6,2,,Evil Geniuses,13,7,6,,55:42
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Round of 16,Team Heretics vs Evil Geniuses,Ascent,Team Heretics,8,5,3,,Evil Geniuses,13,6,7,,48:09
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Round of 16,MIBR vs Talon Esports,Haven,MIBR,8,4,4,,Talon Esports,13,5,8,,55:30
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Round of 16,MIBR vs Talon Esports,Fracture,MIBR,11,5,6,,Talon Esports,13,6,7,,55:15
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Round of 16,Gen.G vs LOUD,Pearl,Gen.G,9,7,2,,LOUD,13,8,5,,1:00:51
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Round of 16,Gen.G vs LOUD,Fracture,Gen.G,12,4,8,0,LOUD,14,4,8,2,1:00:57
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Quarterfinals,NRG Esports vs Giants Gaming,Lotus,NRG Esports,12,4,8,0,Giants Gaming,14,4,8,2,1:12:23
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Quarterfinals,NRG Esports vs Giants Gaming,Haven,NRG Esports,13,11,2,,Giants Gaming,1,0,1,,36:08
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Quarterfinals,NRG Esports vs Giants Gaming,Icebox,NRG Esports,13,9,4,,Giants Gaming,7,4,3,,46:24
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Quarterfinals,LOUD vs Karmine Corp,Pearl,LOUD,13,8,5,,Karmine Corp,10,6,4,,1:07:15
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Quarterfinals,LOUD vs Karmine Corp,Split,LOUD,13,8,5,,Karmine Corp,8,4,4,,49:40
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Quarterfinals,DRX vs Cloud9,Pearl,DRX,3,3,0,,Cloud9,13,4,9,,50:03
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Quarterfinals,DRX vs Cloud9,Haven,DRX,13,9,4,,Cloud9,7,4,3,,46:02
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Quarterfinals,DRX vs Cloud9,Icebox,DRX,13,11,2,,Cloud9,2,1,1,,30:18
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Quarterfinals,Evil Geniuses vs Talon Esports,Haven,Evil Geniuses,11,9,2,,Talon Esports,13,10,3,,57:00
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Quarterfinals,Evil Geniuses vs Talon Esports,Split,Evil Geniuses,10,8,2,,Talon Esports,13,9,4,,51:55
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Semifinals,NRG Esports vs LOUD,Split,NRG Esports,3,3,0,,LOUD,13,4,9,,46:42
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Semifinals,NRG Esports vs LOUD,Pearl,NRG Esports,15,7,5,3,LOUD,13,7,5,1,1:05:45
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Semifinals,NRG Esports vs LOUD,Fracture,NRG Esports,16,5,7,4,LOUD,18,5,7,6,1:10:59
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Semifinals,DRX vs Talon Esports,Fracture,DRX,10,4,6,,Talon Esports,13,5,8,,1:01:06
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Semifinals,DRX vs Talon Esports,Ascent,DRX,13,6,7,,Talon Esports,6,0,6,,41:46
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Semifinals,DRX vs Talon Esports,Icebox,DRX,13,7,6,,Talon Esports,10,5,5,,51:20
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Round of 16,Team Liquid vs Team Secret,Icebox,Team Liquid,8,2,6,,Team Secret,13,3,10,,1:03:20
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Round of 16,Team Liquid vs Team Secret,Fracture,Team Liquid,7,3,4,,Team Secret,13,4,9,,42:43
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Round of 16,Natus Vincere vs KRÜ Esports,Ascent,Natus Vincere,13,9,4,,KRÜ Esports,5,2,3,,47:52
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Round of 16,Natus Vincere vs KRÜ Esports,Lotus,Natus Vincere,13,3,10,,KRÜ Esports,10,1,9,,49:57
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Round of 16,ZETA DIVISION vs LEVIATÁN,Ascent,ZETA DIVISION,4,2,2,,LEVIATÁN,13,3,10,,47:44
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Round of 16,ZETA DIVISION vs LEVIATÁN,Pearl,ZETA DIVISION,11,6,5,,LEVIATÁN,13,7,6,,58:25
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Round of 16,Team Vitality vs Global Esports,Split,Team Vitality,13,9,4,,Global Esports,4,1,3,,49:27
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Round of 16,Team Vitality vs Global Esports,Pearl,Team Vitality,9,7,2,,Global Esports,13,8,5,,47:56
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Round of 16,Team Vitality vs Global Esports,Lotus,Team Vitality,13,8,5,,Global Esports,6,2,4,,41:05
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Round of 16,FUT Esports vs Rex Regum Qeon,Lotus,FUT Esports,13,10,3,,Rex Regum Qeon,3,1,2,,43:44
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Round of 16,FUT Esports vs Rex Regum Qeon,Pearl,FUT Esports,13,5,8,,Rex Regum Qeon,11,4,7,,55:17
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Round of 16,100 Thieves vs EDward Gaming,Icebox,100 Thieves,13,8,5,,EDward Gaming,10,6,4,,1:01:35
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Round of 16,100 Thieves vs EDward Gaming,Lotus,100 Thieves,9,7,2,,EDward Gaming,13,8,5,,53:09
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Round of 16,100 Thieves vs EDward Gaming,Pearl,100 Thieves,14,5,7,2,EDward Gaming,12,5,7,0,1:09:03
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Round of 16,Sentinels vs FNATIC,Haven,Sentinels,6,3,3,,FNATIC,13,4,9,,50:12
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Round of 16,Sentinels vs FNATIC,Split,Sentinels,7,6,1,,FNATIC,13,7,6,,52:40
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Round of 16,T1 vs FURIA,Pearl,T1,7,6,1,,FURIA,13,7,6,,54:20
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Round of 16,T1 vs FURIA,Icebox,T1,5,5,0,,FURIA,13,6,7,,
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Quarterfinals,Team Secret vs Natus Vincere,Icebox,Team Secret,8,6,2,,Natus Vincere,13,7,6,,1:07:49
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Quarterfinals,Team Secret vs Natus Vincere,Pearl,Team Secret,4,3,1,,Natus Vincere,13,4,9,,40:25
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Quarterfinals,LEVIATÁN vs Team Vitality,Haven,LEVIATÁN,16,5,7,4,Team Vitality,14,5,7,2,1:18:09
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Quarterfinals,LEVIATÁN vs Team Vitality,Pearl,LEVIATÁN,13,10,3,,Team Vitality,3,1,2,,37:21
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Quarterfinals,FUT Esports vs 100 Thieves,Lotus,FUT Esports,13,5,8,,100 Thieves,9,2,7,,1:02:18
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Quarterfinals,FUT Esports vs 100 Thieves,Haven,FUT Esports,11,5,6,,100 Thieves,13,6,7,,51:19
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Quarterfinals,FUT Esports vs 100 Thieves,Icebox,FUT Esports,8,4,4,,100 Thieves,13,5,8,,51:59
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Quarterfinals,FNATIC vs FURIA,Haven,FNATIC,18,8,4,6,FURIA,16,8,4,4,1:27:17
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Quarterfinals,FNATIC vs FURIA,Ascent,FNATIC,13,8,5,,FURIA,9,5,4,,1:00:24
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Semifinals,Natus Vincere vs LEVIATÁN,Ascent,Natus Vincere,13,6,7,,LEVIATÁN,10,4,6,,1:02:45
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Semifinals,Natus Vincere vs LEVIATÁN,Fracture,Natus Vincere,13,11,2,,LEVIATÁN,2,1,1,,36:48
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Semifinals,100 Thieves vs FNATIC,Fracture,100 Thieves,1,1,0,,FNATIC,13,2,11,,38:29
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Semifinals,100 Thieves vs FNATIC,Icebox,100 Thieves,10,2,8,,FNATIC,13,3,10,,53:46
+Champions Tour 2023: Lock-In Sao Paulo,Playoffs,Semifinals,LOUD vs DRX,Pearl,LOUD,13,9,4,,DRX,5,2,3,,51:15
+Champions Tour 2023: Lock-In Sao Paulo,Playoffs,Semifinals,LOUD vs DRX,Icebox,LOUD,13,9,4,,DRX,8,5,3,,44:32
+Champions Tour 2023: Lock-In Sao Paulo,Playoffs,Semifinals,LOUD vs DRX,Split,LOUD,7,3,4,,DRX,13,4,9,,46:22
+Champions Tour 2023: Lock-In Sao Paulo,Playoffs,Semifinals,LOUD vs DRX,Fracture,LOUD,7,6,1,,DRX,13,7,6,,43:40
+Champions Tour 2023: Lock-In Sao Paulo,Playoffs,Semifinals,LOUD vs DRX,Ascent,LOUD,13,7,6,,DRX,8,3,5,,47:59
+Champions Tour 2023: Lock-In Sao Paulo,Playoffs,Semifinals,Natus Vincere vs FNATIC,Haven,Natus Vincere,11,5,6,,FNATIC,13,6,7,,1:05:49
+Champions Tour 2023: Lock-In Sao Paulo,Playoffs,Semifinals,Natus Vincere vs FNATIC,Lotus,Natus Vincere,4,2,2,,FNATIC,13,3,10,,48:57
+Champions Tour 2023: Lock-In Sao Paulo,Playoffs,Semifinals,Natus Vincere vs FNATIC,Fracture,Natus Vincere,11,6,5,,FNATIC,13,7,6,,1:02:26
+Champions Tour 2023: Lock-In Sao Paulo,Playoffs,Grand Final,LOUD vs FNATIC,Ascent,LOUD,8,4,4,,FNATIC,13,5,8,,1:02:57
+Champions Tour 2023: Lock-In Sao Paulo,Playoffs,Grand Final,LOUD vs FNATIC,Fracture,LOUD,7,6,1,,FNATIC,13,7,6,,47:15
+Champions Tour 2023: Lock-In Sao Paulo,Playoffs,Grand Final,LOUD vs FNATIC,Split,LOUD,13,7,6,,FNATIC,9,4,5,,51:34
+Champions Tour 2023: Lock-In Sao Paulo,Playoffs,Grand Final,LOUD vs FNATIC,Lotus,LOUD,13,7,6,,FNATIC,8,3,5,,52:04
+Champions Tour 2023: Lock-In Sao Paulo,Playoffs,Grand Final,LOUD vs FNATIC,Icebox,LOUD,12,9,3,0,FNATIC,14,9,3,2,1:02:23
