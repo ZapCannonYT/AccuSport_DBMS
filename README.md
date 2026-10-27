@@ -8,7 +8,6 @@
 - A **Next.js** web app with role-based login shows the dashboards, player pages, a moderator alert queue and an admin page.
 
 Team: Rahul Saran Sharma (PES1UG24AM218), Ayush (PES1UG24AM909). DBMS Experiential Learning, Level 3.
-Start with [docs/00-START-HERE.md](docs/00-START-HERE.md). The demo script is [docs/demo_answers.md](docs/demo_answers.md).
 
 ## Project layout
 
@@ -27,12 +26,9 @@ lib/                      shared server code: db pool, auth, Qdrant, report list
 app/                      Next.js pages and API routes
 components/               React components (tables, charts, panels)
 middleware.js             login + role checks for every page
-docs/                     learning and project documentation
 ```
 
 ## Setup (Windows, about 15 minutes)
-
-Full step-by-step guide: [docs/setup-local.md](docs/setup-local.md).
 
 1. Install **Node.js 18+** and **PostgreSQL 17** (keep pgAdmin; remember the `postgres` password and port).
 2. Unzip the Qdrant Windows release into `tools/qdrant/`. Then start it and keep the terminal open:
