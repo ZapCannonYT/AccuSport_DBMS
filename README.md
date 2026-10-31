@@ -9,6 +9,12 @@
 
 Team: Rahul Saran Sharma (PES1UG24AM218), Ayush (PES1UG24AM909). DBMS Experiential Learning, Level 3.
 
+## ER diagram
+
+![AccuSports ER diagram](db/er-diagram.png)
+
+The 14 PostgreSQL tables in crow's foot notation, grouped by colour: who (players, users, teams), where and with what (tournaments, maps, agents), what happened (series, map_plays, map_participants), what we measure (metric_definitions, participant_metrics, form_ratings) and what the detector found (cusum_state, drift_alerts). Full DDL is in `db/01_schema.sql`.
+
 ## Project layout
 
 ```
