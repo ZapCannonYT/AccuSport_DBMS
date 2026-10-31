@@ -75,6 +75,36 @@ JOIN v_player_maps pm ON pm.player_id = f.player_id AND pm.map_play_id = f.map_p
 WHERE f.player_id = (SELECT player_id FROM players WHERE name = 'aspas') AND pm.rn % 10 = 0
 ORDER BY f.recorded_at;
 
+-- 5c. Qdrant, SQL side: Postgres builds the numbers, Qdrant only does the similarity search.
+-- The player vector has 36 numbers: 4 category scores (this view) + 3 extra stats + 29 agent shares.
+-- Part 1 of the vector: the 4 category scores (fragging, survival, damage, precision), z-scored vs all players
+SELECT p.name, f.vector AS fragging_survival_damage_precision
+FROM v_player_fingerprint f
+JOIN players p ON p.player_id = f.player_id
+WHERE p.name IN ('aspas', 'Derke');
+
+-- Part 3 of the vector: agent usage = share of the last 20 maps on each agent (29 agents, one slot each)
+SELECT ag.name AS agent, COUNT(*) AS maps_last_20, ROUND(COUNT(*)::numeric / 20, 2) AS share
+FROM v_player_maps r
+JOIN map_participants pa ON pa.map_play_id = r.map_play_id AND pa.player_id = r.player_id
+JOIN agents ag ON ag.agent_id = pa.agent_id
+WHERE r.player_id = (SELECT player_id FROM players WHERE name = 'aspas')
+  AND r.rn > (SELECT MAX(rn) FROM v_player_maps
+              WHERE player_id = (SELECT player_id FROM players WHERE name = 'aspas')) - 20
+GROUP BY ag.name
+ORDER BY maps_last_20 DESC;
+
+-- 5d. Qdrant alert vectors (17 numbers): the decline alerts that Qdrant's "Similar alerts" button compares.
+-- Postgres can say WHICH stat fired and in what context, but not "which other alerts looked like this one".
+SELECT metric, context, COUNT(*) AS decline_alerts,
+       COUNT(*) FILTER (WHERE status = 'open') AS still_open
+FROM v_alert_details
+WHERE direction = 'decline'
+GROUP BY metric, context
+ORDER BY decline_alerts DESC;
+-- Then in the web app: Players -> a player -> "Similar players", and Alerts -> "Similar" on a decline alert.
+-- Terminal alternative: npm run similar -- aspas
+
 -- 6. Moderator action (UPDATE): acknowledge one open alert
 UPDATE drift_alerts SET status = 'acknowledged', reviewed_by = 2, review_note = 'Checked in demo'
 WHERE alert_id = (SELECT MIN(alert_id) FROM drift_alerts WHERE status = 'open')
