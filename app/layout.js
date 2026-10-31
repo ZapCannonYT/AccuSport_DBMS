@@ -1,7 +1,6 @@
 import './globals.css';
-import Link from 'next/link';
 import { getSession } from '@/lib/auth';
-import SignOutButton from '@/components/SignOutButton';
+import Sidebar from '@/components/NavLinks';
 
 export const metadata = {
   title: 'AccuSports',
@@ -14,20 +13,16 @@ export default async function RootLayout({ children }) {
   return (
     <html lang="en">
       <body>
-        {session && (
-          <nav className="nav">
-            <Link href="/" className="brand">Accu<span>Sports</span></Link>
-            <Link href="/">Dashboard</Link>
-            <Link href="/players">Players</Link>
-            <Link href="/teams">Teams</Link>
-            {(role === 'moderator' || role === 'admin') && <Link href="/alerts">Alerts</Link>}
-            {role === 'admin' && <Link href="/admin">Admin</Link>}
-            <span className="spacer" />
-            <span className="who">{session.user.name} ({role})</span>
-            <SignOutButton />
-          </nav>
-        )}
-        <main>{children}</main>
+        <div className={session ? 'shell' : ''}>
+          {session && (
+            <Sidebar name={session.user.name} role={role} links={[
+              ['/', 'Dashboard'], ['/players', 'Players'], ['/teams', 'Teams'],
+              ...(role === 'moderator' || role === 'admin' ? [['/alerts', 'Alerts']] : []),
+              ...(role === 'admin' ? [['/admin', 'Admin']] : []),
+            ]} />
+          )}
+          <main>{children}</main>
+        </div>
       </body>
     </html>
   );
