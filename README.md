@@ -11,9 +11,9 @@ Team: Rahul Saran Sharma (PES1UG24AM218), Ayush (PES1UG24AM909). DBMS Experienti
 
 ## ER diagram
 
-![AccuSports ER diagram](db/er-diagram.png)
+![AccuSports ER diagram](db/er-diagram-chen.png)
 
-The 14 PostgreSQL tables in crow's foot notation, grouped by colour: who (players, users, teams), where and with what (tournaments, maps, agents), what happened (series, map_plays, map_participants), what we measure (metric_definitions, participant_metrics, form_ratings) and what the detector found (cusum_state, drift_alerts). Full DDL is in `db/01_schema.sql`.
+Standard (Chen) notation: rectangles are entities, diamonds are relationships, ovals are attributes (underlined = key), and the 1 / N / M labels give the cardinality. The 10 entities map to the 14 PostgreSQL tables: the many-to-many relationships PLAYS IN, MEASURED, RATED and TRACKED BY CUSUM become `map_participants`, `participant_metrics`, `form_ratings` and `cusum_state`. A table-level (schema) version with every column and foreign key is in `db/er-diagram.png`; the DDL is in `db/01_schema.sql`.
 
 ## Project layout
 
