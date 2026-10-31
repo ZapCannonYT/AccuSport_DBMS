@@ -92,7 +92,7 @@ export default async function Dashboard({ searchParams }) {
       )}
 
       {tab === 'leaderboard' && (
-        <ReportPanel name="leaderboard" byYear initialYear={year} title="Leaderboard (materialized view)"
+        <ReportPanel key={`leaderboard-${year}`} name="leaderboard" byYear initialYear={year} title="Leaderboard (materialized view)"
           note="Best average vlr.gg rating in the season, at least 20 maps. Raise Min maps (or lower Max maps) to compare players with a similar number of maps."
           columns={['#', 'player', 'region', 'maps', 'avg_rating']}
           controls={{
@@ -111,7 +111,7 @@ export default async function Dashboard({ searchParams }) {
         <div className="grid cols-2">
         <ReportPanel name="role_stats" title="Performance by agent role"
           chart={{ x: 'role', bars: [{ key: 'avg_acs', name: 'avg ACS' }] }} />
-        <ReportPanel name="agent_meta" byYear initialYear={year} title="Agent meta"
+        <ReportPanel key={`agent-${year}`} name="agent_meta" byYear initialYear={year} title="Agent meta"
           note="Pick rate = % of team compositions that included the agent."
           chart={{ x: 'agent', bars: [{ key: 'pick_rate_pct', name: 'pick rate %' }], top: 12 }} showTable={false} />
         <ReportPanel name="map_sides" title="Attack vs defence by map"

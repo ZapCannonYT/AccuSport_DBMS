@@ -1,8 +1,9 @@
 'use client';
 // Moderator alert queue: filter alerts, then acknowledge or resolve them
-import { useCallback, useEffect, useState } from 'react';
+import { Fragment, useCallback, useEffect, useState } from 'react';
 import Link from 'next/link';
 import Info from '@/components/Info';
+import SimilarAlerts from '@/components/SimilarAlerts';
 import { YEARS } from '@/lib/reports';
 
 const CONTEXT_LABEL = { team_change: 'after roster move', role_change: 'after role change' };
@@ -11,6 +12,7 @@ export default function AlertsPage() {
   const [filters, setFilters] = useState({ year: '', status: 'open', direction: 'decline', context: '', q: '' });
   const [rows, setRows] = useState(null);
   const [message, setMessage] = useState('');
+  const [openId, setOpenId] = useState(null);          // alert whose "similar alerts" row is expanded
 
   const load = useCallback(() => {
     const params = new URLSearchParams(Object.entries(filters).filter(([, v]) => v));
@@ -92,7 +94,8 @@ export default function AlertsPage() {
             </tr></thead>
             <tbody>
               {rows.map((a) => (
-                <tr key={a.alert_id}>
+                <Fragment key={a.alert_id}>
+                <tr>
                   <td><Link href={`/players/${a.player_id}`}>{a.player}</Link></td>
                   <td>{a.metric}</td>
                   <td><span className={`badge ${a.direction}`}>{a.direction}</span></td>
@@ -106,8 +109,15 @@ export default function AlertsPage() {
                     {a.status === 'open' && <button className="secondary" onClick={() => review(a, 'acknowledged')}>Acknowledge</button>}
                     {a.status !== 'resolved' && <button onClick={() => review(a, 'resolved')}>Resolve</button>}
                     {a.status === 'resolved' && <button className="secondary" onClick={() => review(a, 'open')}>Reopen</button>}
+                    {a.direction === 'decline' && (
+                      <button className="secondary" onClick={() => setOpenId(openId === a.alert_id ? null : a.alert_id)}>
+                        {openId === a.alert_id ? 'Hide similar' : 'Similar'}
+                      </button>
+                    )}
                   </td>
                 </tr>
+                {openId === a.alert_id && <tr><td colSpan={10}><SimilarAlerts alertId={a.alert_id} /></td></tr>}
+                </Fragment>
               ))}
             </tbody>
           </table>

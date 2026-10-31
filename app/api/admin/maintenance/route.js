@@ -13,8 +13,8 @@ export async function POST(req) {
   }
   if (action === 'sync-qdrant') {
     try {
-      const { synced, count } = await syncQdrant(query, qdrant);
-      return Response.json({ message: `Synced ${synced} fingerprints; Qdrant now has ${count} points.` });
+      const { players, alerts } = await syncQdrant(query, qdrant);
+      return Response.json({ message: `Synced ${players.synced} player profiles and ${alerts.synced} decline alerts into Qdrant.` });
     } catch {
       return Response.json({ error: 'Qdrant is not running. Start tools/qdrant/qdrant.exe.' }, { status: 503 });
     }

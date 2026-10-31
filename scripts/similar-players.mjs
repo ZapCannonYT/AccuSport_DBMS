@@ -3,12 +3,17 @@
 //   npm run similar -- aspas                  all players
 //   npm run similar -- aspas --same-role      only players whose main role matches
 //   npm run similar -- aspas --same-region    only players from the same region
-import { connectPostgres, connectQdrant, COLLECTION, CATEGORIES } from './clients.mjs';
+//   npm run similar -- aspas --other-teams    leave out the player's own team
+//   npm run similar -- aspas --min-maps 30    only players with at least 30 maps
+import { connectPostgres, connectQdrant } from './clients.mjs';
+import { COLLECTION, PROFILE_STATS } from '../lib/sync-qdrant.mjs';
 
 const args = process.argv.slice(2);
-const name = args.find((a) => !a.startsWith('--'));
+const minMapsAt = args.indexOf('--min-maps');
+const minMaps = minMapsAt >= 0 ? Number(args[minMapsAt + 1]) : 0;
+const name = args.find((a, i) => !a.startsWith('--') && i !== minMapsAt + 1);
 if (!name) {
-  console.log('Usage: npm run similar -- <player name> [--same-role] [--same-region]');
+  console.log('Usage: npm run similar -- <player name> [--same-role] [--same-region] [--other-teams] [--min-maps N]');
   process.exit(1);
 }
 
@@ -24,15 +29,19 @@ try {
   const [point] = await qdrant.retrieve(COLLECTION, { ids: [me.player_id], with_vector: true, with_payload: true });
   if (!point) throw new Error('No fingerprint in Qdrant yet. Run: npm run sync-qdrant');
   console.log(`\n${me.name} (${point.payload.team}, ${point.payload.region}, main role: ${point.payload.main_role})`);
-  console.table([Object.fromEntries(CATEGORIES.map((c, i) => [c, point.vector[i]]))]);
+  console.log(`Profile: ${point.vector.length} numbers (7 stats + agent usage). The 7 stats:`);
+  console.table([Object.fromEntries(PROFILE_STATS.map((c, i) => [c, point.vector[i]]))]);
 
   // 3. Nearest neighbours by cosine similarity, with optional payload filters
   const must = [];
   if (args.includes('--same-role')) must.push({ key: 'main_role', match: { value: point.payload.main_role } });
   if (args.includes('--same-region')) must.push({ key: 'region', match: { value: point.payload.region } });
+  if (minMaps > 0) must.push({ key: 'maps', range: { gte: minMaps } });
+  const must_not = [{ has_id: [point.id] }];
+  if (args.includes('--other-teams') && point.payload.team) must_not.push({ key: 'team', match: { value: point.payload.team } });
   const result = await qdrant.query(COLLECTION, {
     query: point.vector,
-    filter: { must, must_not: [{ has_id: [point.id] }] },
+    filter: { must, must_not },
     limit: 5,
     with_payload: true,
   });
