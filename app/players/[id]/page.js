@@ -8,6 +8,7 @@ import DataTable from '@/components/DataTable';
 import PlayerCharts from '@/components/PlayerCharts';
 import SimilarPlayers from '@/components/SimilarPlayers';
 import FollowButton from '@/components/FollowButton';
+import Info from '@/components/Info';
 
 export const dynamic = 'force-dynamic';
 
@@ -98,7 +99,10 @@ export default async function PlayerPage({ params }) {
 
       <div className="grid cols-2 section">
         <div className="card">
-          <h2>CUSUM alerts</h2>
+          <h2>CUSUM alerts<Info>
+            <p>An alert means this stat has been running below (decline) or above (improve) the player's <i>own</i> normal for a sustained stretch, not just one map.</p>
+            <p><b>cusum</b> = the running total when it fired (the threshold is 5). <b>context</b> = a roster move or role change shortly before. <b>status</b>: open = not reviewed yet.</p>
+          </Info></h2>
           <DataTable rows={alertRows.map(({ metric_code: _c, rn, ...a }) => ({ ...a, map_no: rn }))}
             columns={['metric', 'direction', 'cusum', 'context', 'status', 'tournament', 'map_no']}
             empty="No alerts for this player." />

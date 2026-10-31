@@ -1,4 +1,4 @@
-// GET /api/alerts?status=open&direction=decline&context=&q=  (moderator, admin)
+// GET /api/alerts?status=open&direction=decline&context=&q=&year=2025  (moderator, admin)
 import { query, toNumbers } from '@/lib/db';
 import { requireRole, forbidden } from '@/lib/auth';
 
@@ -13,6 +13,7 @@ export async function GET(req) {
   if (sp.get('context') === 'none') where.push('context IS NULL');
   else if (sp.get('context')) add('context = ?', sp.get('context'));
   if (sp.get('q')) add('player ILIKE ?', `%${sp.get('q')}%`);
+  if (Number.isInteger(Number(sp.get('year'))) && sp.get('year')) add('year = ?', Number(sp.get('year')));
 
   const { rows } = await query(`
     SELECT alert_id, player_id, player, metric, direction, ROUND(cusum_value, 2) AS cusum, context,
